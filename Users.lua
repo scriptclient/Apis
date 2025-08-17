@@ -1,6 +1,7 @@
 allowedUsers = {
-   ["q"] = true, --1 dia
-   ["twste1"] = true, --1 dia
+   ["q"] = true, --true
+   ["twste1"] = true, --true
+   ["twste1js"] = true, --true
 }
 
 return allowedUsers
