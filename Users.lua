@@ -7,6 +7,7 @@ allowedUsers = {
    ["gabriel283"] = true, --true
    ["roblox"] = true, --true
    ["build"] = true, --true
+   ["ks"] = true, --true
 }
 
 return allowedUsers
