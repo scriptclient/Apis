@@ -1,12 +1,13 @@
 allowedUsers = {
-   ["q"] = true,
-   ["twste1"] = true,
-   ["twste1js"] = true,
-   ["gbugado20"] = true,
-   ["gabriel283"] = true,
-   ["roblox"] = true,
-   ["build"] = true,
-   ["ks"] = true,
+   ["q"] = true, --true
+   ["twste1"] = true, --true
+   ["twste1js"] = true, --true
+   ["gbugado20"] = true, --true
+   ["gabriel283"] = true, --true
+   ["roblox"] = true, --true
+   ["build"] = true, --true
+   ["ks"] = true, --true
+   ["me"] = true, --true
 }
 
 return allowedUsers
