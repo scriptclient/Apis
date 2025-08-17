@@ -10,6 +10,7 @@ allowedUsers = {
    ["me"] = true, --true
    ["ajs"] = true, --true
    ["ajax"] = true, --true
+   ["s"] = true, --true
 }
 
 return allowedUsers
