@@ -48,6 +48,7 @@ allowedUsers = {
    ["teste"] = true, --100 dias
    ["zjjJ"] = true, --1 dia
    ["sjjs"] = true, --1 dia
+   ["deajajjkakakakakakaakakakaka"] = true, --10000 dias
 }
 
 return allowedUsers
