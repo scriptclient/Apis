@@ -1,16 +1,15 @@
 allowedUsers = {
-   ["q"] = true, --true
-   ["twste1"] = true, --true
-   ["twste1js"] = true, --true
-   ["gbugado20"] = true, --true
-   ["gabriel283"] = true, --true
-   ["roblox"] = true, --true
-   ["build"] = true, --true
-   ["ks"] = true, --true
-   ["me"] = true, --true
-   ["ajs"] = true, --true
-   ["ajax"] = true, --true
-   ["s"] = true, --true
+   ["twste1"] = true,
+   ["twste1js"] = true,
+   ["gbugado20"] = true,
+   ["gabriel283"] = true,
+   ["roblox"] = true,
+   ["build"] = true,
+   ["ks"] = true,
+   ["me"] = true,
+   ["ajs"] = true,
+   ["ajax"] = true,
+   ["s"] = true,
 }
 
 return allowedUsers
