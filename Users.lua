@@ -1,5 +1,4 @@
 allowedUsers = {
-   ["ajs"] = true,
    ["ajax"] = true,
    ["s"] = true,
 }
