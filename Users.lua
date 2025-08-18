@@ -42,7 +42,6 @@ allowedUsers = {
    ["Migxzz15"] = true, ----24 horas
    ["óia"] = true, ----24 horas
    ["joao_6490"] = true, ----24 horas
-   ["<@1405618493638054050>"] = true, ----24 horas
 }
 
 return allowedUsers
