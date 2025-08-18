@@ -1,5 +1,4 @@
 allowedUsers = {
-   ["roblox"] = true,
    ["build"] = true,
    ["ks"] = true,
    ["me"] = true,
