@@ -1,5 +1,4 @@
 allowedUsers = {
-   ["1"] = true,
    ["73"] = true,
    ["magnusfxp"] = true,
    ["scout7ixs"] = true,
