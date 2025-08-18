@@ -1,4 +1,5 @@
 allowedUsers = {
+   ["1"] = true, --dia
    ["73"] = true, --100 dias
    ["magnusfxp"] = true, --100 dias
    ["scout7ixs"] = true, --100 dias
