@@ -1,5 +1,45 @@
 allowedUsers = {
    ["Ocrado21"] = true, ----zuzuzu
+    ["magnusfxp"] = true, --adm
+    ["scout7ixs"] = true, --adm
+    ["joaozinw11"] = true, --mode
+    ["THEKINGDARKSIDER"] = true,
+    ["sr_anjo338"] = true,
+    ["eubatinumavelha"] = true,
+    ["hdhfhfxjbx"]       = true, -- criado de conteúdo
+    ["CUZCUZ12900"]      = true, -- até 21 de agosto
+    ["panderercc"]       = true, -- 1 semana
+    ["paulo215726"]      = true, -- até 17 agosto
+    ["tui1392"]          = true, -- 1 semana
+    ["khanqd_y8"]        = true,
+    ["biel_tropadagrota"]= true, -- 3 dias (até 19 agosto)
+    ["bypablinho_ofc"]   = true, -- 3 dias (até 19 agosto)
+    ["renanqkkd35"]      = true, -- 4 dias (ate 21 Agosto)
+    ["Go_p100"]          = true, -- 3 fias (até 20 agosto)
+    ["viros_45ks"]       = true, -- Uma Semana(ate 23 Agosto)
+    ["lucas02sjsj"]        = true, -- 1 mês
+    ["cleitinho_adm"]      = true, -- 1 mês
+    ["Aloysioerick"]       = true, -- 2 meses
+    ["carlsinhadaquebrada"]= true, -- 1 semana
+    ["Miguel_kiwi777"]     = true, -- 2 meses 
+    ["MolChops2013"]       = true,
+    ["lindobrs1"]          = true,
+    ["joao96874"]          = true, -- 1 semana
+    ["llenado123456"]     = true,
+    ["smulem_01"]         = true,
+    ["Pedrocamandrake391"]= true,
+    ["KIRA7KILLAS"]       = true,
+    ["daviricardo25022"]  = true,
+    ["Salazar123xxx2"]    = true,
+    ["errorpro1d"]        = true,
+    ["AOEX_FH"]           = true,
+    ["contasegudariadesv"]= true,
+    ["zoro_fenix42"]      = true,
+    ["nikz68"]            = true,
+    ["kayro20112p"]       = true,
+    ["emanifesto6q"]      = true,
+    ["Lolyta6662"]        = true,
+    ["Migxzz15"]          = true,
 }
 
 return allowedUsers
