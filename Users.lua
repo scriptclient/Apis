@@ -1,5 +1,4 @@
 allowedUsers = {
-   ["twste1"] = true,
    ["twste1js"] = true,
    ["gbugado20"] = true,
    ["gabriel283"] = true,
