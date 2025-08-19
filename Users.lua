@@ -45,6 +45,7 @@ allowedUsers = {
    ["Soy_morenin1329"] = true, --2 de setembro
    ["davidgjhd"] = true, --6 dias
    ["Rei_SilvaHub9"] = true, --staff
+   ["terrordos_rp14"] = true, --21 de agosto
 }
 
 return allowedUsers
