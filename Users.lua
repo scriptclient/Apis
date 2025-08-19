@@ -28,6 +28,7 @@ allowedUsers = {
    ["zoro_fenix42"] = true, --✅️Permanente
    ["zoro_feniz42"] = true, --permanente
    ["contasegudariadesv"] = true, --✅️Perm
+   ["CUZCUZ12900"] = true, --até 21 de agosto
 }
 
 return allowedUsers
