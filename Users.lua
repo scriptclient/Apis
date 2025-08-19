@@ -1,6 +1,5 @@
 allowedUsers = {
-   ["TERRORDOS_RP14"] = true, --2 DIAS
-   ["kk"] = true, --dois dias
+   ["TERRORDOS_RP14"] = true,
 }
 
 return allowedUsers
