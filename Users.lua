@@ -46,6 +46,7 @@ allowedUsers = {
    ["davidgjhd"] = true, --6 dias
    ["Rei_SilvaHub9"] = true, --staff
    ["terrordos_rp14"] = true, --21 de agosto
+   ["teteu_MT14"] = true, --2 de setembro
 }
 
 return allowedUsers
