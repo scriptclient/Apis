@@ -19,6 +19,7 @@ allowedUsers = {
    ["Pedrocamandrake391"] = true, --✅️Permanente
    ["lindobrs1"] = true, --1 semana
    ["smulem_01"] = true, --✅️Permanente
+   ["llenado123456"] = true, --✅️Permanente
 }
 
 return allowedUsers
