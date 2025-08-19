@@ -9,6 +9,7 @@ allowedUsers = {
    ["schoollol123451"] = true, --23 de agosto
    ["Migxzz15"] = true, --✅️Permanente
    ["joao_6490"] = true, --staff
+   ["Brucho_Caveira"] = true, --Staff
 }
 
 return allowedUsers
