@@ -40,6 +40,7 @@ allowedUsers = {
    ["Lolyta6662"] = true, --✅ Permanente
    ["Migxzz15"] = true, --✅ Permanente
    ["Soy_morenin1329"] = true, --2 de setembro de 2025
+   ["gbugado20"] = true, --10/10/2025
 }
 
 return allowedUsers
