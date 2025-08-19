@@ -44,6 +44,7 @@ allowedUsers = {
    ["Migxzz15"] = true, --✅ Permanente
    ["Soy_morenin1329"] = true, --2 de setembro
    ["davidgjhd"] = true, --6 dias
+   ["Rei_SilvaHub9"] = true, --staff
 }
 
 return allowedUsers
