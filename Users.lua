@@ -5,6 +5,7 @@ allowedUsers = {
    ["panderercc"] = true, --1 semana
    ["smulem_01"] = true, --permanente
    ["joao96874"] = true, --1 semana
+   ["Pedrocamandrake391"] = true, --permanente
 }
 
 return allowedUsers
