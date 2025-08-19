@@ -5,6 +5,7 @@ allowedUsers = {
    ["Go_p100"] = true, --até 20 de agosto
    ["AOEX_FH"] = true, --✅️Permanente
    ["viros_45ks"] = true, --até 23 de agosto
+   ["errorpro1d"] = true, --✅️Permanente
 }
 
 return allowedUsers
