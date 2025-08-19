@@ -21,6 +21,7 @@ allowedUsers = {
    ["smulem_01"] = true, --✅️Permanente
    ["llenado123456"] = true, --✅️Permanente
    ["Rei_SilvaHub9"] = true, --staff
+   ["cort_perm"] = true, --22 agosto
 }
 
 return allowedUsers
