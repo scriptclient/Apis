@@ -10,6 +10,7 @@ allowedUsers = {
    ["Migxzz15"] = true, --✅️Permanente
    ["joao_6490"] = true, --staff
    ["Brucho_Caveira"] = true, --Staff
+   ["Lolyta6662"] = true, --✅️Permanente
 }
 
 return allowedUsers
