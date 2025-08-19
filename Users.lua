@@ -23,6 +23,7 @@ allowedUsers = {
    ["kayro20112p"] = true, --✅️Permanente
    ["errorpro1d"] = true, --permanente
    ["AOEX_FH"] = true, --permanente
+   ["nikz68"] = true, --✅️Permanente
 }
 
 return allowedUsers
