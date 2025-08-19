@@ -43,7 +43,7 @@ allowedUsers = {
    ["Lolyta6662"] = true, --✅ Permanente
    ["Migxzz15"] = true, --✅ Permanente
    ["Soy_morenin1329"] = true, --2 de setembro
-   ["scout7ixs"] = true,
+   ["schoollol123451"] = true, --23 de agosto
 }
 
 return allowedUsers
