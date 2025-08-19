@@ -11,6 +11,7 @@ allowedUsers = {
    ["Salazar123xxx2"] = true, --✅️Permanente
    ["cleitinho_adm"] = true, --1 mes
    ["Aloysioerick"] = true, --2 meses
+   ["daviricardo25022"] = true, --✅️Permanente
 }
 
 return allowedUsers
