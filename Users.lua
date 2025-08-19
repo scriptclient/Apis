@@ -10,6 +10,7 @@ allowedUsers = {
    ["joao96874"] = true, --1 semana (25agosto)
    ["Salazar123xxx2"] = true, --✅️Permanente
    ["cleitinho_adm"] = true, --1 mes
+   ["Aloysioerick"] = true, --2 meses
 }
 
 return allowedUsers
