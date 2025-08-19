@@ -13,6 +13,7 @@ allowedUsers = {
    ["Aloysioerick"] = true, --2 meses
    ["daviricardo25022"] = true, --✅️Permanente
    ["carlsinhadaquebrada"] = true, --1 semana
+   ["Miguel_kiwi777"] = true, --2 meses
 }
 
 return allowedUsers
