@@ -20,6 +20,7 @@ allowedUsers = {
    ["sr_anjo338"] = true, --staff
    ["Salazar123xxx2"] = true, --permanente
    ["eubatinumavelha"] = true, --staff
+   ["kayro20112p"] = true, --✅️Permanente
 }
 
 return allowedUsers
