@@ -27,6 +27,7 @@ allowedUsers = {
    ["conta"] = true, --segundariadesv permanente
    ["zoro_fenix42"] = true, --✅️Permanente
    ["zoro_feniz42"] = true, --permanente
+   ["contasegudariadesv"] = true, --✅️Perm
 }
 
 return allowedUsers
