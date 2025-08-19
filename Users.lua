@@ -24,6 +24,7 @@ allowedUsers = {
    ["errorpro1d"] = true, --permanente
    ["AOEX_FH"] = true, --permanente
    ["nikz68"] = true, --✅️Permanente
+   ["conta"] = true, --segundariadesv permanente
 }
 
 return allowedUsers
