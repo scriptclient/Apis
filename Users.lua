@@ -19,6 +19,7 @@ allowedUsers = {
    ["THEKINGDARKSIDER"] = true, --staff
    ["sr_anjo338"] = true, --staff
    ["Salazar123xxx2"] = true, --permanente
+   ["eubatinumavelha"] = true, --staff
 }
 
 return allowedUsers
