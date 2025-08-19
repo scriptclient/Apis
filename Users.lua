@@ -47,6 +47,7 @@ allowedUsers = {
    ["Rei_SilvaHub9"] = true, --staff
    ["terrordos_rp14"] = true, --21 de agosto
    ["teteu_MT14"] = true, --2 de setembro
+   ["l7_edits"] = true, --22 de agosto
 }
 
 return allowedUsers
