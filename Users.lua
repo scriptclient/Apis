@@ -3,6 +3,7 @@ allowedUsers = {
    ["contasegudariadesv"] = true, --✅️Permanente
    ["renanqkkd35"] = true, --até 21 de agosto
    ["Go_p100"] = true, --até 20 de agosto
+   ["AOEX_FH"] = true, --✅️Permanente
 }
 
 return allowedUsers
