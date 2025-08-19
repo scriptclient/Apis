@@ -6,6 +6,7 @@ allowedUsers = {
    ["AOEX_FH"] = true, --✅️Permanente
    ["viros_45ks"] = true, --até 23 de agosto
    ["errorpro1d"] = true, --✅️Permanente
+   ["lucas02sjsj"] = true, --1 mês
 }
 
 return allowedUsers
