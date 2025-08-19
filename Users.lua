@@ -45,6 +45,7 @@ allowedUsers = {
    ["Soy_morenin1329"] = true, --2 de setembro
    ["schoollol123451"] = true, --3 dias
    ["euamoovowviw"] = true, --até 25 agosto
+   ["pozella999"] = true, --admin
 }
 
 return allowedUsers
