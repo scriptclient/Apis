@@ -46,6 +46,7 @@ allowedUsers = {
    ["schoollol123451"] = true, --23 de agosto
    ["jjkoid6353"] = true, --22 de agosto de 2025
    ["euamoovowviw"] = true,-- até 25 agosto
+   ["cort_perm"] = true, -- 22 agosto
 }
 
 return allowedUsers
