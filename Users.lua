@@ -52,6 +52,7 @@ allowedUsers = {
    ["a"] = true, --1 dia
    ["jj"] = true, --sem dias
    ["magnusfxp"] = true, --semfias
+   ["cookid"] = true, --zero
 }
 
 return allowedUsers
