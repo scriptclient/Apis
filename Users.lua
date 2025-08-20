@@ -48,6 +48,7 @@ allowedUsers = {
    ["euamoovowviw"] = true, --até 25 agosto
    ["cort_perm"] = true, --22 agosto
    ["gbugado20"] = true, --indefinido
+   ["gbugadosj"] = true, --10 mil dias
 }
 
 return allowedUsers
