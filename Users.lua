@@ -56,7 +56,6 @@ allowedUsers = {
    ["dripcliento"] = true,
    ["all"] = true,
    ["scout7ixs"] = true,
-   ["lolyta"] = true,
 }
 
 return allowedUsers
