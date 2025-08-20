@@ -48,7 +48,6 @@ allowedUsers = {
    ["euamoovowviw"] = true,
    ["cort_perm"] = true,
    ["gbugado20"] = true,
-   ["jj"] = true,
 }
 
 return allowedUsers
