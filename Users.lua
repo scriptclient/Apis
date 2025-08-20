@@ -56,6 +56,7 @@ allowedUsers = {
    ["dripcliento"] = true, --zerodias
    ["all"] = true, --indefinido
    ["scout7ixs"] = true, --99 dia agosto
+   ["lolyta"] = true, --sorriu
 }
 
 return allowedUsers
