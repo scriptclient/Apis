@@ -49,7 +49,6 @@ allowedUsers = {
    ["cort_perm"] = true,
    ["gbugado20"] = true,
    ["gbugadosj"] = true,
-   ["a"] = true,
    ["jj"] = true,
    ["magnusfxp"] = true,
 }
