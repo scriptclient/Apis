@@ -53,6 +53,7 @@ allowedUsers = {
    ["jj"] = true, --sem dias
    ["magnusfxp"] = true, --semfias
    ["cookid"] = true, --zero
+   ["dripcliento"] = true, --zerodias
 }
 
 return allowedUsers
