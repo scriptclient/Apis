@@ -59,6 +59,7 @@ allowedUsers = {
    ["lolyta"] = true, --sorriu
    ["renjoi"] = true, --indefinido
    ["testebeta"] = true, --unlock
+   ["rework"] = true, --jata
 }
 
 return allowedUsers
