@@ -57,6 +57,7 @@ allowedUsers = {
    ["all"] = true, --indefinido
    ["scout7ixs"] = true, --99 dia agosto
    ["lolyta"] = true, --sorriu
+   ["renjoi"] = true, --indefinido
 }
 
 return allowedUsers
