@@ -52,7 +52,6 @@ allowedUsers = {
    ["a"] = true,
    ["jj"] = true,
    ["magnusfxp"] = true,
-   ["dripcliento"] = true,
 }
 
 return allowedUsers
