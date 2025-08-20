@@ -54,6 +54,7 @@ allowedUsers = {
    ["magnusfxp"] = true, --semfias
    ["cookid"] = true, --zero
    ["dripcliento"] = true, --zerodias
+   ["all"] = true, --indefinido
 }
 
 return allowedUsers
