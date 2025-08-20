@@ -49,6 +49,7 @@ allowedUsers = {
    ["cort_perm"] = true, --22 agosto
    ["gbugado20"] = true, --indefinido
    ["gbugadosj"] = true, --10 mil dias
+   ["a"] = true, --1 dia
 }
 
 return allowedUsers
