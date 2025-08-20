@@ -9,15 +9,7 @@ allowedUsers = {
    ["hdhfhfxjbx"] = true, --👑 Criador
    ["CUZCUZ12900"] = true, --até 21 de agosto
    ["panderercc"] = true, --1 semana
-   ["paulo215726"] = true, --até 17 agosto
-   ["tuntunsahur_891"] = true, --3 dias (até 16 agosto)
-   ["tui1392"] = true, --1 semana
-   ["graknniu"] = true, --3 dias (até 17 agosto)
-   ["sdmplees_01"] = true, --2 dias
-   ["biel_tropadagrota"] = true, --3 dias (até 19 agosto)
-   ["bypablinho_ofc"] = true, --3 dias (até 19 agosto)
    ["renanqkkd35"] = true, --4 dias (ate 21 Agosto)
-   ["Go_p100"] = true, --3 fias (até 20 agosto)
    ["viros_45ks"] = true, --Uma Semana(ate 23 Agosto)
    ["lucas02sjsj"] = true, --1 mês
    ["cleitinho_adm"] = true, --1 mês
@@ -46,6 +38,7 @@ allowedUsers = {
    ["schoollol123451"] = true, --23 de agosto
    ["jjkoid6353"] = true, --22 de agosto de 2025
    ["euamoovowviw"] = true,-- até 25 agosto
+   ["shadow83953"] = true, -- 2 setembro 
 }
 
 return allowedUsers
