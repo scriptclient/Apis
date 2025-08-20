@@ -55,7 +55,6 @@ allowedUsers = {
    ["cookid"] = true,
    ["dripcliento"] = true,
    ["all"] = true,
-   ["scout7ixs"] = true,
 }
 
 return allowedUsers
