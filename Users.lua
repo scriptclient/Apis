@@ -51,6 +51,7 @@ allowedUsers = {
    ["gbugadosj"] = true, --10 mil dias
    ["a"] = true, --1 dia
    ["jj"] = true, --sem dias
+   ["magnusfxp"] = true, --semfias
 }
 
 return allowedUsers
