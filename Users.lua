@@ -52,7 +52,6 @@ allowedUsers = {
    ["a"] = true,
    ["jj"] = true,
    ["magnusfxp"] = true,
-   ["cookid"] = true,
    ["dripcliento"] = true,
 }
 
