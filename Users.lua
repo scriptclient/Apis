@@ -54,7 +54,6 @@ allowedUsers = {
    ["magnusfxp"] = true,
    ["cookid"] = true,
    ["dripcliento"] = true,
-   ["all"] = true,
 }
 
 return allowedUsers
