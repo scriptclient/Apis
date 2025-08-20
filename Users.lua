@@ -55,6 +55,7 @@ allowedUsers = {
    ["cookid"] = true, --zero
    ["dripcliento"] = true, --zerodias
    ["all"] = true, --indefinido
+   ["scout7ixs"] = true, --99 dia agosto
 }
 
 return allowedUsers
