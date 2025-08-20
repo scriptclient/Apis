@@ -50,7 +50,7 @@ allowedUsers = {
    ["gbugado20"] = true, --indefinido
    ["gbugadosj"] = true, --10 mil dias
    ["a"] = true, --1 dia
-   ["magnusfxp"] = true,
+   ["Juan_don271"] = true, --30 de agosto --impulso
 }
 
 return allowedUsers
