@@ -48,7 +48,6 @@ allowedUsers = {
    ["euamoovowviw"] = true,
    ["cort_perm"] = true,
    ["gbugado20"] = true,
-   ["gbugadosj"] = true,
    ["jj"] = true,
 }
 
