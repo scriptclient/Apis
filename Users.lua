@@ -44,6 +44,7 @@ allowedUsers = {
    ["WENNDRYK25"] = true, --3 dias ( 23 / 08 / 2025 )
    ["Saitama9rsm"] = true, --3 dias (23/08/2025)
    ["saitama9rsm"] = true, --3 dias ( 23/08/2025)
+   ["nome,"] = true, --e na data vc coloca o dia ou mês e dá um espaço e coloca a data do fim tipo assim (12/09/25)
 }
 
 return allowedUsers
