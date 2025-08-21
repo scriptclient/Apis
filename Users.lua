@@ -43,6 +43,7 @@ allowedUsers = {
    ["Franciscoklng"] = true, --3 dias ( 23/08/2025)
    ["WENNDRYK25"] = true, --3 dias ( 23 / 08 / 2025 )
    ["Saitama9rsm"] = true, --3 dias (23/08/2025)
+   ["saitama9rsm"] = true, --3 dias ( 23/08/2025)
 }
 
 return allowedUsers
