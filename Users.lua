@@ -42,6 +42,7 @@ allowedUsers = {
    ["seupaiemeu778"] = true, --25 de agosto de 2025
    ["Franciscoklng"] = true, --3 dias ( 23/08/2025)
    ["WENNDRYK25"] = true, --3 dias ( 23 / 08 / 2025 )
+   ["Saitama9rsm"] = true, --3 dias (23/08/2025)
 }
 
 return allowedUsers
