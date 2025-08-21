@@ -40,6 +40,7 @@ allowedUsers = {
    ["euamoovowviw"] = true,-- até 25 agosto
    ["shadow83953"] = true, -- 2 setembro 
    ["magnusfxp"] = true,
+   ["scout7ixs"] = true,
 }
 
 return allowedUsers
