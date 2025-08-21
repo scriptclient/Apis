@@ -1,5 +1,5 @@
 allowedUsers = {
-      ["joao_6490"] = true, --staff
+   ["joao_6490"] = true, --staff
    ["Brucho_Caveira"] = true, --staff
    ["MiguelReiDelas018"] = true, --staff
    ["joaozinw11"] = true, --Staff
@@ -40,6 +40,7 @@ allowedUsers = {
    ["euamoovowviw"] = true, --até 25 agosto
    ["shadow83953"] = true, --2 setembro
    ["sparta9842"] = true, --permanente
+   ["vivi18197"] = true, --3dias (24/08/2025)
 }
 
 return allowedUsers
