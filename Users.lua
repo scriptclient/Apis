@@ -37,10 +37,9 @@ allowedUsers = {
    ["Soy_morenin1329"] = true, --2 de setembro
    ["schoollol123451"] = true, --23 de agosto
    ["jjkoid6353"] = true, --22 de agosto de 2025
-   ["euamoovowviw"] = true,-- até 25 agosto
-   ["shadow83953"] = true, -- 2 setembro 
-   ["magnusfxp"] = true,
-   ["scout7ixs"] = true,
+   ["euamoovowviw"] = true, --até 25 agosto
+   ["shadow83953"] = true, --2 setembro
+   ["seupaiemeu778"] = true, --25 de agosto de 2025
 }
 
 return allowedUsers
