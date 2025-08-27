@@ -42,7 +42,8 @@ allowedUsers = {
    ["sparta9842"] = true, --permanente
    ["vivi18197"] = true, --3dias (24/08/2025)
    ["magnusfxp"] = true, --três dias
-   ["ryuk6_."] = true, -- três dias
+   ["ryuk6_."] = true, --três dias
+   ["immaculate_possum_11874"] = true, --de 27/08 daqui a 4 meses
 }
 
 return allowedUsers
