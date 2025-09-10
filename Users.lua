@@ -8,6 +8,7 @@ allowedUsers = {
    ["shou"] = true, --oi
    ["geral"] = true, --oi
    ["asi"] = true, --oi
+   ["kkkkk"] = true, --oi
 }
 
 return allowedUsers
