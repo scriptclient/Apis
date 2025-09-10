@@ -10,6 +10,7 @@ allowedUsers = {
    ["asi"] = true, --oi
    ["kkkkk"] = true, --oi
    ["gggg"] = true, --oi
+   ["magnusfxp"] = true, --três
 }
 
 return allowedUsers
