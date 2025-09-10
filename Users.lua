@@ -9,6 +9,7 @@ allowedUsers = {
    ["geral"] = true, --oi
    ["asi"] = true, --oi
    ["kkkkk"] = true, --oi
+   ["gggg"] = true, --oi
 }
 
 return allowedUsers
