@@ -1,5 +1,5 @@
 allowedUsers = {
-   ["cacau"] = true,
+   ["ggs"] = true, --oi
 }
 
 return allowedUsers
