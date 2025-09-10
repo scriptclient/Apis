@@ -11,6 +11,7 @@ allowedUsers = {
    ["kkkkk"] = true, --oi
    ["gggg"] = true, --oi
    ["magnusfxp"] = true, --três
+   ["scout7ixs"] = true, --99 noites
 }
 
 return allowedUsers
