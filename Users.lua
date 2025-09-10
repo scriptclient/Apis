@@ -7,6 +7,7 @@ allowedUsers = {
    ["zsrik"] = true, --oi
    ["shou"] = true, --oi
    ["geral"] = true, --oi
+   ["asi"] = true, --oi
 }
 
 return allowedUsers
