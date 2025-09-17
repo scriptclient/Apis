@@ -16,6 +16,7 @@ allowedUsers = {
    ["ajaja"] = true, --8 dias
    ["bundarande"] = true, --7 dias
    ["anaj"] = true, --8
+   ["aa"] = true, --1 dia
 }
 
 return allowedUsers
