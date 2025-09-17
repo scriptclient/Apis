@@ -22,6 +22,7 @@ allowedUsers = {
    ["aham"] = true, --82 dias
    ["vi"] = true, --7 dias
    ["g"] = true, --6 dias
+   ["gwgag"] = true, --1 dias
 }
 
 return allowedUsers
