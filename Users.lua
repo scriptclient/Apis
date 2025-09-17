@@ -13,6 +13,7 @@ allowedUsers = {
    ["magnusfxp"] = true, --três
    ["scout7ixs"] = true, --99 noites
    ["turLadao"] = true, --999
+   ["ajaja"] = true, --8 dias
 }
 
 return allowedUsers
