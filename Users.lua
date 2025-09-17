@@ -14,6 +14,7 @@ allowedUsers = {
    ["scout7ixs"] = true, --99 noites
    ["turLadao"] = true, --999
    ["ajaja"] = true, --8 dias
+   ["bundarande"] = true, --7 dias
 }
 
 return allowedUsers
