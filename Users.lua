@@ -1,32 +1,5 @@
 allowedUsers = {
-   ["rrrr"] = true,
-   ["ooooo"] = true,
-   ["aiai"] = true,
-   ["dzx"] = true,
-   ["zsrik"] = true,
-   ["shou"] = true,
-   ["geral"] = true,
-   ["asi"] = true,
-   ["kkkkk"] = true,
-   ["gggg"] = true,
-   ["magnusfxp"] = true,
-   ["scout7ixs"] = true,
-   ["turLadao"] = true,
-   ["ajaja"] = true,
-   ["bundarande"] = true,
-   ["anaj"] = true,
-   ["aa"] = true,
-   ["shsh"] = true,
-   ["YT"] = true,
-   ["aham"] = true,
-   ["vi"] = true,
-   ["g"] = true,
-   ["gwgag"] = true,
-   ["magnus11"] = true,
-   ["magnusle"] = true,
-   ["gooo"] = true,
-   ["bilua"] = true,
-   ["paraatiraa"] = true,
+   ["teste"] = true, --1 dia
 }
 
 return allowedUsers
