@@ -20,6 +20,7 @@ allowedUsers = {
    ["shsh"] = true, --1 dias
    ["YT"] = true, --1 dia
    ["aham"] = true, --82 dias
+   ["vi"] = true, --7 dias
 }
 
 return allowedUsers
