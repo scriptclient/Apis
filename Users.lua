@@ -24,6 +24,7 @@ allowedUsers = {
    ["g"] = true, --6 dias
    ["gwgag"] = true, --1 dias
    ["magnus11"] = true, --8282 dias
+   ["magnusle"] = true, --5 dia
 }
 
 return allowedUsers
