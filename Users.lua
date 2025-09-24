@@ -1,6 +1,6 @@
 allowedUsers = {
    ["GabrielDaTi203"] = true, --até 20/3
-10/2030
+   ["gagadabri82"] = true, --até 30/10/2099
 }
 
 return allowedUsers
