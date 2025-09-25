@@ -3,6 +3,7 @@ allowedUsers = {
    ["gagadabri82"] = true, --até 30/10/2099
    ["scout7ixs"] = true, --indefinido
    ["scout7ix"] = true, --indefinido
+   ["teste"] = true, --até 1 dia
 }
 
 return allowedUsers
