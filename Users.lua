@@ -1,4 +1,4 @@
-allowedUsers = {    ["teste"] = true,   --Tempo: oloko
+allowedUsers = {    ["teste"] = true,   --Tempo: sempre
     ["scout7ixs"] = true,   --Tempo: aiai,
     ["tes"] = true,   --Tempo: oioi,
     ["gera"] = true,   --Tempo: hoje,
