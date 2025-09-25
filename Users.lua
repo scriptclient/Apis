@@ -1,5 +1,6 @@
 allowedUsers = {
-    ["teste"] = true,   --Tempo: oioi
+    ["teste"] = true,   --Tempo: oioi,
+    ["scout7ixs"] = true,   --Tempo: aiai
 
 }
 
