@@ -8,6 +8,7 @@ allowedUsers = {
    ["s"] = true, --indefinido
    ["b"] = true, --indefinido
    ["k"] = true, --indefinido
+   ["ga"] = true, --indefinido
 }
 
 return allowedUsers
