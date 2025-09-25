@@ -4,7 +4,6 @@ allowedUsers = {
    ["a"] = true, --indefinido
    ["s"] = true, --indefinido
    ["b"] = true, --indefinido
-   ["ga"] = true, --indefinido
 }
 
 return allowedUsers
