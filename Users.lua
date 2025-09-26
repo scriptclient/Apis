@@ -1,5 +1,4 @@
 allowedUsers = {
-    ["levono"] = true,   --Tempo: 90
     
 }
 
