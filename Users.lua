@@ -5,3 +5,4 @@ allowedUsers = {
 }
 
 return allowedUsers
+ -- ESSE AQUI DA ACESSO AO PAINEL PELO BOT
