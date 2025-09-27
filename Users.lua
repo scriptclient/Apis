@@ -1,4 +1,4 @@
---------/// ADD - PERM - ADMIN ///---------
+--------/// bot add ///---------
 allowedUsers = {
 }
 
