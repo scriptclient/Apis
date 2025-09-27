@@ -1,5 +1,6 @@
 allowedUsers = {
     ["scout7ixs"] = true,   --Tempo: permanente,
+    ["SCOUT8IXS"] = true,   --Tempo: 09/ 09/
 
     
 }
