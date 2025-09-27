@@ -1,7 +1,5 @@
 allowedUsers = {
     ["scout7ixs"] = true,   --Tempo: 09/10 09/12
-
-
 }
 
 return allowedUsers
