@@ -1,4 +1,4 @@
-------/// NICKS - CUSTOM ///------
+------/// NICKS - PERSON ///------
 return {
  
 }
