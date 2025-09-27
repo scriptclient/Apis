@@ -1,5 +1,4 @@
 allowedUsers = {
-    ["diablogames109"] = true,   --Tempo: teste
 
 }
 
