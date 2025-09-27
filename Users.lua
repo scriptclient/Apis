@@ -1,4 +1,6 @@
 allowedUsers = {
+    ["akimanachamana"] = true,   --Tempo: teste
+
 
 }
 
