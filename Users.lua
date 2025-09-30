@@ -8,7 +8,6 @@ allowedUsers = {
     ["naosou_shscript"] = true,   --Tempo: 30/11,
     ["John_blox728"] = true,   --Tempo: teste,
     ["ttyyryjuh"] = true,   --Tempo: 06/10,
-    ["Robsn1997"] = true,   --Tempo: teste
 
 }
 
