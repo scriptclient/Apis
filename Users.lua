@@ -6,7 +6,8 @@ allowedUsers = {
     ["scout7ixs"] = true,   --Tempo: 90,
     ["tsunami24866"] = true,   --Tempo: 02/10,
     ["naosou_shscript"] = true,   --Tempo: 30/11,
-    ["John_blox728"] = true,   --Tempo: teste
+    ["John_blox728"] = true,   --Tempo: teste,
+    ["021_vtnn"] = true,   --Tempo: permanente
 
 }
 
