@@ -19,7 +19,8 @@ allowedUsers = {
     ["SouNubDm5"] = true,   --Tempo: 02/02,
     ["Kauwh14"] = true,   --Tempo: 05/10,
     ["Bakugo_Master4"] = true,   --Tempo: 05/10,
-    ["antoni_zznk"] = true,   --Tempo: 05/10
+    ["antoni_zznk"] = true,   --Tempo: 05/10,
+    ["brenardao9"] = true,   --Tempo: perm
 
 }
 
