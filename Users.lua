@@ -3,7 +3,6 @@ allowedUsers = {
     ["ty4buys58932"] = true,   --Tempo: staff,
     ["RonnieOsborne341"] = true,   --Tempo: 9/11,
     ["scout7ixs"] = true,   --Tempo: 90,
-    ["tsunami24866"] = true,   --Tempo: 02/10,
     ["naosou_shscript"] = true,   --Tempo: 30/11,
     ["ttyyryjuh"] = true,   --Tempo: 06/10,
     ["serveston"] = true,   --Tempo: 30/10,
