@@ -16,7 +16,8 @@ allowedUsers = {
     ["miguelzada002"] = true,   --Tempo: até 01/11,
     ["brunoeduardo87"] = true,   --Tempo: até 01/11,
     ["pn0jOZS9"] = true,   --Tempo: 09/10,
-    ["SouNubDm5"] = true,   --Tempo: 02/02
+    ["SouNubDm5"] = true,   --Tempo: 02/02,
+    ["Kauwh14"] = true,   --Tempo: 05/10
 
 }
 
