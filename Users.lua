@@ -10,7 +10,8 @@ allowedUsers = {
     ["rafa123wx8"] = true,   --Tempo: 4/10,
     ["itiz_rei0"] = true,   --Tempo: 03/10,
     ["coquetteadmintest"] = true,   --Tempo: até 04/10,
-    ["DAVI1235825"] = true,   --Tempo: 4/10
+    ["DAVI1235825"] = true,   --Tempo: 4/10,
+    ["ywb1n2m1mjqj"] = true,   --Tempo: até 04/10
 
 }
 
