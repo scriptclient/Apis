@@ -22,7 +22,8 @@ allowedUsers = {
     ["brenardao9"] = true,   --Tempo: perm,
     ["wisuhwheueyehdydyd"] = true,   --Tempo: 02/03,
     ["morangodoamor_311"] = true,   --Tempo: 07/10,
-    ["caparezzaontop"] = true,   --Tempo: 10/10
+    ["caparezzaontop"] = true,   --Tempo: 10/10,
+    ["alsjjsjanansnj"] = true,   --Tempo: 03/11
 
 }
 
