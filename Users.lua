@@ -28,7 +28,8 @@ allowedUsers = {
     ["Flhiz_bug"] = true,   --Tempo: permanente,
     ["tpxgojo"] = true,   --Tempo: 06/10,
     ["Davi_gosto0q"] = true,   --Tempo: 10/10,
-    ["meme7xati"] = true,   --Tempo: 03/01
+    ["meme7xati"] = true,   --Tempo: 03/01,
+    ["Wellingtonhig"] = true,   --Tempo: 06/10
 
 }
 
