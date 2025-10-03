@@ -30,7 +30,8 @@ allowedUsers = {
     ["meme7xati"] = true,   --Tempo: 03/01,
     ["Wellingtonhig"] = true,   --Tempo: 06/10,
     ["ChaRada519"] = true,   --Tempo: permanente,
-    ["god_hack750"] = true,   --Tempo: até 03/12
+    ["god_hack750"] = true,   --Tempo: até 03/12,
+    ["uisol22"] = true,   --Tempo: 10/10
 
 }
 
