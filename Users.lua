@@ -29,7 +29,8 @@ allowedUsers = {
     ["Davi_gosto0q"] = true,   --Tempo: 10/10,
     ["meme7xati"] = true,   --Tempo: 03/01,
     ["Wellingtonhig"] = true,   --Tempo: 06/10,
-    ["ChaRada519"] = true,   --Tempo: permanente
+    ["ChaRada519"] = true,   --Tempo: permanente,
+    ["god_hack750"] = true,   --Tempo: até 03/12
 
 }
 
