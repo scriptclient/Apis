@@ -31,7 +31,8 @@ allowedUsers = {
     ["Wellingtonhig"] = true,   --Tempo: 06/10,
     ["ChaRada519"] = true,   --Tempo: permanente,
     ["god_hack750"] = true,   --Tempo: até 03/12,
-    ["uisol22"] = true,   --Tempo: 10/10
+    ["uisol22"] = true,   --Tempo: 10/10,
+    ["6666I666I66666I"] = true,   --Tempo: 06/10
 
 }
 
