@@ -27,7 +27,8 @@ allowedUsers = {
     ["3mk_3mk04"] = true,   --Tempo: 03/03,
     ["Flhiz_bug"] = true,   --Tempo: permanente,
     ["tpxgojo"] = true,   --Tempo: 06/10,
-    ["Davi_gosto0q"] = true,   --Tempo: 10/10
+    ["Davi_gosto0q"] = true,   --Tempo: 10/10,
+    ["meme7xati"] = true,   --Tempo: 03/01
 
 }
 
