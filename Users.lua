@@ -25,7 +25,8 @@ allowedUsers = {
     ["caparezzaontop"] = true,   --Tempo: 10/10,
     ["alsjjsjanansnj"] = true,   --Tempo: 03/11,
     ["3mk_3mk04"] = true,   --Tempo: 03/03,
-    ["Flhiz_bug"] = true,   --Tempo: permanente
+    ["Flhiz_bug"] = true,   --Tempo: permanente,
+    ["tpxgojo"] = true,   --Tempo: 06/10
 
 }
 
