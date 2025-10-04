@@ -33,7 +33,8 @@ allowedUsers = {
     ["god_hack750"] = true,   --Tempo: até 03/12,
     ["uisol22"] = true,   --Tempo: 10/10,
     ["6666I666I66666I"] = true,   --Tempo: 06/10,
-    ["victorryan200"] = true,   --Tempo: até 03/11
+    ["victorryan200"] = true,   --Tempo: até 03/11,
+    ["ikfsjjssjjs"] = true,   --Tempo: até 03/05
 
 }
 
