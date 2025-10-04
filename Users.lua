@@ -17,7 +17,8 @@ allowedUsers = {
     ["pn0jOZS9"] = true,   --Tempo: 09/10,
     ["SouNubDm5"] = true,   --Tempo: 02/02,
     ["Kauwh14"] = true,   --Tempo: 05/10,
-    ["Bakugo_Master4"] = true,   --Tempo: 05/10,    ["antoni_zznk"] = true,   --Tempo: 10/10
+    ["Bakugo_Master4"] = true,   --Tempo: 05/10,   
+    ["antoni_zznk"] = true,   --Tempo: 10/10
     ["brenardao9"] = true,   --Tempo: perm,
     ["wisuhwheueyehdydyd"] = true,   --Tempo: 02/03,
     ["morangodoamor_311"] = true,   --Tempo: 07/10,
@@ -42,7 +43,8 @@ allowedUsers = {
     ["HBT_JU7cLA0MMp"] = true,   --Tempo: 06/10,
     ["chato_1001"] = true,   --Tempo: 06/10,
     ["amhnkx"] = true,   --Tempo: 11/10,
-    ["Saliencia4_0"] = true,   --Tempo: 07/10,    ["Soleil_noir0"] = true,   --Tempo: 07/10,
+    ["Saliencia4_0"] = true,   --Tempo: 07/10,    
+    ["Soleil_noir0"] = true,   --Tempo: 07/10,
     ["Josiasgamesblox"] = true,   --Tempo: 07/10,
     ["Hacudinho2"] = true,   --Tempo: 05/10
 
