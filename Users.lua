@@ -38,7 +38,8 @@ allowedUsers = {
     ["Isaac_papaimafi"] = true,   --Tempo: 6/10,
     ["perfeitadmssss"] = true,   --Tempo: 10/10,
     ["amigosdinonaoki"] = true,   --Tempo: 6/10,
-    ["le36463"] = true,   --Tempo: 03/11
+    ["le36463"] = true,   --Tempo: 03/11,
+    ["HBT_JU7cLA0MMp"] = true,   --Tempo: 06/10
 
 }
 
