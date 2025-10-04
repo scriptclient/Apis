@@ -42,7 +42,8 @@ allowedUsers = {
     ["HBT_JU7cLA0MMp"] = true,   --Tempo: 06/10,
     ["chato_1001"] = true,   --Tempo: 06/10,
     ["amhnkx"] = true,   --Tempo: 11/10,
-    ["Saliencia4_0"] = true,   --Tempo: 07/10,    ["Soleil_noir0"] = true,   --Tempo: 07/10
+    ["Saliencia4_0"] = true,   --Tempo: 07/10,    ["Soleil_noir0"] = true,   --Tempo: 07/10,
+    ["Josiasgamesblox"] = true,   --Tempo: 07/10
 
 }
 
