@@ -46,7 +46,8 @@ allowedUsers = {
     ["Saliencia4_0"] = true,   --Tempo: 07/10,    
     ["Soleil_noir0"] = true,   --Tempo: 07/10,
     ["Josiasgamesblox"] = true,   --Tempo: 07/10,
-    ["Hacudinho2"] = true,   --Tempo: 05/10
+    ["Hacudinho2"] = true,   --Tempo: 05/10,
+    ["PAPODEMENDIGO"] = true,   --Tempo: teste
 
 }
 
