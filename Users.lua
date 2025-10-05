@@ -55,7 +55,6 @@ allowedUsers = {
     ["Itz_Mariena"] = true,   --Tempo: 05/12,
     ["Patrikhora15"] = true,   --Tempo: 08/10,
     ["lucasf_342"] = true,   --Tempo: 08/10,
-    ["v2"] = true,   -- 57° v2 -- teste -- <@1058360401210904599>
 }
 
 return allowedUsers
