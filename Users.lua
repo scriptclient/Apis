@@ -5,7 +5,6 @@ allowedUsers = {
     ["naosou_shscript"] = true,   --Tempo: 30/11,
     ["ttyyryjuh"] = true,   --Tempo: 06/10,
     ["serveston"] = true,   --Tempo: 30/10,
-    ["coquetteadmintest"] = true,   --Tempo: até 04/10,
     ["DAVI1235825"] = true,   --Tempo: 4/10,
     ["ywb1n2m1mjqj"] = true,   --Tempo: até 04/10,
     ["seupaiemeu778"] = true,   --Tempo: 09/10,
