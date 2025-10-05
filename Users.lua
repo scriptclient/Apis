@@ -47,7 +47,8 @@ allowedUsers = {
     ["UsoScriptdsOban"] = true,   --Tempo: até 10/10,
     ["Tubers_93C00lkid3"] = true,   --Tempo: até 10/10,
     ["odjsshdhhshshi8"] = true,   --Tempo: 07/10,
-    ["TESTE"] = true,   --Tempo: 03/10
+    ["TESTE"] = true,   --Tempo: 03/10,
+    ["mayconpkdemel"] = true,   --Tempo: 20/10
 
 }
 
