@@ -58,7 +58,7 @@ allowedUsers = {
     ["Novo1"] = true,   -- 57° Novo1 -- Permanente -- <@1058360401210904599>,
     ["3el887"] = true,   -- 58° 3el887 -- Permanente -- <@1415502449342677125>,
     ["jhowzzzzzzzzzzz"] = true,   -- 59° jhowzzzzzzzzzzz -- 12/10 -- <@1376599474150838293>,
-    ["MG_esquadrao"] = true,   -- 60° MG_esquadrao -- 09/10 -- <@1324502380225495077>
+    ["MG_esquadrao"] = true,   -- 60° MG_esquadrao -- 09/10 -- <@1121893001397014590>
 }
 
 return allowedUsers
