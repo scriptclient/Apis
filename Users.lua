@@ -57,7 +57,7 @@ allowedUsers = {
     ["Novo"] = true,   -- 56° Novo -- Permanente -- <@1401226694324523113>
     ["Novo1"] = true,   -- 57° Novo1 -- Permanente -- <@1058360401210904599>,
     ["3el887"] = true,   -- 58° 3el887 -- Permanente -- <@1415502449342677125>,
-    ["jhowzzzzzzzzzzz"] = true,   -- 59° jhowzzzzzzzzzzz -- 12/10 -- <@1203063938754027640>,
+    ["jhowzzzzzzzzzzz"] = true,   -- 59° jhowzzzzzzzzzzz -- 12/10 -- <@1376599474150838293>,
     ["MG_esquadrao"] = true,   -- 60° MG_esquadrao -- 09/10 -- <@1324502380225495077>
 }
 
