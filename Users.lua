@@ -50,7 +50,9 @@ allowedUsers = {
     ["TESTE"] = true,   --Tempo: 03/10,
     ["mayconpkdemel"] = true,   --Tempo: 20/10,
     ["jonatha23484"] = true,   --Tempo: 07/10,
-    ["01Xxx09"] = true,   --Tempo: até 10/10
+    ["01Xxx09"] = true,   --Tempo: até 10/10,
+    ["N
+lui_umapessoaqualque"] = true,   --Tempo: 09/10
 
 }
 
