@@ -53,7 +53,8 @@ allowedUsers = {
     ["NikitaGavrileiko"] = true,   --Tempo: 05/11,
     ["Il_TuoNapoletano"] = true,   --Tempo: 08/10,
     ["Itz_Mariena"] = true,   --Tempo: 05/12,
-    ["Patrikhora15"] = true,   --Tempo: 08/10
+    ["Patrikhora15"] = true,   --Tempo: 08/10,
+    ["lucasf_342"] = true,   --Tempo: 08/10
 }
 
 return allowedUsers
