@@ -54,7 +54,8 @@ allowedUsers = {
     ["Il_TuoNapoletano"] = true,   --Tempo: 08/10,
     ["Itz_Mariena"] = true,   --Tempo: 05/12,
     ["Patrikhora15"] = true,   --Tempo: 08/10,
-    ["lucasf_342"] = true,   --Tempo: 08/10
+    ["lucasf_342"] = true,   --Tempo: 08/10,
+    ["teste"] = true,   -- 56° teste -- 00/00 -- <@1401226694324523113>
 }
 
 return allowedUsers
