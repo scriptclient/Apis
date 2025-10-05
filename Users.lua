@@ -52,7 +52,8 @@ allowedUsers = {
     ["pedroarea513"] = true,   --Tempo: 12/10,
     ["NikitaGavrileiko"] = true,   --Tempo: 05/11,
     ["Il_TuoNapoletano"] = true,   --Tempo: 08/10,
-    ["Itz_Mariena"] = true,   --Tempo: 05/12
+    ["Itz_Mariena"] = true,   --Tempo: 05/12,
+    ["Patrikhora15"] = true,   --Tempo: 08/10
 }
 
 return allowedUsers
