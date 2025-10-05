@@ -48,7 +48,8 @@ allowedUsers = {
     ["mayconpkdemel"] = true,   --Tempo: 20/10,
     ["jonatha23484"] = true,   --Tempo: 07/10,
     ["01Xxx09"] = true,   --Tempo: até 10/10,
-    ["lui_umapessoaqualque"] = true,   --Tempo: 09/10
+    ["lui_umapessoaqualque"] = true,   --Tempo: 09/10,
+    ["pedroarea513"] = true,   --Tempo: 12/10
 }
 
 return allowedUsers
