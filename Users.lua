@@ -42,7 +42,6 @@ allowedUsers = {
     ["Soleil_noir0"] = true,   --Tempo: 07/10,
     ["Josiasgamesblox"] = true,   --Tempo: 07/10,
     ["Hacudinho2"] = true,   --Tempo: 05/10,
-    ["PAPODEMENDIGO"] = true,   --Tempo: teste,
     ["XxXROSKAFEXxX"] = true,   --Tempo: 07/10,
     ["Yoan57500k"] = true,   --Tempo: ate permanete,
     ["UsoScriptdsOban"] = true,   --Tempo: até 10/10,
