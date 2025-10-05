@@ -59,7 +59,6 @@ allowedUsers = {
     ["3el887"] = true,   -- 58° 3el887 -- Permanente -- <@1415502449342677125>,
     ["jhowzzzzzzzzzzz"] = true,   -- 59° jhowzzzzzzzzzzz -- 12/10 -- <@1376599474150838293>,
     ["MG_esquadrao"] = true,   -- 60° MG_esquadrao -- 09/10 -- <@1121893001397014590>,
-    ["luiaaa98710"] = true,   -- 61° luiaaa98710 -- 08/10 -- <@1416462129921265775>,
     ["Biancai_540"] = true,   -- 62° Biancai_540 -- 08/10 -- <@1352056329350418575>
 }
 
