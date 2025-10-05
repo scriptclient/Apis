@@ -51,6 +51,3 @@ allowedUsers = {
 }
 
 return allowedUsers
-
---Permanente
-  ["teste"] = true, --Tempo: magnésio
