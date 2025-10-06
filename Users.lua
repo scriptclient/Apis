@@ -61,7 +61,8 @@ allowedUsers = {
     ["luiaaa98710"] = true,   -- 62° luiaaa98710 -- 08/10 -- <@1416462129921265775>,
     ["Gpzincx"] = true,   -- 62° Gpzincx -- 08/10 -- gpzin0076,
     ["brunoeduardo87"] = true,   -- 62° brunoeduardo87 -- 01/11 -- ymxxm,
-    ["JumexD24"] = true,   -- 63° JumexD24 -- 08/10 -- <@1335281417394978909>
+    ["JumexD24"] = true,   -- 63° JumexD24 -- 08/10 -- <@1335281417394978909>,
+    ["x_P3drox"] = true,   -- 64° x_P3drox -- 15/10 -- <@1424571061369966602>
 }
 
 return allowedUsers
