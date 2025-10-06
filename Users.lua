@@ -64,7 +64,8 @@ allowedUsers = {
     ["JumexD24"] = true,   -- 63° JumexD24 -- 08/10 -- <@1335281417394978909>,
     ["x_P3drox"] = true,   -- 64° x_P3drox -- 15/10 -- <@1424571061369966602>,
     ["god_shazan24"] = true,   -- 65° god_shazan24 -- 05/12 -- <@1423743452021260288>,
-    ["vitinqteamak"] = true,   -- 66° vitinqteamak -- 08/10 -- <@1411796079535722777>
+    ["vitinqteamak"] = true,   -- 66° vitinqteamak -- 08/10 -- <@1411796079535722777>,
+    ["V7_TV"] = true,   -- 67° V7_TV -- 6/10 -- 9/10
 }
 
 return allowedUsers
