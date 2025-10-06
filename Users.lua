@@ -66,7 +66,8 @@ allowedUsers = {
     ["god_shazan24"] = true,   -- 65° god_shazan24 -- 05/12 -- <@1423743452021260288>,
     ["vitinqteamak"] = true,   -- 66° vitinqteamak -- 08/10 -- <@1411796079535722777>,
     ["ponchatsg4"] = true,   -- 68° ponchatsg4 -- 13/10 -- <@1412938925139562537>,
-    ["V7_TV"] = true,   -- 68° V7_TV -- .09/10 -- <@955868862786699346>
+    ["V7_TV"] = true,   -- 68° V7_TV -- .09/10 -- <@955868862786699346>,
+    ["RENATOELIT_001"] = true,   -- 69° RENATOELIT_001 -- 09/10 -- <@1352831688937570354>
 }
 
 return allowedUsers
