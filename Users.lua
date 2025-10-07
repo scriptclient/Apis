@@ -65,6 +65,7 @@ allowedUsers = {
     ["eduardo3883824"] = true,   -- 64° eduardo3883824 -- 10/10 -- <@975846172059123792>,
     ["amigu_52"] = true,   -- 65° amigu_52 -- 17/10 -- <@1191124945594499133>,
     ["Daniel975539"] = true,   -- 66° Daniel975539 -- 10/10 -- <@1399521137691459656>,
+    ["clzinnzzk7"] = true,   -- 67° clzinnzzk7 -- 10/10 -- <@835615617708720193>
 }
 
 return allowedUsers
