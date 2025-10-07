@@ -1,5 +1,5 @@
 allowedUsers = {
-    ["IVANBR9876"] = true,  -- 00° V4mp -- STAFF -- Sem
+    ["IVANBR9876"] = true,  -- 00° V4mp -- STAFF -- @desmond_doss9
     ["brenardao9"] = true,  -- 01° brenardao9 -- perm -- Sem
     ["Flhiz_bug"] = true,   -- 02° Flhiz_bug -- permanente Sem
     ["ChaRada519"] = true,  -- 03° ChaRada519 -- permanente Sem
