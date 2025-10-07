@@ -1,4 +1,4 @@
-local allowedUsers = {
+allowedUsers = {
     ["IVANBR9876"] = true, -- 00° V4mp -- STAFF
     ["brenardao9"] = true,   -- 01° brenardao9 -- perm
     ["Flhiz_bug"] = true,   -- 02° Flhiz_bug -- permanente
