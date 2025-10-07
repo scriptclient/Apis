@@ -1,5 +1,5 @@
 allowedUsers = {
-    ["INVANBR9876"] true, -- staff
+    ["IVANBR9876"] true, -- staff
     ["ty4buys58932"] = true,   -- 01° ty4buys58932
     ["RonnieOsborne341"] = true,   -- 02° RonnieOsborne341 -- 9/11 -- Sem 
     ["naosou_shscript"] = true,   -- 03° naosou_shscript -- 30/11 -- Sem 
