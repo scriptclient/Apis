@@ -16,7 +16,6 @@ allowedUsers = {
     ["alsjjsjanansnj"] = true,   -- 17° alsjjsjanansnj -- 03/11 -- Sem 
     ["3mk_3mk04"] = true,   -- 18° 3mk_3mk04 -- 03/03 -- Sem 
     ["Flhiz_bug"] = true,   -- 19° Flhiz_bug -- permanente
-    ["tpxgojo"] = true,   -- 20° tpxgojo -- 06/10 -- Sem 
     ["Davi_gosto0q"] = true,   -- 21° Davi_gosto0q -- 10/10 -- Sem 
     ["meme7xati"] = true,   -- 22° meme7xati -- 03/01 -- Sem
     ["ChaRada519"] = true,   -- 24° ChaRada519 -- permanente
