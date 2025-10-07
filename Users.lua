@@ -67,7 +67,8 @@ allowedUsers = {
     ["Daniel975539"] = true,   -- 66° Daniel975539 -- 10/10 -- <@1399521137691459656>,
     ["clzinnzzk7"] = true,   -- 67° clzinnzzk7 -- 10/10 -- <@835615617708720193>,
     ["sandegar2"] = true,   -- 68° sandegar2 -- 10/10 -- <@1425187663832678410>,
-    ["MeninoDaRoca9"] = true,   -- 69° MeninoDaRoca9 -- 07/11 -- <@1407784397423251557>
+    ["MeninoDaRoca9"] = true,   -- 69° MeninoDaRoca9 -- 07/11 -- <@1407784397423251557>,
+    ["higginsemily3"] = true,   -- 70° higginsemily3 -- perm -- <@1395310454259322942>
 }
 
 return allowedUsers
