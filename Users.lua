@@ -61,7 +61,6 @@ allowedUsers = {
     ["kqqllk_268659"] = true,   -- 59° kqqllk_268659 -- 09/10 -- <@1094384728582410240>
     ["LULA13XVDEO"] = true,   -- 60° LULA13XVDEO -- 13/10 -- <@1379140469740535942>
     ["lufe_s"] = true,   -- 61° lufe_s -- 27/10 -- <@1354736279962652712>,
-    ["Firecrowblackice"] = true,   -- 63° Firecrowblackice -- 07/03 -- <@1221327254425043036>
 }
 
 return allowedUsers
