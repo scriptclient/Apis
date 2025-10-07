@@ -1,9 +1,9 @@
 allowedUsers = {
-    ["IVANBR9876"] = true, -- 00° V4mp -- STAFF
-    ["brenardao9"] = true,   -- 01° brenardao9 -- perm
+    ["IVANBR9876"] = true,  -- 00° V4mp -- STAFF
+    ["brenardao9"] = true,  -- 01° brenardao9 -- perm
     ["Flhiz_bug"] = true,   -- 02° Flhiz_bug -- permanente
-    ["ChaRada519"] = true,   -- 03° ChaRada519 -- permanente
-    ["Yoan57500k"] = true,   -- 04° Yoan57500k -- até permanente
+    ["ChaRada519"] = true,  -- 03° ChaRada519 -- permanente
+    ["Yoan57500k"] = true,  -- 04° Yoan57500k -- permanente
     ["scout7ixs"] = true,   -- 05° scout7ixs -- Permanente -- <@1401226694324523113>
     ["ty4buys58932"] = true,   -- 06° ty4buys58932
     ["RonnieOsborne341"] = true,   -- 07° RonnieOsborne341 -- 9/11 -- Sem 
