@@ -73,7 +73,8 @@ allowedUsers = {
     ["Japaqteeama"] = true,   -- 75° Japaqteeama -- 13/10 -- <@1397328303878312059>,
     ["Davy_686"] = true,   -- 76° Davy_686 -- 09/10 -- <@1424902476212994110>,
     ["eudhhhsllsp"] = true,   -- 77° eudhhhsllsp -- 7/10 -- <@1259160145389420565>,
-    ["kqqllk_268659"] = true,   -- 75° kqqllk_268659 -- 09/10 -- <@1094384728582410240>
+    ["kqqllk_268659"] = true,   -- 75° kqqllk_268659 -- 09/10 -- <@1094384728582410240>,
+    ["LULA13XVDEO"] = true,   -- 76° LULA13XVDEO -- 13/10 -- <@1379140469740535942>
 }
 
 return allowedUsers
