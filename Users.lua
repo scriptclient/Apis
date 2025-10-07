@@ -52,7 +52,6 @@ allowedUsers = {
     ["Itz_Mariena"] = true,   -- 53° Itz_Mariena -- 05/12 -- Sem
     ["Patrikhora15"] = true,   -- 54° Patrikhora15 -- 08/10 -- Sem
     ["lucasf_342"] = true,   -- 55° lucasf_342 -- 08/10 -- Sem
-    ["Novo"] = true,   -- 56° Novo -- Permanente -- <@1401226694324523113>
     ["Novo1"] = true,   -- 57° Novo1 -- Permanente -- <@1058360401210904599>,
     ["3el887"] = true,   -- 58° 3el887 -- Permanente -- <@1415502449342677125>,
     ["jhowzzzzzzzzzzz"] = true,   -- 59° jhowzzzzzzzzzzz -- 12/10 -- <@1376599474150838293>,
