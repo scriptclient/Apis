@@ -52,7 +52,6 @@ allowedUsers = {
     ["Itz_Mariena"] = true,   -- 53° Itz_Mariena -- 05/12 -- Sem
     ["Patrikhora15"] = true,   -- 54° Patrikhora15 -- 08/10 -- Sem
     ["lucasf_342"] = true,   -- 55° lucasf_342 -- 08/10 -- Sem
-    ["3el887"] = true,   -- 58° 3el887 -- Permanente -- <@1415502449342677125>,
     ["jhowzzzzzzzzzzz"] = true,   -- 59° jhowzzzzzzzzzzz -- 12/10 -- <@1376599474150838293>,
     ["MG_esquadrao"] = true,   -- 60° MG_esquadrao -- 09/10 -- <@1121893001397014590>,
     ["Biancai_540"] = true,   -- 62° Biancai_540 -- 08/10 -- <@1352056329350418575>,
