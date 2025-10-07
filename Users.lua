@@ -34,7 +34,6 @@ allowedUsers = {
     ["amhnkx"] = true,   -- 36° amhnkx -- 11/10 -- Sem 
     ["Saliencia4_0"] = true,   -- 37° Saliencia4_0 -- 07/10 -- Sem 
     ["Soleil_noir0"] = true,   -- 38° Soleil_noir0 -- 07/10 -- Sem
-    ["XxXROSKAFEXxX"] = true,   -- 40° XxXROSKAFEXxX -- 07/10 -- Sem 
     ["Yoan57500k"] = true,   -- 41° Yoan57500k -- até permanente
     ["UsoScriptdsOban"] = true,   -- 42° UsoScriptdsOban -- até 10/10 -- Sem 
     ["Tubers_93C00lkid3"] = true,   -- 43° Tubers_93C00lkid3 -- até 10/10 -- Sem 
