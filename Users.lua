@@ -64,7 +64,8 @@ allowedUsers = {
     ["firecrowblackice"] = true,   -- 63° firecrowblackice -- 07/03 -- <@1221327254425043036>,
     ["eduardo3883824"] = true,   -- 64° eduardo3883824 -- 10/10 -- <@975846172059123792>,
     ["amigu_52"] = true,   -- 65° amigu_52 -- 17/10 -- <@1191124945594499133>,
-    ["Daniel975539"] = true,   -- 66° Daniel975539 -- 10/10 -- <@1399521137691459656>
+    ["Daniel975539"] = true,   -- 66° Daniel975539 -- 10/10 -- <@1399521137691459656>,
+    ["clzinnzzk7"] = true,   -- 67° clzinnzzk7 -- 10/10 -- clzinnzzk
 }
 
 return allowedUsers
