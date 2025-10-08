@@ -67,7 +67,8 @@ allowedUsers = {
     ["pedro312jee"] = true,   -- 74° pedro312jee -- 22/10 -- <@1417675399680495708>,
     ["cxjuhj"] = true,   -- 75° cxjuhj -- 11/10 -- <@1154273913619099658>,
     ["ttyyryjuh"] = true,   -- 69° ttyyryjuh -- 11/10 -- <@1212579970291998742>,
-    ["Davy_686"] = true,   -- 70° Davy_686 -- 11/10 -- <@1424902476212994110>
+    ["Davy_686"] = true,   -- 70° Davy_686 -- 11/10 -- <@1424902476212994110>,
+    ["Renanmacedofreitas"] = true,   -- 71° Renanmacedofreitas -- Permanente -- <@1253126680969613392>
 }
 
 return allowedUsers
