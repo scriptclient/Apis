@@ -68,7 +68,8 @@ allowedUsers = {
     ["cxjuhj"] = true,   -- 75° cxjuhj -- 11/10 -- <@1154273913619099658>,
     ["ttyyryjuh"] = true,   -- 69° ttyyryjuh -- 11/10 -- <@1212579970291998742>,
     ["Davy_686"] = true,   -- 70° Davy_686 -- 11/10 -- <@1424902476212994110>,
-    ["renanmacedofreitas"] = true,   -- 71° renanmacedofreitas -- Permanente -- <@1253126680969613392>
+    ["renanmacedofreitas"] = true,   -- 71° renanmacedofreitas -- Permanente -- <@1253126680969613392>,
+    ["boli256"] = true,   -- 72° boli256 -- BetaTeste -- <@1162443916688236657>
 }
 
 return allowedUsers
