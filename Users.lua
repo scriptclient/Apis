@@ -39,7 +39,6 @@ allowedUsers = {
     ["Itz_Mariena"] = true,   -- 37° Itz_Mariena -- 05/12 -- Sem
     ["jhowzzzzzzzzzzz"] = true,   -- 40° jhowzzzzzzzzzzz -- 12/10 -- <@1376599474150838293>
     ["MG_esquadrao"] = true,   -- 41° MG_esquadrao -- 09/10 -- <@1121893001397014590>
-    ["luiaaa98710"] = true,   -- 43° luiaaa98710 -- 08/10 -- <@1416462129921265775>
     ["Gpzincx"] = true,   -- 44° Gpzincx -- 08/10 -- gpzin0076
     ["brunoeduardo87"] = true,   -- 45° brunoeduardo87 -- 01/11 -- ymxxm
     ["JumexD24"] = true,   -- 46° JumexD24 -- 08/10 -- <@1335281417394978909>    ["x_P3drox"] = true,   -- 71° x_P3drox -- Permanente -- <@1424571061369966602>
