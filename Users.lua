@@ -68,7 +68,8 @@ allowedUsers = {
     ["sandegar2"] = true,   -- 68° sandegar2 -- 10/10 -- <@1425187663832678410>,
     ["MeninoDaRoca9"] = true,   -- 69° MeninoDaRoca9 -- 07/11 -- <@1407784397423251557>,
     ["higginsemily3"] = true,   -- 70° higginsemily3 -- perm -- <@1395310454259322942>,
-    ["Kaua_452"] = true,   -- 72° Kaua_452 -- Modder -- <@1324502380225495077>
+    ["Kaua_452"] = true,   -- 72° Kaua_452 -- Modder -- <@1324502380225495077>,
+    ["super_sem9"] = true,   -- 72° super_sem9 -- 14/10 -- <@1404366208458821683>
 }
 
 return allowedUsers
