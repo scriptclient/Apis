@@ -65,7 +65,8 @@ allowedUsers = {
     ["super_sem9"] = true,   -- 72° super_sem9 -- 14/10 -- <@1404366208458821683>,
     ["Ythallo67899"] = true,   -- 73° Ythallo67899 -- Permanente -- <@1395310454259322942>,
     ["pedro312jee"] = true,   -- 74° pedro312jee -- 22/10 -- <@1417675399680495708>,
-    ["cxjuhj"] = true,   -- 75° cxjuhj -- 11/10 -- <@1154273913619099658>
+    ["cxjuhj"] = true,   -- 75° cxjuhj -- 11/10 -- <@1154273913619099658>,
+    ["ttyyryjuh"] = true,   -- 69° ttyyryjuh -- 11/10 -- <@1212579970291998742>
 }
 
 return allowedUsers
