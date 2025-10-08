@@ -35,7 +35,6 @@ allowedUsers = {
     ["lui_umapessoaqualque"] = true,   -- 33° lui_umapessoaqualque -- 09/10 -- Sem
     ["pedroarea513"] = true,   -- 34° pedroarea513 -- 12/10 -- Sem
     ["NikitaGavrileiko"] = true,   -- 35° NikitaGavrileiko -- 05/11 -- Sem
-    ["Il_TuoNapoletano"] = true,   -- 36° Il_TuoNapoletano -- 08/10 -- Sem
     ["Itz_Mariena"] = true,   -- 37° Itz_Mariena -- 05/12 -- Sem
     ["jhowzzzzzzzzzzz"] = true,   -- 40° jhowzzzzzzzzzzz -- 12/10 -- <@1376599474150838293>
     ["MG_esquadrao"] = true,   -- 41° MG_esquadrao -- 09/10 -- <@1121893001397014590>
