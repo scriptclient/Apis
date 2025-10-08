@@ -69,7 +69,8 @@ allowedUsers = {
     ["MeninoDaRoca9"] = true,   -- 69° MeninoDaRoca9 -- 07/11 -- <@1407784397423251557>,
     ["higginsemily3"] = true,   -- 70° higginsemily3 -- perm -- <@1395310454259322942>,
     ["Kaua_452"] = true,   -- 72° Kaua_452 -- Modder -- <@1324502380225495077>,
-    ["super_sem9"] = true,   -- 72° super_sem9 -- 14/10 -- <@1404366208458821683>
+    ["super_sem9"] = true,   -- 72° super_sem9 -- 14/10 -- <@1404366208458821683>,
+    ["Ythallo67899"] = true,   -- 73° Ythallo67899 -- Permanente -- <@1395310454259322942>
 }
 
 return allowedUsers
