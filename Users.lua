@@ -39,11 +39,13 @@ allowedUsers = {
     ["jhowzzzzzzzzzzz"] = true,   -- 40° jhowzzzzzzzzzzz -- 12/10 -- <@1376599474150838293>
     ["MG_esquadrao"] = true,   -- 41° MG_esquadrao -- 09/10 -- <@1121893001397014590>
     ["brunoeduardo87"] = true,   -- 45° brunoeduardo87 -- 01/11 -- ymxxm
-    ["JumexD24"] = true,   -- 46° JumexD24 -- 08/10 -- <@1335281417394978909>    ["x_P3drox"] = true,   -- 71° x_P3drox -- Permanente -- <@1424571061369966602>
+    ["JumexD24"] = true,   -- 46° JumexD24 -- 08/10 -- <@1335281417394978909>    
+    ["x_P3drox"] = true,   -- 71° x_P3drox -- Permanente -- <@1424571061369966602>
     ["ponchatsg4"] = true,   -- 49° ponchatsg4 -- 13/10 -- <@1412938925139562537>
     ["V7_TV"] = true,   -- 50° V7_TV -- 09/10 -- <@955868862786699346>
     ["RENATOELIT_001"] = true,   -- 51° RENATOELIT_001 -- 09/10 -- <@1352831688937570354>
-    ["Lwwlowlwlwlwlw"] = true,   -- 52° Lwwlowlwlwlwlw -- 13/10 -- <@1417714114821754923>    ["yhxdhbc"] = true,   -- 75° yhxdhbc -- 15/10 -- <@1221603894405238834>
+    ["Lwwlowlwlwlwlw"] = true,   -- 52° Lwwlowlwlwlwlw -- 13/10 -- <@1417714114821754923>    
+    ["yhxdhbc"] = true,   -- 75° yhxdhbc -- 15/10 -- <@1221603894405238834>
     ["God_Shazan24"] = true,   -- 54° God_Shazan24 -- 05/12 -- <@1037707209649434644>
     ["magzin666"] = true,   -- 55° magzin666 -- 09/10 -- <@1190150565703975012>
     ["matheusrbicalho"] = true,   -- 56° matheusrbicalho -- 09/10 -- <@1069591954574286848>
