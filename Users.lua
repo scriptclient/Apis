@@ -71,6 +71,7 @@ allowedUsers = {
     ["Luizmiguel0156"] = true,   -- 71° Luizmiguel0156 -- Permanente -- <@1412148284335849494>,
     ["joaodopaograo"] = true,   -- 71° joaodopaograo -- 15/10 -- <@1125619879060447252>,
     ["nicanorghost"] = true,   -- 72° nicanorghost -- 12/10 -- <@1338598173639184476>,
+    ["boli256"] = true,   -- 73° boli256 -- 19/10 -- <@1162443916688236657>
 }
 
 return allowedUsers
