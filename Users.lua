@@ -75,7 +75,8 @@ allowedUsers = {
     ["joaopauloPROplay"] = true,   -- 76° joaopauloPROplay -- 15/10 -- <@1223790591691718660>,
     ["Bakugo_Master4"] = true,   -- 77° Bakugo_Master4 -- 15/10 -- <@1287228649749217290>,
     ["5766ioo9"] = true,   -- 78° 5766ioo9 -- 11/10 -- <@1382852732234240093>,
-    ["citat5hu"] = true,   -- 79° citat5hu -- 11/10 -- <@1189833657473581169>
+    ["citat5hu"] = true,   -- 79° citat5hu -- 11/10 -- <@1189833657473581169>,
+    ["HBT_JU7cLA0MMP"] = true,   -- 80° HBT_JU7cLA0MMP -- 09/12 -- <@1292849634414428325>
 }
 
 return allowedUsers
