@@ -39,7 +39,6 @@ allowedUsers = {
     ["ponchatsg4"] = true,   -- 49° ponchatsg4 -- 13/10 -- <@1412938925139562537>
     ["Lwwlowlwlwlwlw"] = true,   -- 52° Lwwlowlwlwlwlw -- 13/10 -- <@1417714114821754923>    
     ["yhxdhbc"] = true,   -- 75° yhxdhbc -- 15/10 -- <@1221603894405238834>
-    ["God_Shazan24"] = true,   -- 54° God_Shazan24 -- 05/12 -- <@1037707209649434644>
     ["Japaqteeama"] = true,   -- 58° Japaqteeama -- 13/10 -- <@1397328303878312059>
     ["LULA13XVDEO"] = true,   -- 60° LULA13XVDEO -- 13/10 -- <@1379140469740535942>
     ["lufe_s"] = true,   -- 61° lufe_s -- 27/10 -- <@1354736279962652712>,
