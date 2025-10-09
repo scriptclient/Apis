@@ -76,7 +76,8 @@ allowedUsers = {
     ["Bakugo_Master4"] = true,   -- 77° Bakugo_Master4 -- 15/10 -- <@1287228649749217290>,
     ["5766ioo9"] = true,   -- 78° 5766ioo9 -- 11/10 -- <@1382852732234240093>,
     ["citat5hu"] = true,   -- 79° citat5hu -- 11/10 -- <@1189833657473581169>,
-    ["HBT_JU7cLA0MMP"] = true,   -- 80° HBT_JU7cLA0MMP -- 09/12 -- <@1292849634414428325>
+    ["HBT_JU7cLA0MMP"] = true,   -- 80° HBT_JU7cLA0MMP -- 09/12 -- <@1292849634414428325>,
+    ["Joaodopaograo"] = true,   -- 81° Joaodopaograo -- 15/10 -- <@1125619879060447252>
 }
 
 return allowedUsers
