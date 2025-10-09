@@ -11,7 +11,6 @@ allowedUsers = {
     ["serveston"] = true,   -- 09° serveston -- 30/10 -- Sem
     ["Kiko_reizinho123"] = true,   -- 11° Kiko_reizinho123 -- 02/10 02/11 -- Sem 
     ["miguelzada002"] = true,   -- 12° miguelzada002 -- até 01/11 -- Sem
-    ["pn0jOZS9"] = true,   -- 13° pn0jOZS9 -- 09/10 -- Sem 
     ["SouNubDm5"] = true,   -- 14° SouNubDm5 -- 02/02 -- Sem 
     ["antoni_zznk"] = true,   -- 15° antoni_zznk -- 10/10 -- Sem 
     ["wisuhwheueyehdydyd"] = true,   -- 16° wisuhwheueyehdydyd -- 02/03 -- Sem
