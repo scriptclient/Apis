@@ -68,7 +68,6 @@ allowedUsers = {
     ["HBT_JU7cLA0MMP"] = true,   -- 80° HBT_JU7cLA0MMP -- 09/12 -- <@1292849634414428325>,
     ["Joaodopaograo"] = true,   -- 81° Joaodopaograo -- 15/10 -- <@1125619879060447252>,
     ["acapsavass2"] = true,   -- 69° acapsavass2 -- 09/11 -- <@1166162590808936599>,
-    ["vt"] = true,   -- 70° vt -- tst -- <@1058360401210904599>
 }
 
 return allowedUsers
