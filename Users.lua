@@ -74,7 +74,8 @@ allowedUsers = {
     ["matmat2345"] = true,   -- 75° matmat2345 -- 15/10 -- <@1399524275857129637>,
     ["joaopauloPROplay"] = true,   -- 76° joaopauloPROplay -- 15/10 -- <@1223790591691718660>,
     ["Bakugo_Master4"] = true,   -- 77° Bakugo_Master4 -- 15/10 -- <@1287228649749217290>,
-    ["5766ioo9"] = true,   -- 78° 5766ioo9 -- 11/10 -- <@1382852732234240093>
+    ["5766ioo9"] = true,   -- 78° 5766ioo9 -- 11/10 -- <@1382852732234240093>,
+    ["citat5hu"] = true,   -- 79° citat5hu -- 11/10 -- <@1189833657473581169>
 }
 
 return allowedUsers
