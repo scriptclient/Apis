@@ -79,7 +79,8 @@ allowedUsers = {
     ["citat5hu"] = true,   -- 79° citat5hu -- 11/10 -- <@1189833657473581169>,
     ["HBT_JU7cLA0MMP"] = true,   -- 80° HBT_JU7cLA0MMP -- 09/12 -- <@1292849634414428325>,
     ["Joaodopaograo"] = true,   -- 81° Joaodopaograo -- 15/10 -- <@1125619879060447252>,
-    ["acapsavass2"] = true,   -- 82° acapsavass2 -- 09/11 -- <@1166162590808936599>
+    ["acapsavass2"] = true,   -- 82° acapsavass2 -- 09/11 -- <@1166162590808936599>,
+    ["gvcltx756386"] = true,   -- 82° gvcltx756386 -- TST -- <@1071176924094803989>
 }
 
 return allowedUsers
