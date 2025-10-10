@@ -75,7 +75,8 @@ allowedUsers = {
     ["morangodoamor_311"] = true,   -- 84° morangodoamor_311 -- 13/10 -- <@1416518071635542110>,
     ["sou_virge35"] = true,   -- 75° sou_virge35 -- 13/10 -- <@1232822832098967678>,
     ["derrok0076"] = true,   -- 76° derrok0076 -- permanente -- <@1071176924094803989>,
-    ["PasukanOtakMiring"] = true,   -- 77° PasukanOtakMiring -- 13/10 -- <@760214340489707601>
+    ["PasukanOtakMiring"] = true,   -- 77° PasukanOtakMiring -- 13/10 -- <@760214340489707601>,
+    ["Daniel975539"] = true,   -- 78° Daniel975539 -- 13/10 -- <@1399521137691459656>
 }
 
 return allowedUsers
