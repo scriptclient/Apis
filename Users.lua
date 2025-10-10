@@ -21,7 +21,6 @@ allowedUsers = {
     ["ikfsjjssjjs"] = true,   -- 25° ikfsjjssjjs -- 03/05 -- Sem
     ["le36463"] = true,   -- 27° le36463 -- 03/11 -- Sem
     ["amhnkx"] = true,   -- 28° amhnkx -- 11/10 -- Sem
-    ["UsoScriptdsOban"] = true,   -- 29° UsoScriptdsOban -- até 10/10 -- Sem 
     ["Tubers_93C00lkid3"] = true,   -- 30° Tubers_93C00lkid3 -- até 10/10 -- Sem
     ["mayconpkdemel"] = true,   -- 31° mayconpkdemel -- 20/10 -- Sem
     ["01Xxx09"] = true,   -- 32° 01Xxx09 -- até 10/10 -- Sem
