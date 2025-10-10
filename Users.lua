@@ -19,7 +19,6 @@ allowedUsers = {
     ["god_hack750"] = true,   -- 22° god_hack750 -- até 03/12 -- Sem
     ["victorryan200"] = true,   -- 24° victorryan200 -- até 03/11 -- Sem 
     ["ikfsjjssjjs"] = true,   -- 25° ikfsjjssjjs -- 03/05 -- Sem
-    ["perfeitadmssss"] = true,   -- 26° perfeitadmssss -- 10/10 -- Sem
     ["le36463"] = true,   -- 27° le36463 -- 03/11 -- Sem
     ["amhnkx"] = true,   -- 28° amhnkx -- 11/10 -- Sem
     ["UsoScriptdsOban"] = true,   -- 29° UsoScriptdsOban -- até 10/10 -- Sem 
