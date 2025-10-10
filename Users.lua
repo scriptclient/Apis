@@ -84,7 +84,8 @@ allowedUsers = {
     ["vt"] = true,   -- 83° vt -- bug -- <@1058360401210904599>,
     ["nicolas87migu8"] = true,   -- 84° nicolas87migu8 -- 17/10 -- <@1422050029740490877>,
     ["rip_kauanreg"] = true,   -- 85° rip_kauanreg -- 10/12 -- <@1400472989954343073>,
-    ["angeel222322"] = true,   -- 86° angeel222322 -- 13/10 -- <@1345600898528837672>
+    ["angeel222322"] = true,   -- 86° angeel222322 -- 13/10 -- <@1345600898528837672>,
+    ["Ping999ghost"] = true,   -- 87° Ping999ghost -- 10/11 -- <@1338598173639184476>
 }
 
 return allowedUsers
