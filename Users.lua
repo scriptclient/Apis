@@ -89,7 +89,8 @@ allowedUsers = {
     ["GUESTS9092"] = true,   -- 89° GUESTS9092 -- permanente -- <@1321637113313235037>,
     ["vitor151822"] = true,   -- 89° vitor151822 -- 13/10 -- <@1422716929176502322>,
     ["Pedrof1654f"] = true,   -- 90° Pedrof1654f -- 13/10 -- <@780841129771794453>,
-    ["Novo"] = true,   -- 91° Novo -- permanente -- <@1401226694324523113>
+    ["Novo"] = true,   -- 91° Novo -- permanente -- <@1401226694324523113>,
+    ["CaoHieu_32953"] = true,   -- 92° CaoHieu_32953 -- Permanente -- <@1414311802673692912>
 }
 
 return allowedUsers
