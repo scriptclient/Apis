@@ -72,7 +72,8 @@ allowedUsers = {
     ["cademeudinheiromeu_0"] = true,   -- 81° cademeudinheiromeu_0 -- 09/02 -- <@1418245676105728167>,
     ["Gabrielzinx_S2"] = true,   -- 82° Gabrielzinx_S2 -- permanente -- <@1383242790133043260>,
     ["Zcode98"] = true,   -- 83° Zcode98 -- 09/03 -- <@1288222278550687755>,
-    ["morangodoamor_311"] = true,   -- 84° morangodoamor_311 -- 13/10 -- <@1416518071635542110>
+    ["morangodoamor_311"] = true,   -- 84° morangodoamor_311 -- 13/10 -- <@1416518071635542110>,
+    ["sou_virge35"] = true,   -- 75° sou_virge35 -- 13/10 -- <@1232822832098967678>
 }
 
 return allowedUsers
