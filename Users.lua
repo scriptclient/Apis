@@ -81,7 +81,6 @@ allowedUsers = {
     ["weverton_267"] = true,   -- 81° weverton_267 -- 13/10 -- <@1416126919463669859>,
     ["luiz_456mandrake"] = true,   -- 82° luiz_456mandrake -- 13/10 -- <@1198394254888804375>,
     ["Ezman_638"] = true,   -- 83° Ezman_638 -- Permanente -- <@1233529006351974460>,
-    ["vt"] = true,   -- 83° vt -- bug -- <@1058360401210904599>,
     ["nicolas87migu8"] = true,   -- 84° nicolas87migu8 -- 17/10 -- <@1422050029740490877>,
     ["rip_kauanreg"] = true,   -- 85° rip_kauanreg -- 10/12 -- <@1400472989954343073>,
     ["angeel222322"] = true,   -- 86° angeel222322 -- 13/10 -- <@1345600898528837672>,
