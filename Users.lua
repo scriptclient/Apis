@@ -91,7 +91,8 @@ allowedUsers = {
     ["Novo"] = true,   -- 91° Novo -- permanente -- <@1401226694324523113>,
     ["CaoHieu_32953"] = true,   -- 92° CaoHieu_32953 -- Permanente -- <@1414311802673692912>,
     ["icaro_scripter"] = true,   -- 94° icaro_scripter -- 10/11 -- <@1323323672437588030>,
-    ["scout7ixs"] = true,   -- 93° scout7ixs -- Permanente -- <@1058360401210904599>
+    ["scout7ixs"] = true,   -- 93° scout7ixs -- Permanente -- <@1058360401210904599>,
+    ["cauiuuuoooiii"] = true,   -- 94° cauiuuuoooiii -- 10/11 -- <@1323323672437588030>
 }
 
 return allowedUsers
