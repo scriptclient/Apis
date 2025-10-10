@@ -78,7 +78,8 @@ allowedUsers = {
     ["N0OB_BRAINR0T"] = true,   -- 77° N0OB_BRAINR0T -- perm -- <@1323323672437588030>,
     ["987STEPSIS987"] = true,   -- 78° 987STEPSIS987 -- Permanente -- <@1296966145735397417>,
     ["mocoto15737"] = true,   -- 79° mocoto15737 -- 16/10 -- <@1067950341162815488>,
-    ["Lua099349"] = true,   -- 80° Lua099349 -- Permanente -- <@1411564076231823390>
+    ["Lua099349"] = true,   -- 80° Lua099349 -- Permanente -- <@1411564076231823390>,
+    ["cademeudinheiromeu_0"] = true,   -- 81° cademeudinheiromeu_0 -- 09/02 -- <@1418245676105728167>
 }
 
 return allowedUsers
