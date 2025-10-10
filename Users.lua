@@ -76,7 +76,8 @@ allowedUsers = {
     ["furucax"] = true,   -- 75° furucax -- 09/11 -- <@1409182651612664030>,
     ["alexwsk1"] = true,   -- 76° alexwsk1 -- 09/12 -- <@1417343317808517172>,
     ["N0OB_BRAINR0T"] = true,   -- 77° N0OB_BRAINR0T -- perm -- <@1323323672437588030>,
-    ["987STEPSIS987"] = true,   -- 78° 987STEPSIS987 -- Permanente -- <@1296966145735397417>
+    ["987STEPSIS987"] = true,   -- 78° 987STEPSIS987 -- Permanente -- <@1296966145735397417>,
+    ["mocoto15737"] = true,   -- 79° mocoto15737 -- 16/10 -- <@1067950341162815488>
 }
 
 return allowedUsers
