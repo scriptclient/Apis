@@ -78,7 +78,8 @@ allowedUsers = {
     ["PasukanOtakMiring"] = true,   -- 77° PasukanOtakMiring -- 13/10 -- <@760214340489707601>,
     ["Daniel975539"] = true,   -- 78° Daniel975539 -- 13/10 -- <@1399521137691459656>,
     ["Turbers_productions"] = true,   -- 79° Turbers_productions -- Permanente -- <@1424464649998565426>,
-    ["MandellHG6558"] = true,   -- 80° MandellHG6558 -- 13/10 -- <@1421628028424814676>
+    ["MandellHG6558"] = true,   -- 80° MandellHG6558 -- 13/10 -- <@1421628028424814676>,
+    ["weverton_267"] = true,   -- 81° weverton_267 -- 13/10 -- <@1416126919463669859>
 }
 
 return allowedUsers
