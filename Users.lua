@@ -22,7 +22,6 @@ allowedUsers = {
     ["le36463"] = true,   -- 27° le36463 -- 03/11 -- Sem
     ["amhnkx"] = true,   -- 28° amhnkx -- 11/10 -- Sem
     ["mayconpkdemel"] = true,   -- 31° mayconpkdemel -- 20/10 -- Sem
-    ["01Xxx09"] = true,   -- 32° 01Xxx09 -- até 10/10 -- Sem
     ["pedroarea513"] = true,   -- 34° pedroarea513 -- 12/10 -- Sem
     ["NikitaGavrileiko"] = true,   -- 35° NikitaGavrileiko -- 05/11 -- Sem
     ["Itz_Mariena"] = true,   -- 37° Itz_Mariena -- 05/12 -- Sem
