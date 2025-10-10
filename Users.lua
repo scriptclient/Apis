@@ -13,7 +13,6 @@ allowedUsers = {
     ["miguelzada002"] = true,   -- 12° miguelzada002 -- até 01/11 -- Sem
     ["SouNubDm5"] = true,   -- 14° SouNubDm5 -- 02/02 -- Sem
     ["wisuhwheueyehdydyd"] = true,   -- 16° wisuhwheueyehdydyd -- 02/03 -- Sem
-    ["caparezzaontop"] = true,   -- 17° caparezzaontop -- 10/10 -- Sem 
     ["alsjjsjanansnj"] = true,   -- 18° alsjjsjanansnj -- 03/11 -- Sem 
     ["3mk_3mk04"] = true,   -- 19° 3mk_3mk04 -- 03/03 -- Sem 
     ["Davi_gosto0q"] = true,   -- 20° Davi_gosto0q -- 10/10 -- Sem 
