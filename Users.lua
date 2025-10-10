@@ -74,6 +74,7 @@ allowedUsers = {
     ["Zcode98"] = true,   -- 83° Zcode98 -- 09/03 -- <@1288222278550687755>,
     ["morangodoamor_311"] = true,   -- 84° morangodoamor_311 -- 13/10 -- <@1416518071635542110>,
     ["sou_virge35"] = true,   -- 75° sou_virge35 -- 13/10 -- <@1232822832098967678>,
+    ["derrok0076"] = true,   -- 76° derrok0076 -- permanente -- <@1071176924094803989>
 }
 
 return allowedUsers
