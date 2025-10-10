@@ -55,7 +55,6 @@ allowedUsers = {
     ["citat5hu"] = true,   -- 79° citat5hu -- 11/10 -- <@1189833657473581169>,
     ["HBT_JU7cLA0MMP"] = true,   -- 80° HBT_JU7cLA0MMP -- 09/12 -- <@1292849634414428325>,
     ["acapsavass2"] = true,   -- 69° acapsavass2 -- 09/11 -- <@1166162590808936599>,
-    ["vt"] = true,   -- 70° vt -- bug -- <@1058360401210904599>,
     ["Luizmiguel0156"] = true,   -- 71° Luizmiguel0156 -- Permanente -- <@1412148284335849494>,
     ["joaodopaograo"] = true,   -- 71° joaodopaograo -- 15/10 -- <@1125619879060447252>,
     ["nicanorghost"] = true,   -- 72° nicanorghost -- 12/10 -- <@1338598173639184476>,
