@@ -88,7 +88,8 @@ allowedUsers = {
     ["BOTT_on1"] = true,   -- 88° BOTT_on1 -- 17/10 -- <@1381808113094492290>,
     ["GUESTS9092"] = true,   -- 89° GUESTS9092 -- permanente -- <@1321637113313235037>,
     ["vitor151822"] = true,   -- 89° vitor151822 -- 13/10 -- <@1422716929176502322>,
-    ["Pedrof1654f"] = true,   -- 90° Pedrof1654f -- 13/10 -- <@780841129771794453>
+    ["Pedrof1654f"] = true,   -- 90° Pedrof1654f -- 13/10 -- <@780841129771794453>,
+    ["Novo"] = true,   -- 91° Novo -- permanente -- <@1401226694324523113>
 }
 
 return allowedUsers
