@@ -11,8 +11,6 @@ local Musics = {
         { Name = "Virou", Id = 111817954627349 },
         { Name = "lição da vida", Id = 82805460494325 },
         { Name = "sem coração", Id = 131582258401093 },
-        { Name = "faz a rodinha", Id = 127013133418864 },
-    { Name = "rei do capa", Id = 123456 },
-}
+        { Name = "faz a rodinha", Id = 127013133418864 },}
 
 return Musics
