@@ -3,7 +3,7 @@ allowedUsers = {
     ["brenardao9"] = true,  -- 01° brenardao9 -- perm -- Sem
     ["Flhiz_bug"] = true,   -- 02° Flhiz_bug -- permanente Sem
     ["ChaRada519"] = true,  -- 03° ChaRada519 -- permanente Sem
-    ["Yoan57500k"] = true,  -- 04° Yoan57500k -- permanente -- Sem    ["scout7ixs"] = true,   -- 95° scout7ixs -- Permanente -- <@1132555470960349294>
+    ["Yoan57500k"] = true,  -- 04° Yoan57500k -- permanente -- Sem
     ["ty4buys58932"] = true,   -- 06° ty4buys58932
     ["RonnieOsborne341"] = true,   -- 07° RonnieOsborne341 -- 9/11 -- Sem 
     ["naosou_shscript"] = true,   -- 08° naosou_shscript -- 30/11 -- Sem
