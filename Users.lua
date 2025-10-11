@@ -96,7 +96,6 @@ allowedUsers = {
     ["mghswi"] = true,   -- 97° mghswi -- tik Tok -- <@1076559460283187210>,
     ["cauiuuuoooiii"] = true,   -- 97° cauiuuuoooiii -- 10/11 -- <@1426321715792711721>,
     ["scout7ixs"] = true,   -- 98° scout7ixs -- teste -- <@1401226694324523113>,
-    ["vt"] = true,   -- 99° vt -- bug -- <@1058360401210904599>
 }
 
 return allowedUsers
