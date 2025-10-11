@@ -94,7 +94,6 @@ allowedUsers = {
     ["marant444"] = true,   -- 94° marant444 -- 11/11 -- <@1270039573061177397>,
     ["Pedrolucasdoll128"] = true,   -- 95° Pedrolucasdoll128 -- 14/10 -- <@1246442096211132448>,
     ["ejftjdd7t"] = true,   -- 95° ejftjdd7t -- 18/10 -- <@1371522691919646720>,
-    ["ddd"] = true,   -- 96° ddd -- 111 -- <@1401226694324523113>
 }
 
 return allowedUsers
