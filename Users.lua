@@ -18,8 +18,7 @@ allowedUsers = {
     ["god_hack750"] = true,   -- 22° god_hack750 -- até 03/12 -- Sem
     ["victorryan200"] = true,   -- 24° victorryan200 -- até 03/11 -- Sem 
     ["ikfsjjssjjs"] = true,   -- 25° ikfsjjssjjs -- 03/05 -- Sem
-    ["le36463"] = true,   -- 27° le36463 -- 03/11 -- Sem
-    ["amhnkx"] = true,   -- 28° amhnkx -- 11/10 -- Sem
+    ["le36463"] = true,   -- 27° le36463 -- 03/11 -- Sem    ["amhnkx"] = true,   -- 98° amhnkx -- 11 -- @sem
     ["mayconpkdemel"] = true,   -- 31° mayconpkdemel -- 20/10 -- Sem
     ["pedroarea513"] = true,   -- 34° pedroarea513 -- 12/10 -- Sem
     ["NikitaGavrileiko"] = true,   -- 35° NikitaGavrileiko -- 05/11 -- Sem
