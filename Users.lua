@@ -92,6 +92,7 @@ allowedUsers = {
     ["CaoHieu_32953"] = true,   -- 92° CaoHieu_32953 -- Permanente -- <@1414311802673692912>,
     ["icaro_scripter"] = true,   -- 94° icaro_scripter -- 10/11 -- <@1323323672437588030>,,
     ["cauiuuuoooiii"] = true,   -- 94° cauiuuuoooiii -- 10/11 -- <@1323323672437588030>,
+    ["ashleytaylor995"] = true,   -- 94° ashleytaylor995 -- 17/10 -- <@1397673527221420053>
 }
 
 return allowedUsers
