@@ -94,7 +94,8 @@ allowedUsers = {
     ["cauiuuuoooiii"] = true,   -- 94° cauiuuuoooiii -- 10/11 -- <@1323323672437588030>,
     ["ashleytaylor995"] = true,   -- 94° ashleytaylor995 -- 17/10 -- <@1397673527221420053>,
     ["vitin_5242"] = true,   -- 95° vitin_5242 -- Permanente -- <@1336789554253922457>,
-    ["01Xxx09"] = true,   -- 96° 01Xxx09 -- 17/10 -- <@1363573061038903406>
+    ["01Xxx09"] = true,   -- 96° 01Xxx09 -- 17/10 -- <@1363573061038903406>,
+    ["AkihiroI0"] = true,   -- 97° AkihiroI0 -- 13/10 -- <@965085244917162024>
 }
 
 return allowedUsers
