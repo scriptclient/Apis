@@ -94,7 +94,8 @@ allowedUsers = {
     ["marant444"] = true,   -- 94° marant444 -- 11/11 -- <@1270039573061177397>,
     ["Pedrolucasdoll128"] = true,   -- 95° Pedrolucasdoll128 -- 14/10 -- <@1246442096211132448>,
     ["ejftjdd7t"] = true,   -- 95° ejftjdd7t -- 18/10 -- <@1371522691919646720>,
-    ["wesleycria029"] = true,   -- 96° wesleycria029 -- permanente -- <@1310369041302425632>
+    ["wesleycria029"] = true,   -- 96° wesleycria029 -- permanente -- <@1310369041302425632>,
+    ["mghswi"] = true,   -- 97° mghswi -- tik Tok -- <@1076559460283187210>
 }
 
 return allowedUsers
