@@ -96,8 +96,7 @@ allowedUsers = {
     ["mghswi"] = true,   -- 97° mghswi -- tik Tok -- <@1076559460283187210>,
     ["cauiuuuoooiii"] = true,   -- 97° cauiuuuoooiii -- 10/11 -- <@1426321715792711721>,
     ["scout7ixs"] = true,   -- 98° scout7ixs -- teste -- <@1401226694324523113>,
-    ["amberoasis642"] = true,   -- 99° amberoasis642 -- 18/10 -- <@1411353791722160141>,
-    ["MIGUEL2000MU1"] = true,   -- 100° MIGUEL2000MU1 -- 11/03 -- <@1056245251628613632>
+    ["amberoasis642"] = true,   -- 99° amberoasis642 -- 18/10 -- <@1411353791722160141>,    ["MIGUEL2000MU1"] = true,   -- 101° MIGUEL2000MU1 -- 11/3 -- <@1056245251628613632>
 }
 
 return allowedUsers
