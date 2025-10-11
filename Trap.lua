@@ -9,6 +9,7 @@ local Musics = {
         { Name = "SLIP AWAY", Id = 126152928520174 },
         { Name = "ABYSS", Id = 87237322956694 },
         { Name = "APATHY", Id = 95288141086290 },
+    { Name = "slls", Id = 12346 },
 }
 
 return Musics
