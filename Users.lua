@@ -97,8 +97,7 @@ allowedUsers = {
     ["cauiuuuoooiii"] = true,   -- 97° cauiuuuoooiii -- 10/11 -- <@1426321715792711721>,
     ["scout7ixs"] = true,   -- 98° scout7ixs -- teste -- <@1401226694324523113>,
     ["amberoasis642"] = true,   -- 99° amberoasis642 -- 18/10 -- <@1411353791722160141>,    ["MIGUEL2000MU1"] = true,   -- 101° MIGUEL2000MU1 -- 11/3 -- <@1056245251628613632>,
-    ["tubers93_ofc933"] = true,   -- 101° tubers93_ofc933 -- 11/11 -- <@1409994332500394065>,
-    ["Ruan3rdaccount2"] = true,   -- 102° Ruan3rdaccount2 -- 14/10 -- <@878591647707967498>,
+    ["tubers93_ofc933"] = true,   -- 101° tubers93_ofc933 -- 11/11 -- <@1409994332500394065>,,
     ["Gustavo_kez2"] = true,   -- 103° Gustavo_kez2 -- 18/10 -- <@1398313658169163857>
 }
 
