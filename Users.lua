@@ -91,7 +91,8 @@ allowedUsers = {
     ["jaasiel_953"] = true,   -- 98° jaasiel_953 -- 17/10 -- <@1178459137743536280>,
     ["ejftjdd7"] = true,   -- 99° ejftjdd7 -- 18/10 -- <@1371522691919646720>,
     ["jejege240"] = true,   -- 98° jejege240 -- 14/10 -- <@1320486589268492395>,
-    ["Hissbuhw"] = true,   -- 94° Hissbuhw -- 14/10 -- <@1416277238814343318>
+    ["Hissbuhw"] = true,   -- 94° Hissbuhw -- 14/10 -- <@1416277238814343318>,
+    ["marant444"] = true,   -- 94° marant444 -- 11/11 -- <@1270039573061177397>
 }
 
 return allowedUsers
