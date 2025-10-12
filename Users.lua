@@ -102,7 +102,8 @@ allowedUsers = {
     ["Ruan3rdaccount2"] = true,   -- 103° Ruan3rdaccount2 -- 14/10 -- <@878591647707967498>,
     ["Ban3Block36"] = true,   -- 104° Ban3Block36 -- 14/10 -- <@1347220885949382756>,
     ["JEDCLAM0"] = true,   -- 105° JEDCLAM0 -- 14/10 -- <@1319354936382722092>,
-    ["REI_GAMER41808"] = true,   -- 106° REI_GAMER41808 -- Permanente -- <@1407039550810882068>
+    ["REI_GAMER41808"] = true,   -- 106° REI_GAMER41808 -- Permanente -- <@1407039550810882068>,
+    ["The_novato72"] = true,   -- 107° The_novato72 -- 14/10 -- <@1371337810321346581>
 }
 
 return allowedUsers
