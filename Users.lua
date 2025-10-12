@@ -104,7 +104,8 @@ allowedUsers = {
     ["JEDCLAM0"] = true,   -- 105° JEDCLAM0 -- 14/10 -- <@1319354936382722092>,
     ["REI_GAMER41808"] = true,   -- 106° REI_GAMER41808 -- Permanente -- <@1407039550810882068>,
     ["The_novato72"] = true,   -- 107° The_novato72 -- 14/10 -- <@1371337810321346581>,
-    ["NycollasAlex09"] = true,   -- 108° NycollasAlex09 -- 18/10 -- <@1426708805135241307>
+    ["NycollasAlex09"] = true,   -- 108° NycollasAlex09 -- 18/10 -- <@1426708805135241307>,
+    ["levhhgg"] = true,   -- 109° levhhgg -- 15/10 -- <@1261440948425195571>
 }
 
 return allowedUsers
