@@ -100,7 +100,8 @@ allowedUsers = {
     ["tubers93_ofc933"] = true,   -- 101° tubers93_ofc933 -- 11/11 -- <@1409994332500394065>,,
     ["Gustavo_kez2"] = true,   -- 103° Gustavo_kez2 -- 18/10 -- <@1398313658169163857>,
     ["Ruan3rdaccount2"] = true,   -- 103° Ruan3rdaccount2 -- 14/10 -- <@878591647707967498>,
-    ["Ban3Block36"] = true,   -- 104° Ban3Block36 -- 14/10 -- <@1347220885949382756>
+    ["Ban3Block36"] = true,   -- 104° Ban3Block36 -- 14/10 -- <@1347220885949382756>,
+    ["JEDCLAM0"] = true,   -- 105° JEDCLAM0 -- 14/10 -- <@1319354936382722092>
 }
 
 return allowedUsers
