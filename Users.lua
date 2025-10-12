@@ -106,7 +106,8 @@ allowedUsers = {
     ["The_novato72"] = true,   -- 107° The_novato72 -- 14/10 -- <@1371337810321346581>,
     ["NycollasAlex09"] = true,   -- 108° NycollasAlex09 -- 18/10 -- <@1426708805135241307>,
     ["levhhgg"] = true,   -- 109° levhhgg -- 15/10 -- <@1261440948425195571>,
-    ["Doploco_Kyle"] = true,   -- 110° Doploco_Kyle -- tiktok -- <@1124775972084908062>
+    ["Doploco_Kyle"] = true,   -- 110° Doploco_Kyle -- tiktok -- <@1124775972084908062>,
+    ["doritos55876"] = true,   -- 111° doritos55876 -- 15/10 -- <@1317885329767665747>
 }
 
 return allowedUsers
