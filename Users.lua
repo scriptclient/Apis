@@ -111,7 +111,8 @@ allowedUsers = {
     ["r_noec"] = true,   -- 112° r_noec -- 15/10 -- <@1414769734544785508>,,
     ["soniclipe290"] = true,   -- 114° soniclipe290 -- 15/10 -- <@1297036602828259378>,
     ["Henriquea973"] = true,   -- 115° Henriquea973 -- 12/11 -- <@1285953278940807170>,
-    ["RAFAELTX9"] = true,   -- 116° RAFAELTX9 -- 12/11 -- <@1313228292442034207>
+    ["RAFAELTX9"] = true,   -- 116° RAFAELTX9 -- 12/11 -- <@1313228292442034207>,
+    ["hsuahj_62"] = true,   -- 116° hsuahj_62 -- 19/10 -- <@1394748106527997952>
 }
 
 return allowedUsers
