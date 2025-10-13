@@ -122,7 +122,8 @@ allowedUsers = {
     ["Brunao2016"] = true,   -- 123° Brunao2016 -- 19/10 -- <@1389470011772506112>,
     ["Lawliet_BR007"] = true,   -- 124° Lawliet_BR007 -- 16/03 -- <@1265342595329032252>,
     ["Henrique8844"] = true,   -- 125° Henrique8844 -- 16/10 -- <@1330033411875803186>,
-    ["seupaiemeu778"] = true,   -- 126° seupaiemeu778 -- 23/10 -- <@1313245014205399112>
+    ["seupaiemeu778"] = true,   -- 126° seupaiemeu778 -- 23/10 -- <@1313245014205399112>,
+    ["gatinho123ola"] = true,   -- 127° gatinho123ola -- 16/10 -- <@1403154546301075567>
 }
 
 return allowedUsers
