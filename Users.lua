@@ -120,7 +120,8 @@ allowedUsers = {
     ["testaa"] = true,   -- 121° testaa -- test -- test,
     ["c009kjg"] = true,   -- 122° c009kjg -- perm -- <@867948874248110120>,
     ["Brunao2016"] = true,   -- 123° Brunao2016 -- 19/10 -- <@1389470011772506112>,
-    ["Lawliet_BR007"] = true,   -- 124° Lawliet_BR007 -- 16/03 -- <@1265342595329032252>
+    ["Lawliet_BR007"] = true,   -- 124° Lawliet_BR007 -- 16/03 -- <@1265342595329032252>,
+    ["Henrique8844"] = true,   -- 125° Henrique8844 -- 16/10 -- <@1330033411875803186>
 }
 
 return allowedUsers
