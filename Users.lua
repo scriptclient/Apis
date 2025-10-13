@@ -108,7 +108,8 @@ allowedUsers = {
     ["gatinho123ola"] = true,   -- 127° gatinho123ola -- 16/10 -- <@1403154546301075567>,
     ["Ru12be4ns73"] = true,   -- 128° Ru12be4ns73 -- 13/02 -- <@1420227217459515444>,
     ["matheusrbicalho"] = true,   -- 111° matheusrbicalho -- 20/10 -- <@1069591954574286848>,
-    ["shiestymark2"] = true,   -- 112° shiestymark2 -- 20/10 -- <@1069591954574286848>
+    ["shiestymark2"] = true,   -- 112° shiestymark2 -- 20/10 -- <@1069591954574286848>,
+    ["garfishbjwc_88"] = true,   -- 113° garfishbjwc_88 -- Permanente -- <@1422236441030692996>
 }
 
 return allowedUsers
