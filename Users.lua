@@ -116,7 +116,8 @@ allowedUsers = {
     ["sung_Shadoww"] = true,   -- 117° sung_Shadoww -- 13/11 -- <@969292147541028905>,
     ["kaoke_7"] = true,   -- 118° kaoke_7 -- 20/10 -- <@1300976763924516964>,
     ["AdminBrookhaven6"] = true,   -- 119° AdminBrookhaven6 -- 16/10 -- <@1413301044452266085>,
-    ["benja1234bejalacer"] = true,   -- 120° benja1234bejalacer -- 16/10 -- <@1426379378534776852>
+    ["benja1234bejalacer"] = true,   -- 120° benja1234bejalacer -- 16/10 -- <@1426379378534776852>,
+    ["Victhomxd"] = true,   -- 121° Victhomxd -- permanente -- <@1190835905116766210>
 }
 
 return allowedUsers
