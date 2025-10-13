@@ -110,7 +110,8 @@ allowedUsers = {
     ["matheusrbicalho"] = true,   -- 111° matheusrbicalho -- 20/10 -- <@1069591954574286848>,
     ["shiestymark2"] = true,   -- 112° shiestymark2 -- 20/10 -- <@1069591954574286848>,
     ["garfishbjwc_88"] = true,   -- 113° garfishbjwc_88 -- Permanente -- <@1422236441030692996>,
-    ["jj_alessio22"] = true,   -- 114° jj_alessio22 -- Permanente -- <@1399773697899761837>
+    ["jj_alessio22"] = true,   -- 114° jj_alessio22 -- Permanente -- <@1399773697899761837>,
+    ["magnata_pedro3"] = true,   -- 115° magnata_pedro3 -- 20/10 -- <@1236793901898268815>
 }
 
 return allowedUsers
