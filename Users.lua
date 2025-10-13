@@ -26,7 +26,6 @@ allowedUsers = {
     ["brunoeduardo87"] = true,   -- 45° brunoeduardo87 -- 01/11 -- ymxxm
     ["x_P3drox"] = true,   -- 71° x_P3drox -- Permanente -- <@1424571061369966602>    
     ["yhxdhbc"] = true,   -- 75° yhxdhbc -- 15/10 -- <@1221603894405238834>
-    ["Japaqteeama"] = true,   -- 58° Japaqteeama -- 13/10 -- <@1397328303878312059>
     ["LULA13XVDEO"] = true,   -- 60° LULA13XVDEO -- 13/10 -- <@1379140469740535942>
     ["lufe_s"] = true,   -- 61° lufe_s -- 27/10 -- <@1354736279962652712>,
     ["firecrowblackice"] = true,   -- 63° firecrowblackice -- 07/03 -- <@1221327254425043036>,
