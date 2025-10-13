@@ -117,7 +117,8 @@ allowedUsers = {
     ["BOPOH_XXL"] = true,   -- 118° BOPOH_XXL -- 15/10 -- <@1122324429754597386>,
     ["Thayllan78"] = true,   -- 119° Thayllan78 -- 15/10 -- <@1145762694138437783>,
     ["FrestKw"] = true,   -- 120° FrestKw -- 12/11 -- <@1353495434135339139>,
-    ["testaa"] = true,   -- 121° testaa -- test -- test
+    ["testaa"] = true,   -- 121° testaa -- test -- test,
+    ["c009kjg"] = true,   -- 122° c009kjg -- perm -- <@867948874248110120>
 }
 
 return allowedUsers
