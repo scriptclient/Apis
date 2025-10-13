@@ -23,7 +23,6 @@ allowedUsers = {
     ["pedroarea513"] = true,   -- 34° pedroarea513 -- 12/10 -- Sem
     ["NikitaGavrileiko"] = true,   -- 35° NikitaGavrileiko -- 05/11 -- Sem
     ["Itz_Mariena"] = true,   -- 37° Itz_Mariena -- 05/12 -- Sem
-    ["jhowzzzzzzzzzzz"] = true,   -- 40° jhowzzzzzzzzzzz -- 12/10 -- <@1376599474150838293>
     ["brunoeduardo87"] = true,   -- 45° brunoeduardo87 -- 01/11 -- ymxxm
     ["x_P3drox"] = true,   -- 71° x_P3drox -- Permanente -- <@1424571061369966602>
     ["ponchatsg4"] = true,   -- 49° ponchatsg4 -- 13/10 -- <@1412938925139562537>
