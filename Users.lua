@@ -118,6 +118,7 @@ allowedUsers = {
     ["benja1234bejalacer"] = true,   -- 120° benja1234bejalacer -- 16/10 -- <@1426379378534776852>,
     ["Victhomxd"] = true,   -- 121° Victhomxd -- permanente -- <@1190835905116766210>,
     ["i"] = true,   -- 121° i -- dj -- ",
+    ["eojaonevd41"] = true,   -- 122° eojaonevd41 -- permanente -- <@1349573143609741374>
 }
 
 return allowedUsers
