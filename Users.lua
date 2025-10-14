@@ -119,7 +119,8 @@ allowedUsers = {
     ["Victhomxd"] = true,   -- 121° Victhomxd -- permanente -- <@1190835905116766210>,
     ["i"] = true,   -- 121° i -- dj -- ",
     ["eojaonevd41"] = true,   -- 122° eojaonevd41 -- permanente -- <@1349573143609741374>,
-    ["benanada2c"] = true,   -- 123° benanada2c -- permanente -- <@1136469950408708256>
+    ["benanada2c"] = true,   -- 123° benanada2c -- permanente -- <@1136469950408708256>,
+    ["Luangabry5"] = true,   -- 124° Luangabry5 -- staff -- <@1100936474381254778>
 }
 
 return allowedUsers
