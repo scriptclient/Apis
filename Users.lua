@@ -107,7 +107,8 @@ allowedUsers = {
     ["Robsn1997"] = true,   -- 122° Robsn1997 -- 20/10 -- <@1386181944349560904>,
     ["Rip_Zeus7799"] = true,   -- 122° Rip_Zeus7799 -- <@1076559460283187210> -- <@1076559460283187210>,
     ["LULA13XVDEO"] = true,   -- 123° LULA13XVDEO -- 14/12 -- <@1379140469740535942>,
-    ["pozella999"] = true,   -- 111° pozella999 -- Permanente -- <@999729939798556792>
+    ["pozella999"] = true,   -- 111° pozella999 -- Permanente -- <@999729939798556792>,
+    ["Eduardo_novo17"] = true,   -- 112° Eduardo_novo17 -- Permanente -- <@1421312806434897930>
 }
 
 return allowedUsers
