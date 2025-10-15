@@ -116,7 +116,8 @@ allowedUsers = {
     ["labubumorango99"] = true,   -- 123° labubumorango99 -- 10/11 -- <@1426321715792711721>,
     ["alibi_1kk"] = true,   -- 124° alibi_1kk -- 17/10 -- <@1392681958319980616>,
     ["adm74957"] = true,   -- 125° adm74957 -- 14/11 -- <@1126949157832228944>,
-    ["Dudugamer_2022"] = true,   -- 120° Dudugamer_2022 -- 14/11 -- <@776542598693257227>
+    ["Dudugamer_2022"] = true,   -- 120° Dudugamer_2022 -- 14/11 -- <@776542598693257227>,
+    ["cxjuhj"] = true,   -- 121° cxjuhj -- 17/10 -- <@1154273913619099658>
 }
 
 return allowedUsers
