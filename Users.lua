@@ -108,7 +108,8 @@ allowedUsers = {
     ["LULA13XVDEO"] = true,   -- 123° LULA13XVDEO -- 14/12 -- <@1379140469740535942>,
     ["pozella999"] = true,   -- 111° pozella999 -- Permanente -- <@999729939798556792>,
     ["Eduardo_novo17"] = true,   -- 112° Eduardo_novo17 -- Permanente -- <@1421312806434897930>,
-    ["matheuzinho_games2"] = true,   -- 113° matheuzinho_games2 -- 18/10 -- <@1259189325720064075>
+    ["matheuzinho_games2"] = true,   -- 113° matheuzinho_games2 -- 18/10 -- <@1259189325720064075>,
+    ["HBT_JU7cLA0MMp"] = true,   -- 113° HBT_JU7cLA0MMp -- 9/12 -- <@1292849634414428325>
 }
 
 return allowedUsers
