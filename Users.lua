@@ -110,7 +110,8 @@ allowedUsers = {
     ["Eduardo_novo17"] = true,   -- 112° Eduardo_novo17 -- Permanente -- <@1421312806434897930>,
     ["matheuzinho_games2"] = true,   -- 113° matheuzinho_games2 -- 18/10 -- <@1259189325720064075>,
     ["HBT_JU7cLA0MMp"] = true,   -- 113° HBT_JU7cLA0MMp -- 9/12 -- <@1292849634414428325>,
-    ["BuildAboatAccont2"] = true,   -- 114° BuildAboatAccont2 -- 18/10 -- <@1400542590692098100>
+    ["BuildAboatAccont2"] = true,   -- 114° BuildAboatAccont2 -- 18/10 -- <@1400542590692098100>,
+    ["Riggs_scott"] = true,   -- 115° Riggs_scott -- ADV -- <@1071977818453442621>
 }
 
 return allowedUsers
