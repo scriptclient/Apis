@@ -110,7 +110,8 @@ allowedUsers = {
     ["kauaw12349ph"] = true,   -- 117° kauaw12349ph -- 19/10 -- <@601515648593690654>,
     ["ddd"] = true,   -- 118° ddd -- 33 -- dd,
     ["Daviluccasanthuus"] = true,   -- 119° Daviluccasanthuus -- 16/03 -- <@1242576206834962443>,
-    ["gamekaua903"] = true,   -- 114° gamekaua903 -- 23/10 -- <@1414919524574036100>
+    ["gamekaua903"] = true,   -- 114° gamekaua903 -- 23/10 -- <@1414919524574036100>,
+    ["jp_joao00"] = true,   -- 115° jp_joao00 -- 16/03 -- <@1422389100987678895>
 }
 
 return allowedUsers
