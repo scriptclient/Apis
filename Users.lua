@@ -109,7 +109,8 @@ allowedUsers = {
     ["GalaxyHD133"] = true,   -- 116° GalaxyHD133 -- 22/10 -- <@1395893668216307722>,
     ["kauaw12349ph"] = true,   -- 117° kauaw12349ph -- 19/10 -- <@601515648593690654>,
     ["ddd"] = true,   -- 118° ddd -- 33 -- dd,
-    ["Daviluccasanthuus"] = true,   -- 119° Daviluccasanthuus -- 16/03 -- <@1242576206834962443>
+    ["Daviluccasanthuus"] = true,   -- 119° Daviluccasanthuus -- 16/03 -- <@1242576206834962443>,
+    ["gamekaua903"] = true,   -- 114° gamekaua903 -- 23/10 -- <@1414919524574036100>
 }
 
 return allowedUsers
