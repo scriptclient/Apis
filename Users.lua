@@ -112,7 +112,8 @@ allowedUsers = {
     ["Daviluccasanthuus"] = true,   -- 119° Daviluccasanthuus -- 16/03 -- <@1242576206834962443>,
     ["gamekaua903"] = true,   -- 114° gamekaua903 -- 23/10 -- <@1414919524574036100>,
     ["jp_joao00"] = true,   -- 115° jp_joao00 -- 16/03 -- <@1422389100987678895>,
-    ["ERROR404_YS"] = true,   -- 116° ERROR404_YS -- 16/03 -- <@1413283999974953070>
+    ["ERROR404_YS"] = true,   -- 116° ERROR404_YS -- 16/03 -- <@1413283999974953070>,
+    ["doritos55876"] = true,   -- 117° doritos55876 -- 19/10 -- <@1317885329767665747>
 }
 
 return allowedUsers
