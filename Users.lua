@@ -113,7 +113,8 @@ allowedUsers = {
     ["doritos55876"] = true,   -- 117° doritos55876 -- 19/10 -- <@1317885329767665747>,
     ["fuguetinholiv"] = true,   -- 118° fuguetinholiv -- Permanente -- <@1426625512624750672>,
     ["318789bhute"] = true,   -- 119° 318789bhute -- 20/10 -- <@1416542887251804284>,
-    ["nobruzin0904"] = true,   -- 117° nobruzin0904 -- 17/12 -- <@1106362755759493271>
+    ["nobruzin0904"] = true,   -- 117° nobruzin0904 -- 17/12 -- <@1106362755759493271>,
+    ["64y01"] = true,   -- 118° 64y01 -- 17/12 -- <@1326853664203341867>
 }
 
 return allowedUsers
