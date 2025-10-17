@@ -114,7 +114,8 @@ allowedUsers = {
     ["jp_joao00"] = true,   -- 115° jp_joao00 -- 16/03 -- <@1422389100987678895>,
     ["ERROR404_YS"] = true,   -- 116° ERROR404_YS -- 16/03 -- <@1413283999974953070>,
     ["doritos55876"] = true,   -- 117° doritos55876 -- 19/10 -- <@1317885329767665747>,
-    ["fuguetinholiv"] = true,   -- 118° fuguetinholiv -- Permanente -- <@1426625512624750672>
+    ["fuguetinholiv"] = true,   -- 118° fuguetinholiv -- Permanente -- <@1426625512624750672>,
+    ["318789bhute"] = true,   -- 119° 318789bhute -- 20/10 -- <@1416542887251804284>
 }
 
 return allowedUsers
