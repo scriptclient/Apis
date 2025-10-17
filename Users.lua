@@ -113,7 +113,8 @@ allowedUsers = {
     ["64y01"] = true,   -- 118° 64y01 -- 17/12 -- <@1326853664203341867>,
     ["ADMIN_ADUSE2456"] = true,   -- 119° ADMIN_ADUSE2456 -- 24/10 -- <@1428419697199681568>,
     ["Jean123wrtp0w"] = true,   -- 120° Jean123wrtp0w -- 24/10 -- <@1414074166512062644>,
-    ["witor3607"] = true,   -- 121° witor3607 -- 20/10 -- <@1396881223066063030>
+    ["witor3607"] = true,   -- 121° witor3607 -- 20/10 -- <@1396881223066063030>,
+    ["kauanovo356"] = true,   -- 118° kauanovo356 -- 17/12 -- kaualima8876
 }
 
 return allowedUsers
