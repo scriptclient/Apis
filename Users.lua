@@ -119,7 +119,8 @@ allowedUsers = {
     ["MeliodaGamer42"] = true,   -- 120° MeliodaGamer42 -- 18/11 -- <@1222848449549045903>,
     ["ninoezekielgael"] = true,   -- 121° ninoezekielgael -- Permanente -- <@951742923702161458>,
     ["gabriel28246"] = true,   -- 122° gabriel28246 -- Permanente -- <@1312187050610659420>,
-    ["calebzxxlskx"] = true,   -- 123° calebzxxlskx -- 25/10 -- <@1417343317808517172>
+    ["calebzxxlskx"] = true,   -- 123° calebzxxlskx -- 25/10 -- <@1417343317808517172>,
+    ["cantanguandi2"] = true,   -- 124° cantanguandi2 -- tiktok -- <@1392681958319980616>
 }
 
 return allowedUsers
