@@ -114,7 +114,8 @@ allowedUsers = {
     ["Rafael_GMR0687"] = true,   -- 121° Rafael_GMR0687 -- Permanente -- <@990440684655890473>,
     ["vvjfxhhx"] = true,   -- 122° vvjfxhhx -- 25/10 -- <@1361081011273994504>,
     ["COXINHA_1665"] = true,   -- 123° COXINHA_1665 -- 25/10 -- <@1425871794836869253>,
-    ["mika_angel019"] = true,   -- 118° mika_angel019 -- 20/10 -- <@1261069918078767174>
+    ["mika_angel019"] = true,   -- 118° mika_angel019 -- 20/10 -- <@1261069918078767174>,
+    ["ejftjdd7t"] = true,   -- 119° ejftjdd7t -- 25/10 -- menor_xp_072_85757
 }
 
 return allowedUsers
