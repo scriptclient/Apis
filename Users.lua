@@ -117,7 +117,8 @@ allowedUsers = {
     ["kauanovo356"] = true,   -- 119° kauanovo356 -- 17/12 -- <@965751295711539281>,
     ["nvm mika_angel019"] = true,   -- 120° nvm mika_angel019 -- 20/10 -- <@1261069918078767174>,
     ["F4z3nd3ir0"] = true,   -- 120° F4z3nd3ir0 -- 17/03 -- <@1318713890586103919>,
-    ["Rafael_GMR0687"] = true,   -- 121° Rafael_GMR0687 -- Permanente -- <@990440684655890473>
+    ["Rafael_GMR0687"] = true,   -- 121° Rafael_GMR0687 -- Permanente -- <@990440684655890473>,
+    ["vvjfxhhx"] = true,   -- 122° vvjfxhhx -- 25/10 -- <@1361081011273994504>
 }
 
 return allowedUsers
