@@ -76,7 +76,6 @@ allowedUsers = {
     ["hsuahj_62"] = true,   -- 74° hsuahj_62 -- 19/10 -- <@1394748106527997952>
     ["Galipexxzk"] = true,   -- 75° Galipexxzk -- 19/10 -- <@1403103958263795712>
     ["FrestKw"] = true,   -- 76° FrestKw -- 12/11 -- <@1353495434135339139>
-    ["testaa"] = true,   -- 77° testaa -- test -- test
     ["c009kjg"] = true,   -- 78° c009kjg -- perm -- <@867948874248110120>
     ["Brunao2016"] = true,   -- 79° Brunao2016 -- 19/10 -- <@1389470011772506112>
     ["Lawliet_BR007"] = true,   -- 80° Lawliet_BR007 -- 16/03 -- <@1265342595329032252>
