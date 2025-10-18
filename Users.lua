@@ -115,7 +115,8 @@ allowedUsers = {
     ["witor3607"] = true,   -- 121° witor3607 -- 20/10 -- <@1396881223066063030>,,
     ["Infernal_King000"] = true,   -- 119° Infernal_King000 -- 17/11 -- <@1270931079364087818>,
     ["kauanovo356"] = true,   -- 119° kauanovo356 -- 17/12 -- <@965751295711539281>,
-    ["nvm mika_angel019"] = true,   -- 120° nvm mika_angel019 -- 20/10 -- <@1261069918078767174>
+    ["nvm mika_angel019"] = true,   -- 120° nvm mika_angel019 -- 20/10 -- <@1261069918078767174>,
+    ["F4z3nd3ir0"] = true,   -- 120° F4z3nd3ir0 -- 17/03 -- <@1318713890586103919>
 }
 
 return allowedUsers
