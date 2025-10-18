@@ -121,7 +121,8 @@ allowedUsers = {
     ["calebzxxlskx"] = true,   -- 123° calebzxxlskx -- 25/10 -- <@1417343317808517172>,
     ["cantanguandi2"] = true,   -- 124° cantanguandi2 -- tiktok -- <@1392681958319980616>,
     ["EOPH_RLK7"] = true,   -- 125° EOPH_RLK7 -- 21/10 -- <@1323323672437588030>,
-    ["j7pirk"] = true,   -- 125° j7pirk -- Permanente -- <@1327932276901675061>
+    ["j7pirk"] = true,   -- 125° j7pirk -- Permanente -- <@1327932276901675061>,
+    ["junin237587"] = true,   -- 126° junin237587 -- 18/12 -- <@1425562243508207747>
 }
 
 return allowedUsers
