@@ -118,7 +118,8 @@ allowedUsers = {
     ["slk_soumacarioca"] = true,   -- 117° slk_soumacarioca -- Permanente -- <@1402972891162611762>,
     ["jsnsienhsienj"] = true,   -- 118° jsnsienhsienj -- permanente -- <@771039442957500487>,
     ["sigarrae"] = true,   -- 119° sigarrae -- 01/11 -- <@1362115295749341204>,
-    ["pattsumrbs"] = true,   -- 120° pattsumrbs -- 01/11 -- <@1336211012675960844>
+    ["pattsumrbs"] = true,   -- 120° pattsumrbs -- 01/11 -- <@1336211012675960844>,
+    ["Engg7819"] = true,   -- 121° Engg7819 -- 19/11 -- <@1397109459041521674>
 }
 
 return allowedUsers
