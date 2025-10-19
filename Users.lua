@@ -114,7 +114,8 @@ allowedUsers = {
     ["MIGUELWWW22"] = true,   -- 119° MIGUELWWW22 -- 19/12 -- <@1223775248026042408>,
     ["indioff_3"] = true,   -- 120° indioff_3 -- TikTok -- <@1394780227116335125>,
     ["vhsbetik"] = true,   -- 121° vhsbetik -- 22/10 -- <@1419806412862783520>,
-    ["danikidd93"] = true,   -- 116° danikidd93 -- 22/10 -- <@1423104000596906136>
+    ["danikidd93"] = true,   -- 116° danikidd93 -- 22/10 -- <@1423104000596906136>,
+    ["slk_soumacarioca"] = true,   -- 117° slk_soumacarioca -- Permanente -- <@1402972891162611762>
 }
 
 return allowedUsers
