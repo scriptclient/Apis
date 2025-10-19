@@ -117,7 +117,8 @@ allowedUsers = {
     ["danikidd93"] = true,   -- 116° danikidd93 -- 22/10 -- <@1423104000596906136>,
     ["slk_soumacarioca"] = true,   -- 117° slk_soumacarioca -- Permanente -- <@1402972891162611762>,
     ["jsnsienhsienj"] = true,   -- 118° jsnsienhsienj -- permanente -- <@771039442957500487>,
-    ["sigarrae"] = true,   -- 119° sigarrae -- 01/11 -- <@1362115295749341204>
+    ["sigarrae"] = true,   -- 119° sigarrae -- 01/11 -- <@1362115295749341204>,
+    ["pattsumrbs"] = true,   -- 120° pattsumrbs -- 01/11 -- <@1336211012675960844>
 }
 
 return allowedUsers
