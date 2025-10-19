@@ -114,7 +114,8 @@ allowedUsers = {
     ["j7pirk"] = true,   -- 115° j7pirk -- Permanente -- <@1327932276901675061>
     ["junin237587"] = true,   -- 116° junin237587 -- 18/12 -- <@1425562243508207747>
     ["CabeloBATATEIRU"] = true,   -- 117° CabeloBATATEIRU -- 21/10 -- <@1429129463567749242>,
-    ["emma745419"] = true,   -- 118° emma745419 -- 18/11 -- <@760717484042092624>
+    ["emma745419"] = true,   -- 118° emma745419 -- 18/11 -- <@760717484042092624>,
+    ["jeff_yowa"] = true,   -- 117° jeff_yowa -- divulgador -- <@1397262082767982633>
 }
 
 return allowedUsers
