@@ -65,7 +65,6 @@ allowedUsers = {
     ["gamekaua903"] = true,   -- 66° gamekaua903 -- 23/10 -- <@1414919524574036100>
     ["Riggs_scott"] = true,   -- 67° Riggs_scott -- ADV -- <@1071977818453442621>
     ["GalaxyHD133"] = true,   -- 68° GalaxyHD133 -- 22/10 -- <@1395893668216307722>
-    ["kauaw12349ph"] = true,   -- 69° kauaw12349ph -- 19/10 -- <@601515648593690654>
     ["magnata_pedro3"] = true,   -- 70° magnata_pedro3 -- 20/10 -- <@1236793901898268815>
     ["jj_alessio22"] = true,   -- 71° jj_alessio22 -- Permanente -- <@1399773697899761837>
     ["Henriquea973"] = true,   -- 72° Henriquea973 -- 12/11 -- <@1285953278940807170>
