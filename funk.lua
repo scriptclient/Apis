@@ -47,6 +47,7 @@ local Musics = {
         { Name = "BRR BRR PATAPIM FUNK", Id = 117170901476451 },
         { Name = "no passinho do funk", Id = 135381771899014 },
         { Name = "STRANGE FUNK", Id = 116893005914738 },
+    { Name = "já fiz coisas com você", Id = 130401348697 },
 }
 
 return Musics
