@@ -118,7 +118,8 @@ allowedUsers = {
     ["jeff_yowa"] = true,   -- 117° jeff_yowa -- divulgador -- <@1397262082767982633>,
     ["rio_darkA"] = true,   -- 118° rio_darkA -- 26/10 -- <@1320050504037826570>,
     ["MIGUELWWW22"] = true,   -- 119° MIGUELWWW22 -- 19/12 -- <@1223775248026042408>,
-    ["indioff_3"] = true,   -- 120° indioff_3 -- TikTok -- <@1394780227116335125>
+    ["indioff_3"] = true,   -- 120° indioff_3 -- TikTok -- <@1394780227116335125>,
+    ["vhsbetik"] = true,   -- 121° vhsbetik -- 22/10 -- <@1419806412862783520>
 }
 
 return allowedUsers
