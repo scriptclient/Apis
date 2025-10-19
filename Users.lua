@@ -116,6 +116,7 @@ allowedUsers = {
     ["CabeloBATATEIRU"] = true,   -- 117° CabeloBATATEIRU -- 21/10 -- <@1429129463567749242>,
     ["emma745419"] = true,   -- 118° emma745419 -- 18/11 -- <@760717484042092624>,
     ["jeff_yowa"] = true,   -- 117° jeff_yowa -- divulgador -- <@1397262082767982633>,
+    ["rio_darkA"] = true,   -- 118° rio_darkA -- 26/10 -- <@1320050504037826570>
 }
 
 return allowedUsers
