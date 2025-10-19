@@ -5,5 +5,4 @@ return {
     ["N0OB_BRAINR0T"] = "PVPZEIRO",
     ["Lawliet_BR007"] = "zMedina",
     ["LULA13XVDEO"] = "Ronaldo Cheiroso",
-    ["dripcliento"] = "#01 da Cite",
 }
