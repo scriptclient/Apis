@@ -33,7 +33,6 @@ allowedUsers = {
     ["renanmacedofreitas"] = true,   -- 33° renanmacedofreitas -- Permanente -- <@1253126680969613392>
     ["acapsavass2"] = true,   -- 34° acapsavass2 -- 09/11 -- <@1166162590808936599>
     ["Luizmiguel0156"] = true,   -- 35° Luizmiguel0156 -- Permanente -- <@1412148284335849494>
-    ["boli256"] = true,   -- 36° boli256 -- 19/10 -- <@1162443916688236657>
     ["God_Shazan24"] = true,   -- 37° God_Shazan24 -- 05/03 -- <@1037707209649434644>
     ["furucax"] = true,   -- 38° furucax -- 09/11 -- <@1409182651612664030>
     ["derrok0076"] = true,   -- 39° derrok0076 -- permanente -- <@1071176924094803989>
