@@ -68,7 +68,6 @@ allowedUsers = {
     ["jj_alessio22"] = true,   -- 71° jj_alessio22 -- Permanente -- <@1399773697899761837>
     ["Henriquea973"] = true,   -- 72° Henriquea973 -- 12/11 -- <@1285953278940807170>
     ["RAFAELTX9"] = true,   -- 73° RAFAELTX9 -- 12/11 -- <@1313228292442034207>
-    ["Galipexxzk"] = true,   -- 75° Galipexxzk -- 19/10 -- <@1403103958263795712>
     ["FrestKw"] = true,   -- 76° FrestKw -- 12/11 -- <@1353495434135339139>
     ["c009kjg"] = true,   -- 78° c009kjg -- perm -- <@867948874248110120>
     ["Brunao2016"] = true,   -- 79° Brunao2016 -- 19/10 -- <@1389470011772506112>
