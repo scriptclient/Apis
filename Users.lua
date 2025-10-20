@@ -122,7 +122,8 @@ allowedUsers = {
     ["yRntheRlk"] = true,   -- 122° yRntheRlk -- TikTok -- <@1402460982449803385>,
     ["jaomiguelbaby"] = true,   -- 122° jaomiguelbaby -- permanente -- <@1300890785666830338>,,
     ["otavio9365"] = true,   -- 124° otavio9365 -- 22/10 -- <@1368510055506251807>,
-    ["lucasninja44444"] = true,   -- 125° lucasninja44444 -- 22/10 -- <@1390529161138933911>
+    ["lucasninja44444"] = true,   -- 125° lucasninja44444 -- 22/10 -- <@1390529161138933911>,
+    ["manuellapegoraro"] = true,   -- 125° manuellapegoraro -- permanente -- <@1333639935240044618>
 }
 
 return allowedUsers
