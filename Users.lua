@@ -120,7 +120,8 @@ allowedUsers = {
     ["Mariozinhozezo"] = true,   -- 122° Mariozinhozezo -- 1/11 -- <@1155356129971404850>,
     ["CUZCUZ12900"] = true,   -- 122° CUZCUZ12900 -- 01/01 -- <@1376637968768303104>,
     ["yRntheRlk"] = true,   -- 122° yRntheRlk -- TikTok -- <@1402460982449803385>,
-    ["jaomiguelbaby"] = true,   -- 122° jaomiguelbaby -- permanente -- <@1300890785666830338>
+    ["jaomiguelbaby"] = true,   -- 122° jaomiguelbaby -- permanente -- <@1300890785666830338>,
+    ["camedordeloiras_65892"] = true,   -- 123° camedordeloiras_65892 -- 22/10 -- <@1390529161138933911>
 }
 
 return allowedUsers
