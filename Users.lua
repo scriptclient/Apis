@@ -69,7 +69,6 @@ allowedUsers = {
     ["seupaiemeu778"] = true,   -- 81° seupaiemeu778 -- 23/10 -- <@1313245014205399112>
     ["Ru12be4ns73"] = true,   -- 82° Ru12be4ns73 -- 13/02 -- <@1420227217459515444>
     ["sung_Shadoww"] = true,   -- 83° sung_Shadoww -- 13/11 -- <@969292147541028905>
-    ["kaoke_7"] = true,   -- 84° kaoke_7 -- 20/10 -- <@1300976763924516964>
     ["Victhomxd"] = true,   -- 85° Victhomxd -- permanente -- <@1190835905116766210>
     ["eojaonevd41"] = true,   -- 86° eojaonevd41 -- permanente -- <@1349573143609741374>
     ["benanada2c"] = true,   -- 87° benanada2c -- permanente -- <@1136469950408708256>
