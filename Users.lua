@@ -120,7 +120,8 @@ allowedUsers = {
     ["Dracius244"] = true,   -- 119° Dracius244 -- 27/10 -- <@1280587434672914452>,
     ["Putzz_LiLi9"] = true,   -- 120° Putzz_LiLi9 -- 27/10 -- <@1425871794836869253>,
     ["Ax7_offbatendo"] = true,   -- 121° Ax7_offbatendo -- 27/10 -- <@1402460982449803385>,
-    ["fuguetinholiv"] = true,   -- 122° fuguetinholiv -- permanente -- <@1426625512624750672>
+    ["fuguetinholiv"] = true,   -- 122° fuguetinholiv -- permanente -- <@1426625512624750672>,
+    ["EMANUEL2022c"] = true,   -- 123° EMANUEL2022c -- 27/10 -- <@1416204412606615592>
 }
 
 return allowedUsers
