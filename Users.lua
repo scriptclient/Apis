@@ -76,7 +76,6 @@ allowedUsers = {
     ["labubumorango99"] = true,   -- 89° labubumorango99 -- 10/11 -- <@1426321715792711721>
     ["adm74957"] = true,   -- 90° adm74957 -- 14/11 -- <@1126949157832228944>
     ["Dudugamer_2022"] = true,   -- 91° Dudugamer_2022 -- 14/11 -- <@776542598693257227>
-    ["Robsn1997"] = true,   -- 92° Robsn1997 -- 20/10 -- <@1386181944349560904>
     ["Rip_Zeus7799"] = true,   -- 93° Rip_Zeus7799 -- <@1076559460283187210>
     ["LULA13XVDEO"] = true,   -- 94° LULA13XVDEO -- 14/12 -- <@1379140469740535942>
     ["HBT_JU7cLA0MMp"] = true,   -- 95° HBT_JU7cLA0MMp -- 9/12 -- <@1292849634414428325>
