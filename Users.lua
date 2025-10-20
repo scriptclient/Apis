@@ -120,7 +120,8 @@ allowedUsers = {
     ["Ax7_offbatendo"] = true,   -- 121° Ax7_offbatendo -- 27/10 -- <@1402460982449803385>,
     ["fuguetinholiv"] = true,   -- 122° fuguetinholiv -- permanente -- <@1426625512624750672>,
     ["EMANUEL2022c"] = true,   -- 123° EMANUEL2022c -- 27/10 -- <@1416204412606615592>,
-    ["vampiroBloxyXD"] = true,   -- 122° vampiroBloxyXD -- 27/10 -- <@1426305376403460096>
+    ["vampiroBloxyXD"] = true,   -- 122° vampiroBloxyXD -- 27/10 -- <@1426305376403460096>,
+    ["flaviosurfizera1233"] = true,   -- 123° flaviosurfizera1233 -- 20/3 -- <@1417874428636692521>
 }
 
 return allowedUsers
