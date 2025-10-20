@@ -89,7 +89,6 @@ allowedUsers = {
     ["Rafael_GMR0687"] = true,   -- 104° Rafael_GMR0687 -- Permanente -- <@990440684655890473>
     ["vvjfxhhx"] = true,   -- 105° vvjfxhhx -- 25/10 -- <@1361081011273994504>
     ["COXINHA_1665"] = true,   -- 106° COXINHA_1665 -- 25/10 -- <@1425871794836869253>
-    ["mika_angel019"] = true,   -- 107° mika_angel019 -- 20/10 -- <@1261069918078767174>
     ["ejftjdd7t"] = true,   -- 108° ejftjdd7t -- 25/10 -- <@1371522691919646720>
     ["MeliodaGamer42"] = true,   -- 109° MeliodaGamer42 -- 18/11 -- <@1222848449549045903>
     ["ninoezekielgael"] = true,   -- 110° ninoezekielgael -- Permanente -- <@951742923702161458>
