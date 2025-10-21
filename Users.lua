@@ -121,7 +121,8 @@ allowedUsers = {
     ["vampiroBloxyXD"] = true,   -- 122° vampiroBloxyXD -- 27/10 -- <@1426305376403460096>,
     ["flaviosurfizera1233"] = true,   -- 123° flaviosurfizera1233 -- 20/3 -- <@1417874428636692521>,
     ["kdjwoakrueosm"] = true,   -- 124° kdjwoakrueosm -- 20/12 -- <@1347993568316227697>,
-    ["ggmax35325"] = true,   -- 125° ggmax35325 -- 20/11 -- <@1135008396647616553>
+    ["ggmax35325"] = true,   -- 125° ggmax35325 -- 20/11 -- <@1135008396647616553>,
+    ["bobby1545hlo"] = true,   -- 124° bobby1545hlo -- Permanente -- <@1421831518111797278>
 }
 
 return allowedUsers
