@@ -126,7 +126,8 @@ allowedUsers = {
     ["Foortataq"] = true,   -- 129° Foortataq -- tik Tok -- <@1189958430153252917>,
     ["DANTENAHUELVIDELA"] = true,   -- 130° DANTENAHUELVIDELA -- 24/10 -- <@1408448336205316292>,
     ["eu_lc2440"] = true,   -- 131° eu_lc2440 -- 28/10 -- <@1358489181441101914>,
-    ["Davi2000897"] = true,   -- 130° Davi2000897 -- permanente -- <@1250169425441853524>
+    ["Davi2000897"] = true,   -- 130° Davi2000897 -- permanente -- <@1250169425441853524>,
+    ["pedrin_apelao1"] = true,   -- 129° pedrin_apelao1 -- 29/10 -- <@1414258207932813446>
     
 }
 
