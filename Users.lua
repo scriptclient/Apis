@@ -28,7 +28,6 @@ allowedUsers = {
     ["x_P3drox"] = true,   -- 29° x_P3drox -- Permanente -- <@1424571061369966602>
     ["Kaua_452"] = true,   -- 30° Kaua_452 -- Modder -- <@1324502380225495077>
     ["Ythallo67899"] = true,   -- 31° Ythallo67899 -- Permanente -- <@1395310454259322942>
-    ["pedro312jee"] = true,   -- 32° pedro312jee -- 22/10 -- <@1417675399680495708>
     ["renanmacedofreitas"] = true,   -- 33° renanmacedofreitas -- Permanente -- <@1253126680969613392>
     ["acapsavass2"] = true,   -- 34° acapsavass2 -- 09/11 -- <@1166162590808936599>
     ["Luizmiguel0156"] = true,   -- 35° Luizmiguel0156 -- Permanente -- <@1412148284335849494>
