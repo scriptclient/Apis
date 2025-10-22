@@ -1,5 +1,4 @@
 allowedUsers = {
-    ["IVANBR9876"] = true,  -- 00° V4mp -- STAFF -- @desmond_doss9
     ["brenardao9"] = true,  -- 01° brenardao9 -- perm -- Sem
     ["Flhiz_bug"] = true,   -- 02° Flhiz_bug -- permanente Sem
     ["ChaRada519"] = true,  -- 03° ChaRada519 -- permanente Sem
@@ -26,7 +25,6 @@ allowedUsers = {
     ["MeninoDaRoca9"] = true,   -- 27° MeninoDaRoca9 -- 07/11 -- <@1407784397423251557>
     ["higginsemily3"] = true,   -- 28° higginsemily3 -- perm -- <@1395310454259322942>
     ["x_P3drox"] = true,   -- 29° x_P3drox -- Permanente -- <@1424571061369966602>
-    ["Kaua_452"] = true,   -- 30° Kaua_452 -- Modder -- <@1324502380225495077>
     ["Ythallo67899"] = true,   -- 31° Ythallo67899 -- Permanente -- <@1395310454259322942>
     ["renanmacedofreitas"] = true,   -- 33° renanmacedofreitas -- Permanente -- <@1253126680969613392>
     ["acapsavass2"] = true,   -- 34° acapsavass2 -- 09/11 -- <@1166162590808936599>
