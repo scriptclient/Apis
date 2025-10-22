@@ -127,7 +127,8 @@ allowedUsers = {
     ["WZzK_x4"] = true,   -- 128° WZzK_x4 -- 28/10 -- <@1427074983623921805>,
     ["Foortataq"] = true,   -- 129° Foortataq -- tik Tok -- <@1189958430153252917>,
     ["DANTENAHUELVIDELA"] = true,   -- 130° DANTENAHUELVIDELA -- 24/10 -- <@1408448336205316292>,
-    ["eu_lc2440"] = true,   -- 131° eu_lc2440 -- 28/10 -- <@1358489181441101914>
+    ["eu_lc2440"] = true,   -- 131° eu_lc2440 -- 28/10 -- <@1358489181441101914>,
+    ["teste"] = true,   -- 130° teste -- Beta -- <@1268023655548321865>
     
 }
 
