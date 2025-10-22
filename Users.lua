@@ -16,7 +16,6 @@ allowedUsers = {
     ["god_hack750"] = true,   -- 15° god_hack750 -- até 03/12 -- Sem
     ["ikfsjjssjjs"] = true,   -- 17° ikfsjjssjjs -- 03/05 -- Sem
     ["le36463"] = true,   -- 18° le36463 -- 03/11 -- Sem
-    ["mayconpkdemel"] = true,   -- 20° mayconpkdemel -- 20/10 -- Sem
     ["NikitaGavrileiko"] = true,   -- 22° NikitaGavrileiko -- 05/11 -- Sem
     ["Itz_Mariena"] = true,   -- 23° Itz_Mariena -- 05/12 -- Sem
     ["brunoeduardo87"] = true,   -- 24° brunoeduardo87 -- 01/11 -- ymxxm
