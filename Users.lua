@@ -126,6 +126,7 @@ allowedUsers = {
     ["kaique22325"] = true,   -- 125° kaique22325 -- 24/10 -- <@1132338941807312916>,
     ["sem_amigosssss"] = true,   -- 126° sem_amigosssss -- 24/10 -- <@1360015997959930071>,
     ["lertegse"] = true,   -- 127° lertegse -- 24/10 -- <@1411467091218923582>,
+    ["WZzK_x4"] = true,   -- 128° WZzK_x4 -- 28/10 -- <@1427074983623921805>
     
 }
 
