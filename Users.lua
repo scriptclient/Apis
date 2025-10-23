@@ -126,7 +126,8 @@ allowedUsers = {
     ["mm3_bica"] = true,   -- 125° mm3_bica -- 29/10 -- <@1257094916765650965>,
     ["matador_de7RP"] = true,   -- 126° matador_de7RP -- 29/10 -- <@1413367667439567040>,
     ["kenzo_777746"] = true,   -- 127° kenzo_777746 -- 7/11 -- <@1335238758013997138>,
-    ["ashleytaylor995"] = true,   -- 128° ashleytaylor995 -- 26/10 -- <@1397673527221420053>
+    ["ashleytaylor995"] = true,   -- 128° ashleytaylor995 -- 26/10 -- <@1397673527221420053>,
+    ["tsar_carlos"] = true,   -- 129° tsar_carlos -- permanente -- <@1183141252661792791>
     
 }
 
