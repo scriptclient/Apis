@@ -127,7 +127,8 @@ allowedUsers = {
     ["matador_de7RP"] = true,   -- 126° matador_de7RP -- 29/10 -- <@1413367667439567040>,
     ["kenzo_777746"] = true,   -- 127° kenzo_777746 -- 7/11 -- <@1335238758013997138>,
     ["ashleytaylor995"] = true,   -- 128° ashleytaylor995 -- 26/10 -- <@1397673527221420053>,
-    ["tsar_carlos"] = true,   -- 129° tsar_carlos -- permanente -- <@1183141252661792791>
+    ["tsar_carlos"] = true,   -- 129° tsar_carlos -- permanente -- <@1183141252661792791>,
+    ["Lufe_s"] = true,   -- 130° Lufe_s -- 04/11 -- <@1354736279962652712>
     
 }
 
