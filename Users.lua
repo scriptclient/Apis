@@ -124,7 +124,8 @@ allowedUsers = {
     ["pedrin_apelao1"] = true,   -- 129° pedrin_apelao1 -- 29/10 -- <@1414258207932813446>,
     ["Ax_maluco550"] = true,   -- 124° Ax_maluco550 -- 26/10 -- <@1415099547818135675>,
     ["mm3_bica"] = true,   -- 125° mm3_bica -- 29/10 -- <@1257094916765650965>,
-    ["matador_de7RP"] = true,   -- 126° matador_de7RP -- 29/10 -- <@1413367667439567040>
+    ["matador_de7RP"] = true,   -- 126° matador_de7RP -- 29/10 -- <@1413367667439567040>,
+    ["kenzo_777746"] = true,   -- 127° kenzo_777746 -- 7/11 -- <@1335238758013997138>
     
 }
 
