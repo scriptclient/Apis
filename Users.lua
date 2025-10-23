@@ -131,7 +131,8 @@ allowedUsers = {
     ["1MIGUEL1BLACK1"] = true,   -- 131° 1MIGUEL1BLACK1 -- 30/10 -- <@991014244248076289>,
     ["ffg"] = true,   -- 132° ffg -- 33 -- ff,
     ["rafa123wx8"] = true,   -- 132° rafa123wx8 -- 30/10 -- <@1030351716777988096>,
-    ["cauiuuuoooiii"] = true,   -- 133° cauiuuuoooiii -- 30/10 -- <@1426321715792711721>
+    ["cauiuuuoooiii"] = true,   -- 133° cauiuuuoooiii -- 30/10 -- <@1426321715792711721>,
+    ["Matheus_ticole10236"] = true,   -- 134° Matheus_ticole10236 -- 30/10 -- <@1340405713662509118>
     
 }
 
