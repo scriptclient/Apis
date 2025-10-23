@@ -134,7 +134,6 @@ allowedUsers = {
     ["cauiuuuoooiii"] = true,   -- 133° cauiuuuoooiii -- 30/10 -- <@1426321715792711721>,
     ["Matheus_ticole10236"] = true,   -- 134° Matheus_ticole10236 -- 30/10 -- <@1340405713662509118>,
     ["eduzinn_34"] = true,   -- 135° eduzinn_34 -- 30/10 -- <@1393000234723840060>,
-    ["021_vtnn"] = true,   -- 136° 021_vtnn -- tst -- <@1071176924094803989>
     
 }
 
