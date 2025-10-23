@@ -60,7 +60,6 @@ allowedUsers = {
     ["FrestKw"] = true,   -- 76° FrestKw -- 12/11 -- <@1353495434135339139>
     ["c009kjg"] = true,   -- 78° c009kjg -- perm -- <@867948874248110120>
     ["Lawliet_BR007"] = true,   -- 80° Lawliet_BR007 -- 16/03 -- <@1265342595329032252>
-    ["seupaiemeu778"] = true,   -- 81° seupaiemeu778 -- 23/10 -- <@1313245014205399112>
     ["Ru12be4ns73"] = true,   -- 82° Ru12be4ns73 -- 13/02 -- <@1420227217459515444>
     ["sung_Shadoww"] = true,   -- 83° sung_Shadoww -- 13/11 -- <@969292147541028905>
     ["Victhomxd"] = true,   -- 85° Victhomxd -- permanente -- <@1190835905116766210>
