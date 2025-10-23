@@ -123,7 +123,8 @@ allowedUsers = {
     ["Davi2000897"] = true,   -- 130° Davi2000897 -- permanente -- <@1250169425441853524>,
     ["pedrin_apelao1"] = true,   -- 129° pedrin_apelao1 -- 29/10 -- <@1414258207932813446>,
     ["Ax_maluco550"] = true,   -- 124° Ax_maluco550 -- 26/10 -- <@1415099547818135675>,
-    ["mm3_bica"] = true,   -- 125° mm3_bica -- 29/10 -- <@1257094916765650965>
+    ["mm3_bica"] = true,   -- 125° mm3_bica -- 29/10 -- <@1257094916765650965>,
+    ["matador_de7RP"] = true,   -- 126° matador_de7RP -- 29/10 -- <@1413367667439567040>
     
 }
 
