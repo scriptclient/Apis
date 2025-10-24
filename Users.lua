@@ -33,7 +33,6 @@ allowedUsers = {
     ["derrok0076"] = true,   -- 39° derrok0076 -- permanente -- <@1071176924094803989>
     ["N0OB_BRAINR0T"] = true,   -- 40° N0OB_BRAINR0T -- perm -- <@1323323672437588030>
     ["987STEPSIS987"] = true,   -- 41° 987STEPSIS987 -- Permanente -- <@1296966145735397417>
-    ["Turbers_productions"] = true,   -- 42° Turbers_productions -- Permanente -- <@1424464649998565426>
     ["Lua099349"] = true,   -- 43° Lua099349 -- Permanente -- <@1411564076231823390>
     ["cademeudinheiromeu_0"] = true,   -- 44° cademeudinheiromeu_0 -- 09/02 -- <@1418245676105728167>
     ["Gabrielzinx_S2"] = true,   -- 45° Gabrielzinx_S2 -- permanente -- <@1383242790133043260>
