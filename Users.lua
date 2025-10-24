@@ -134,7 +134,8 @@ allowedUsers = {
     ["eduzinn_34"] = true,   -- 135° eduzinn_34 -- 30/10 -- <@1393000234723840060>,
     ["jeff_yowa"] = true,   -- 135° jeff_yowa -- tiktok -- <@1397262082767982633>,
     ["felipe89455"] = true,   -- 136° felipe89455 -- 30/10 -- <@1426673290373632060>,
-    ["Matheus_ticole10236"] = true,   -- 136° Matheus_ticole10236 -- 30/10 -- <@1340405713662509118>
+    ["Matheus_ticole10236"] = true,   -- 136° Matheus_ticole10236 -- 30/10 -- <@1340405713662509118>,
+    ["stoleabrainhot986676"] = true,   -- 137° stoleabrainhot986676 -- 30/10 -- <@1161682733647544381>
     
 }
 
