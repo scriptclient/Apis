@@ -137,7 +137,8 @@ allowedUsers = {
     ["Nami_67001"] = true,   -- 142° Nami_67001 -- 28/10 -- <@1398878389238108281>,
     ["davi_toa12"] = true,   -- 143° davi_toa12 -- 29/10 -- <@1156392780734664775>,
     ["RIP_luqinha"] = true,   -- 138° RIP_luqinha -- 28/10 -- <@1400581851420037253>,
-    ["Joaofelipeb0"] = true,   -- 139° Joaofelipeb0 -- 28/10 -- <@1414330713750241301>
+    ["Joaofelipeb0"] = true,   -- 139° Joaofelipeb0 -- 28/10 -- <@1414330713750241301>,
+    ["Rip_tik1k"] = true,   -- 140° Rip_tik1k -- 31/10 -- <@1326981406022176870>
     
 }
 
