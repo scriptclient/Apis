@@ -72,7 +72,8 @@ allowedUsers = {
     ["lllllIllIllIllIllIlIlI"] = true,   -- 72° lllllIllIllIllIllIlIlI -- 28/10 -- <@1425297452805783725>,
     ["makov_666"] = true,   -- 73° makov_666 -- 28/10 -- <@1360015997959930071>,
     ["jeff_yowa"] = true,   -- 74° jeff_yowa -- Tik Tok -- <@1397262082767982633>,
-    ["RIP_luqinha"] = true,   -- 75° RIP_luqinha -- 28/10 -- <@1400581851420037253>
+    ["RIP_luqinha"] = true,   -- 75° RIP_luqinha -- 28/10 -- <@1400581851420037253>,
+    ["rip_katacuri24463"] = true,   -- 76° rip_katacuri24463 -- 31/10 -- <@1393798433487458396>
 }
 
 return allowedUsers
