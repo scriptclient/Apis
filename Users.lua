@@ -32,9 +32,7 @@ allowedUsers = {
     ["N0OB_BRAINR0T"] = true,   -- 40° N0OB_BRAINR0T -- perm -- <@1323323672437588030>
     ["987STEPSIS987"] = true,   -- 41° 987STEPSIS987 -- Permanente -- <@1296966145735397417>
     ["Lua099349"] = true,   -- 43° Lua099349 -- Permanente -- <@1411564076231823390>
-    ["cademeudinheiromeu_0"] = true,   -- 44° cademeudinheiromeu_0 -- 09/02 -- <@1418245676105728167>
     ["Gabrielzinx_S2"] = true,   -- 45° Gabrielzinx_S2 -- permanente -- <@1383242790133043260>
-    ["Zcode98"] = true,   -- 46° Zcode98 -- 09/03 -- <@1288222278550687755>
     ["Ezman_638"] = true,   -- 47° Ezman_638 -- Permanente -- <@1233529006351974460>
     ["rip_kauanreg"] = true,   -- 48° rip_kauanreg -- 10/12 -- <@1400472989954343073>
     ["GUESTS9092"] = true,   -- 49° GUESTS9092 -- permanente -- <@1321637113313235037>
@@ -54,18 +52,13 @@ allowedUsers = {
     ["RAFAELTX9"] = true,   -- 73° RAFAELTX9 -- 12/11 -- <@1313228292442034207>
     ["FrestKw"] = true,   -- 76° FrestKw -- 12/11 -- <@1353495434135339139>
     ["c009kjg"] = true,   -- 78° c009kjg -- perm -- <@867948874248110120>
-    ["Lawliet_BR007"] = true,   -- 80° Lawliet_BR007 -- 16/03 -- <@1265342595329032252>
-    ["Ru12be4ns73"] = true,   -- 82° Ru12be4ns73 -- 13/02 -- <@1420227217459515444>
     ["sung_Shadoww"] = true,   -- 83° sung_Shadoww -- 13/11 -- <@969292147541028905>
     ["Victhomxd"] = true,   -- 85° Victhomxd -- permanente -- <@1190835905116766210>
     ["eojaonevd41"] = true,   -- 86° eojaonevd41 -- permanente -- <@1349573143609741374>
     ["benanada2c"] = true,   -- 87° benanada2c -- permanente -- <@1136469950408708256>
-    ["01Xxx09"] = true,   -- 88° 01Xxx09 -- 14/03 -- <@1363573061038903406>
     ["labubumorango99"] = true,   -- 89° labubumorango99 -- 10/11 -- <@1426321715792711721>
     ["adm74957"] = true,   -- 90° adm74957 -- 14/11 -- <@1126949157832228944>
     ["Dudugamer_2022"] = true,   -- 91° Dudugamer_2022 -- 14/11 -- <@776542598693257227>
-    ["F4z3nd3ir0"] = true,   -- 92° F4z3nd3ir0 -- 17/03 -- <@1318713890586103919>
-    ["CUZCUZ12900"] = true,   -- 93° CUZCUZ12900 -- 01/01 -- <@1376637968768303104>
 }
 
 return allowedUsers
