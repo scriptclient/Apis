@@ -71,7 +71,8 @@ allowedUsers = {
     ["MalkiewXH7722"] = true,   -- 70° MalkiewXH7722 -- 25/12 -- <@1424136578556498111>,
     ["1MIGUEL1BLACK1"] = true,   -- 71° 1MIGUEL1BLACK1 -- 30/10 -- <@991014244248076289>,
     ["lllllIllIllIllIllIlIlI"] = true,   -- 72° lllllIllIllIllIllIlIlI -- 28/10 -- <@1425297452805783725>,
-    ["makov_666"] = true,   -- 73° makov_666 -- 28/10 -- <@1360015997959930071>
+    ["makov_666"] = true,   -- 73° makov_666 -- 28/10 -- <@1360015997959930071>,
+    ["jeff_yowa"] = true,   -- 74° jeff_yowa -- Tik Tok -- <@1397262082767982633>
 }
 
 return allowedUsers
