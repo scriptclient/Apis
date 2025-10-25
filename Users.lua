@@ -135,7 +135,8 @@ allowedUsers = {
     ["Iamthebestemperor"] = true,   -- 141° Iamthebestemperor -- 10/11 -- <@1411522053328338974>,
     ["Turbers_productions"] = true,   -- 141° Turbers_productions -- <@1424464649998565426> -- <@1424464649998565426>,
     ["F4z3nd3ir0"] = true,   -- 141° F4z3nd3ir0 -- 17/03 -- <@1318713890586103919>,
-    ["makov_666"] = true,   -- 141° makov_666 -- 27/10 -- <@1360015997959930071>
+    ["makov_666"] = true,   -- 141° makov_666 -- 27/10 -- <@1360015997959930071>,
+    ["nobruzin0904"] = true,   -- 138° nobruzin0904 -- 17/12 -- <@1106362755759493271>
     
 }
 
