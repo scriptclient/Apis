@@ -75,7 +75,6 @@ allowedUsers = {
     ["64y01"] = true,   -- 97° 64y01 -- 17/12 -- <@1326853664203341867>
     ["Infernal_King000"] = true,   -- 101° Infernal_King000 -- 17/11 -- <@1270931079364087818>
     ["kauanovo356"] = true,   -- 102° kauanovo356 -- 17/12 -- <@965751295711539281>
-    ["F4z3nd3ir0"] = true,   -- 103° F4z3nd3ir0 -- 17/03 -- <@1318713890586103919>
     ["Rafael_GMR0687"] = true,   -- 104° Rafael_GMR0687 -- Permanente -- <@990440684655890473>
     ["vvjfxhhx"] = true,   -- 105° vvjfxhhx -- 25/10 -- <@1361081011273994504>
     ["ejftjdd7t"] = true,   -- 108° ejftjdd7t -- 25/10 -- <@1371522691919646720>
