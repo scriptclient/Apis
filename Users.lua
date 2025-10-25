@@ -66,7 +66,8 @@ allowedUsers = {
     ["Dudugamer_2022"] = true,   -- 91° Dudugamer_2022 -- 14/11 -- <@776542598693257227>
     ["F4z3nd3ir0"] = true,   -- 141° F4z3nd3ir0 -- 17/03 -- <@1318713890586103919>
     ["CUZCUZ12900"] = true,   -- 122° CUZCUZ12900 -- 01/01 -- <@1376637968768303104>,
-    ["magal12688"] = true,   -- 68° magal12688 -- 29/10 -- <@1431442263199973377>
+    ["magal12688"] = true,   -- 68° magal12688 -- 29/10 -- <@1431442263199973377>,
+    ["flaviosurfizera1233"] = true,   -- 69° flaviosurfizera1233 -- 23/01 -- <@1417874428636692521>
 }
 
 return allowedUsers
