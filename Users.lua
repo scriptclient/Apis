@@ -76,7 +76,8 @@ allowedUsers = {
     ["RIP_luqinha"] = true,   -- 75° RIP_luqinha -- 28/10 -- <@1400581851420037253>,
     ["rip_katacuri24463"] = true,   -- 76° rip_katacuri24463 -- 31/10 -- <@1393798433487458396>,
     ["Key577778"] = true,      -- 77° Key577778 -- 31/10 -- <@1187450532382650524>,
-    ["AntiRP_80"] = true,   -- 78° AntiRP_80 -- permanente -- <@1408471058864013603>
+    ["AntiRP_80"] = true,   -- 78° AntiRP_80 -- permanente -- <@1408471058864013603>,
+    ["dripcliento"] = true,   -- 79° dripcliento -- TESTE -- <@1268023655548321865>
 }
 
 return allowedUsers
