@@ -79,7 +79,6 @@ allowedUsers = {
     ["MeliodaGamer42"] = true,   -- 109° MeliodaGamer42 -- 18/11 -- <@1222848449549045903>
     ["ninoezekielgael"] = true,   -- 110° ninoezekielgael -- Permanente -- <@951742923702161458>
     ["gabriel28246"] = true,   -- 111° gabriel28246 -- Permanente -- <@1312187050610659420>
-    ["calebzxxlskx"] = true,   -- 112° calebzxxlskx -- 25/10 -- <@1417343317808517172>
     ["cantanguandi2"] = true,   -- 113° cantanguandi2 -- tiktok -- <@1392681958319980616>
     ["j7pirk"] = true,   -- 115° j7pirk -- Permanente -- <@1327932276901675061>
     ["junin237587"] = true,   -- 116° junin237587 -- 18/12 -- <@1425562243508207747>,
