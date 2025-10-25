@@ -138,7 +138,8 @@ allowedUsers = {
     ["Joaofelipeb0"] = true,   -- 139° Joaofelipeb0 -- 28/10 -- <@1414330713750241301>,
     ["Rip_tik1k"] = true,   -- 140° Rip_tik1k -- 31/10 -- <@1326981406022176870>,
     ["Iamthebestemperor"] = true,   -- 141° Iamthebestemperor -- 10/11 -- <@1411522053328338974>,
-    ["Turbers_productions"] = true,   -- 141° Turbers_productions -- <@1424464649998565426> -- <@1424464649998565426>
+    ["Turbers_productions"] = true,   -- 141° Turbers_productions -- <@1424464649998565426> -- <@1424464649998565426>,
+    ["F4z3nd3ir0"] = true,   -- 141° F4z3nd3ir0 -- 17/03 -- <@1318713890586103919>
     
 }
 
