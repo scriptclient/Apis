@@ -94,7 +94,8 @@ allowedUsers = {
     ["kauanovo356"] = true,   -- 94° kauanovo356 -- 11/10 -- <@965751295711539281>,
     ["embuscdos100m"] = true,   -- 94° embuscdos100m -- 02/11 -- <@1410271062566109234>,
     ["Ax7_offbatendo"] = true,   -- 95° Ax7_offbatendo -- tik tok -- <@1402460982449803385>,
-    ["Turbers_productions"] = true,   -- 96° Turbers_productions -- permanente -- <@1424464649998565426>
+    ["Turbers_productions"] = true,   -- 96° Turbers_productions -- permanente -- <@1424464649998565426>,
+    ["cocomofou09"] = true,   -- 97° cocomofou09 -- permanente -- <@980809016257167360>
 }
 
 return allowedUsers
