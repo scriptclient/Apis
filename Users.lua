@@ -98,7 +98,8 @@ allowedUsers = {
     ["cocomofou09"] = true,   -- 97° cocomofou09 -- permanente -- <@980809016257167360>,
     ["luzdespert866"] = true,   -- 98° luzdespert866 -- 02/11 -- <@1384324823571894322>,
     ["adrian889109"] = true,   -- 99° adrian889109 -- 30/10 -- <@1318028633436323851>,
-    ["samuel_mi244"] = true,   -- 100° samuel_mi244 -- permanente -- <@1428546197379088469>
+    ["samuel_mi244"] = true,   -- 100° samuel_mi244 -- permanente -- <@1428546197379088469>,
+    ["davi_toa12"] = true,   -- 101° davi_toa12 -- 29/10 -- <@1156392780734664775>
 }
 
 return allowedUsers
