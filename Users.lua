@@ -87,7 +87,8 @@ allowedUsers = {
     ["Iamthebestemperor"] = true,   -- 86° Iamthebestemperor -- 09/11 -- <@1411522053328338974>,
     ["Davi_toa12"] = true,   -- 87° Davi_toa12 -- 29/10 -- <@1156392780734664775>,
     ["pietrotung123"] = true,   -- 88° pietrotung123 -- 26/12 -- <@1397302184974094467>,
-    ["Alicia_onze"] = true,   -- 89° Alicia_onze -- 29/10 -- <@1411960677274357760>
+    ["Alicia_onze"] = true,   -- 89° Alicia_onze -- 29/10 -- <@1411960677274357760>,
+    ["MeliodaGamer42"] = true,   -- 90° MeliodaGamer42 -- 02/11 -- <@1222848449549045903>
 }
 
 return allowedUsers
