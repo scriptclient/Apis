@@ -81,7 +81,8 @@ allowedUsers = {
     ["esmacremi"] = true,   -- 81° esmacremi -- 29/10 -- <@1318611658893164568>,
     ["oToddyZx"] = true,   -- 82° oToddyZx -- permanente -- <@1316924832255840258>,
     ["Gaeel7075"] = true,   -- 83° Gaeel7075 -- 29/10 -- <@1352031491865186365>,
-    ["ninoezekielgael"] = true,   -- 84° ninoezekielgael -- permanente -- <@951742923702161458>
+    ["ninoezekielgael"] = true,   -- 84° ninoezekielgael -- permanente -- <@951742923702161458>,
+    ["key577778"] = true,   -- 84° key577778 -- 31/10 -- <@1187450532382650524>
 }
 
 return allowedUsers
