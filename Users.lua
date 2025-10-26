@@ -85,7 +85,8 @@ allowedUsers = {
     ["key577778"] = true,   -- 84° key577778 -- 31/10 -- <@1187450532382650524>,
     ["Mvjotabom"] = true,   -- 85° Mvjotabom -- 29/10 -- <@1340405713662509118>,
     ["Iamthebestemperor"] = true,   -- 86° Iamthebestemperor -- 09/11 -- <@1411522053328338974>,
-    ["Davi_toa12"] = true,   -- 87° Davi_toa12 -- 29/10 -- <@1156392780734664775>
+    ["Davi_toa12"] = true,   -- 87° Davi_toa12 -- 29/10 -- <@1156392780734664775>,
+    ["pietrotung123"] = true,   -- 88° pietrotung123 -- 26/12 -- <@1397302184974094467>
 }
 
 return allowedUsers
