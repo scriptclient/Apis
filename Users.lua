@@ -79,7 +79,8 @@ allowedUsers = {
     ["AntiRP_80"] = true,   -- 78° AntiRP_80 -- permanente -- <@1408471058864013603>,
     ["dripcliento"] = true,   -- 79° dripcliento -- TESTE -- <@1268023655548321865>,
     ["gamekaua903"] = true,   -- 80° gamekaua903 -- 23/11 -- <@1414919524574036100>,
-    ["esmacremi"] = true,   -- 81° esmacremi -- 29/10 -- <@1318611658893164568>
+    ["esmacremi"] = true,   -- 81° esmacremi -- 29/10 -- <@1318611658893164568>,
+    ["oToddyZx"] = true,   -- 82° oToddyZx -- permanente -- <@1316924832255840258>
 }
 
 return allowedUsers
