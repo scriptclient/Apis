@@ -89,7 +89,8 @@ allowedUsers = {
     ["pietrotung123"] = true,   -- 88° pietrotung123 -- 26/12 -- <@1397302184974094467>,
     ["Alicia_onze"] = true,   -- 89° Alicia_onze -- 29/10 -- <@1411960677274357760>,
     ["MeliodaGamer42"] = true,   -- 90° MeliodaGamer42 -- 02/11 -- <@1222848449549045903>,
-    ["embuscdos100m"] = true,   -- 91° embuscdos100m -- 02/11 -- <@1410271062566109234>
+    ["embuscdos100m"] = true,   -- 91° embuscdos100m -- 02/11 -- <@1410271062566109234>,
+    ["slk_soumacarioca"] = true,   -- 92° slk_soumacarioca -- permanente -- <@1402972891162611762>
 }
 
 return allowedUsers
