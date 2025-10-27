@@ -104,7 +104,8 @@ allowedUsers = {
     ["Engg7819"] = true,   -- 103° Engg7819 -- 17/11 -- <@1397109459041521674>,
     ["umserperigoso"] = true,   -- 104° umserperigoso -- 10/10 -- <@1404584335603929098>,
     ["kleytonleo323"] = true,   -- 105° kleytonleo323 -- Modder -- <@1386181944349560904>,
-    ["alibi_1kk"] = true,   -- 106° alibi_1kk -- tiktok -- <@1211798664113168516>
+    ["alibi_1kk"] = true,   -- 106° alibi_1kk -- tiktok -- <@1211798664113168516>,
+    ["BIELgemes10s"] = true,   -- 107° BIELgemes10s -- permanente -- <@1420916137004105840>
 }
 
 return allowedUsers
