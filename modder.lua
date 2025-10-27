@@ -4,4 +4,5 @@ return {
     "vendasbraint",
     "derrok0076",
     "kleytonleo323",
+    "cantanguandi2",
 }
