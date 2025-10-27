@@ -3,5 +3,10 @@
     "nome": "Speed Legends",
     "descricao": "Script Atualizado ✅️",
     "codigo": "loadstring(game:HttpGet(('https://raw.githubusercontent.com/realgengar/SpeedLegends-/refs/heads/main/Source.lua'),true))()"
+  },
+  {
+    "nome": "99 Nights In Florest",
+    "descricao": "Script Atualizado ✅️",
+    "codigo": "loadstring(game:HttpGet(('https://raw.githubusercontent.com/realgengar/night/refs/heads/main/florest.lua'),true))()"
   }
 ]
