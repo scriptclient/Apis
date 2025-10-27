@@ -3,5 +3,10 @@
     "nome": "teste",
     "descricao": "sem na da",
     "codigo": "loadstring(game:HttpGet(('https://raw.githubusercontent.com/realgengar/Brookhaven/refs/heads/main/Source.Lua'),true))()"
+  },
+  {
+    "nome": "novo",
+    "descricao": "sim novo",
+    "codigo": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Rocks7hub/Hub/main/notifyfruit\"))()"
   }
 ]
