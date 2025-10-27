@@ -1,1 +1,7 @@
-[]
+[
+  {
+    "nome": "Speed Legends",
+    "descricao": "Script Atualizado ✅️",
+    "codigo": "loadstring(game:HttpGet(('https://raw.githubusercontent.com/realgengar/SpeedLegends-/refs/heads/main/Source.lua'),true))()"
+  }
+]
