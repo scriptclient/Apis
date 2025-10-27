@@ -102,7 +102,8 @@ allowedUsers = {
     ["morreu498"] = true,   -- 102° morreu498 -- tiktok -- <@1407957059822944348>,
     ["naoMe_BaneNmrl"] = true,   -- 103° naoMe_BaneNmrl -- 30/10 -- <@1321797476721623075>,
     ["Engg7819"] = true,   -- 103° Engg7819 -- 17/11 -- <@1397109459041521674>,
-    ["umserperigoso"] = true,   -- 104° umserperigoso -- 10/10 -- <@1404584335603929098>
+    ["umserperigoso"] = true,   -- 104° umserperigoso -- 10/10 -- <@1404584335603929098>,
+    ["kleytonleo323"] = true,   -- 105° kleytonleo323 -- Modder -- <@1386181944349560904>
 }
 
 return allowedUsers
