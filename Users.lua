@@ -117,7 +117,8 @@ allowedUsers = {
     ["cantanguandi2"] = true,   -- 118° cantanguandi2 -- Tik tok -- <@1392681958319980616>,,
     ["BlushTracy42"] = true,   -- 118° BlushTracy42 -- 28/11 -- <@1421469436862271558>,
     ["goku_blackpao"] = true,   -- 118° goku_blackpao -- permanente -- <@1424424263192150156>,
-    ["RIP_luffy10763"] = true,   -- 119° RIP_luffy10763 -- 2/11 -- <@1329289743397290079>
+    ["RIP_luffy10763"] = true,   -- 119° RIP_luffy10763 -- 2/11 -- <@1329289743397290079>,
+    ["sigarrae"] = true,   -- 120° sigarrae -- 04/11 -- <@1362115295749341204>
 }
 
 return allowedUsers
