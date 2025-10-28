@@ -109,7 +109,8 @@ allowedUsers = {
     ["EMANUEL2022c"] = true,   -- 109° EMANUEL2022c -- tiktok -- <@1430893454732300349>,
     ["Dreamsx1x"] = true,   -- 110° Dreamsx1x -- 31/10 -- <@1162802684160659486>,
     ["HBT_JU7cLA0MMp"] = true,   -- 111° HBT_JU7cLA0MMp -- 02/11 -- <@1292849634414428325>,
-    ["cauiuuuoooiii"] = true,   -- 112° cauiuuuoooiii -- 10/11 -- <@1426321715792711721>
+    ["cauiuuuoooiii"] = true,   -- 112° cauiuuuoooiii -- 10/11 -- <@1426321715792711721>,
+    ["Rafael_GMR0687"] = true,   -- 113° Rafael_GMR0687 -- Permanente -- <@990440684655890473>
 }
 
 return allowedUsers
