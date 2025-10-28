@@ -111,7 +111,8 @@ allowedUsers = {
     ["HBT_JU7cLA0MMp"] = true,   -- 111° HBT_JU7cLA0MMp -- 02/11 -- <@1292849634414428325>,
     ["cauiuuuoooiii"] = true,   -- 112° cauiuuuoooiii -- 10/11 -- <@1426321715792711721>,
     ["Rafael_GMR0687"] = true,   -- 113° Rafael_GMR0687 -- Permanente -- <@990440684655890473>,
-    ["j7pirk"] = true,   -- 114° j7pirk -- Permanente -- <@1327932276901675061>
+    ["j7pirk"] = true,   -- 114° j7pirk -- Permanente -- <@1327932276901675061>,
+    ["rafa123wx8"] = true,   -- 115° rafa123wx8 -- 31/10 -- <@1030351716777988096>
 }
 
 return allowedUsers
