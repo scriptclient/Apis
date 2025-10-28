@@ -91,7 +91,7 @@ allowedUsers = {
     ["MeliodaGamer42"] = true,   -- 90° MeliodaGamer42 -- 02/11 -- <@1222848449549045903>,,
     ["slk_soumacarioca"] = true,   -- 92° slk_soumacarioca -- permanente -- <@1402972891162611762>,,
     ["jaomiguelbaby"] = true,   -- 94° jaomiguelbaby -- permanente -- <@1300890785666830338>,,
-    ["embuscdos100m"] = true,   -- 94° embuscdos100m -- 02/11 -- <@1410271062566109234>,,
+    ["embuscdos100m"] = true,   -- 94° embuscdos100m -- 02/11 -- <@1410271062566109234>,
     ["Turbers_productions"] = true,   -- 96° Turbers_productions -- permanente -- <@1424464649998565426>,
     ["cocomofou09"] = true,   -- 97° cocomofou09 -- permanente -- <@980809016257167360>,
     ["luzdespert866"] = true,   -- 98° luzdespert866 -- 02/11 -- <@1384324823571894322>,
@@ -103,18 +103,20 @@ allowedUsers = {
     ["Engg7819"] = true,   -- 103° Engg7819 -- 17/11 -- <@1397109459041521674>,
     ["umserperigoso"] = true,   -- 104° umserperigoso -- 10/10 -- <@1404584335603929098>,
     ["kleytonleo323"] = true,   -- 105° kleytonleo323 -- Modder -- <@1386181944349560904>,
-    ["alibi_1kk"] = true,   -- 106° alibi_1kk -- tiktok -- <@1211798664113168516>,    ["BIELgemes10s"] = true,   -- 109° BIELgemes10s -- permanente -- <@1420916137004105840>
-    ["kauanovo356"] = true,   -- 108° kauanovo356 -- 17/12 -- <@965751295711539281>,,
+    ["alibi_1kk"] = true,   -- 106° alibi_1kk -- tiktok -- <@1211798664113168516>,    
+    ["BIELgemes10s"] = true,   -- 109° BIELgemes10s -- permanente -- <@1420916137004105840>
+    ["kauanovo356"] = true,   -- 108° kauanovo356 -- 17/12 -- <@965751295711539281>,
     ["Dreamsx1x"] = true,   -- 110° Dreamsx1x -- 31/10 -- <@1162802684160659486>,
     ["HBT_JU7cLA0MMp"] = true,   -- 111° HBT_JU7cLA0MMp -- 02/11 -- <@1292849634414428325>,
     ["cauiuuuoooiii"] = true,   -- 112° cauiuuuoooiii -- 10/11 -- <@1426321715792711721>,
     ["Rafael_GMR0687"] = true,   -- 113° Rafael_GMR0687 -- Permanente -- <@990440684655890473>,
     ["j7pirk"] = true,   -- 114° j7pirk -- Permanente -- <@1327932276901675061>,
     ["rafa123wx8"] = true,   -- 115° rafa123wx8 -- 31/10 -- <@1030351716777988096>,
-    ["EMANUEL2022c"] = true,   -- 115° EMANUEL2022c -- TikTok -- <@1430893454732300349>,,
-    ["xaravitor12"] = true,   -- 117° xaravitor12 -- 01/11 -- <@1324819892377227399>,,
+    ["EMANUEL2022c"] = true,   -- 115° EMANUEL2022c -- TikTok -- <@1430893454732300349>,
+    ["xaravitor12"] = true,   -- 117° xaravitor12 -- 01/11 -- <@1324819892377227399>,
     ["cantanguandi2"] = true,   -- 118° cantanguandi2 -- Tik tok -- <@1392681958319980616>,
-    ["Blushtracy42"] = true,   -- 118° Blushtracy42 -- 28/11 -- <@1421469436862271558>,    ["goku_blackpao"] = true,   -- 119° goku_blackpao -- permanente -- <@1424424263192150156>
+    ["Blushtracy42"] = true,   -- 118° Blushtracy42 -- 28/11 -- <@1421469436862271558>,    
+    ["goku_blackpao"] = true,   -- 119° goku_blackpao -- permanente -- <@1424424263192150156>
 }
 
 return allowedUsers
