@@ -115,7 +115,8 @@ allowedUsers = {
     ["EMANUEL2022c"] = true,   -- 115° EMANUEL2022c -- TikTok -- <@1430893454732300349>,
     ["xaravitor12"] = true,   -- 117° xaravitor12 -- 01/11 -- <@1324819892377227399>,
     ["cantanguandi2"] = true,   -- 118° cantanguandi2 -- Tik tok -- <@1392681958319980616>,,    
-    ["goku_blackpao"] = true,   -- 119° goku_blackpao -- permanente -- <@1424424263192150156>
+    ["goku_blackpao"] = true,   -- 119° goku_blackpao -- permanente -- <@1424424263192150156>,
+    ["BlushTracy42"] = true,   -- 118° BlushTracy42 -- 28/11 -- <@1421469436862271558>
 }
 
 return allowedUsers
