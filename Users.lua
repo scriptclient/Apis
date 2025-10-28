@@ -105,8 +105,7 @@ allowedUsers = {
     ["umserperigoso"] = true,   -- 104° umserperigoso -- 10/10 -- <@1404584335603929098>,
     ["kleytonleo323"] = true,   -- 105° kleytonleo323 -- Modder -- <@1386181944349560904>,
     ["alibi_1kk"] = true,   -- 106° alibi_1kk -- tiktok -- <@1211798664113168516>,    ["BIELgemes10s"] = true,   -- 109° BIELgemes10s -- permanente -- <@1420916137004105840>
-    ["kauanovo356"] = true,   -- 108° kauanovo356 -- 17/12 -- <@965751295711539281>,
-    ["EMANUEL2022c"] = true,   -- 109° EMANUEL2022c -- tiktok -- <@1430893454732300349>,
+    ["kauanovo356"] = true,   -- 108° kauanovo356 -- 17/12 -- <@965751295711539281>,,
     ["Dreamsx1x"] = true,   -- 110° Dreamsx1x -- 31/10 -- <@1162802684160659486>,
     ["HBT_JU7cLA0MMp"] = true,   -- 111° HBT_JU7cLA0MMp -- 02/11 -- <@1292849634414428325>,
     ["cauiuuuoooiii"] = true,   -- 112° cauiuuuoooiii -- 10/11 -- <@1426321715792711721>,
