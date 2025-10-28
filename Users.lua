@@ -112,7 +112,8 @@ allowedUsers = {
     ["Rafael_GMR0687"] = true,   -- 113° Rafael_GMR0687 -- Permanente -- <@990440684655890473>,
     ["j7pirk"] = true,   -- 114° j7pirk -- Permanente -- <@1327932276901675061>,
     ["rafa123wx8"] = true,   -- 115° rafa123wx8 -- 31/10 -- <@1030351716777988096>,
-    ["EMANUEL2022c"] = true,   -- 115° EMANUEL2022c -- TikTok -- <@1430893454732300349>
+    ["EMANUEL2022c"] = true,   -- 115° EMANUEL2022c -- TikTok -- <@1430893454732300349>,
+    ["Goku_blackpao"] = true,   -- 116° Goku_blackpao -- permanente -- <@1424424263192150156>
 }
 
 return allowedUsers
