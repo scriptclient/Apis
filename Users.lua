@@ -114,7 +114,8 @@ allowedUsers = {
     ["rafa123wx8"] = true,   -- 115° rafa123wx8 -- 31/10 -- <@1030351716777988096>,
     ["EMANUEL2022c"] = true,   -- 115° EMANUEL2022c -- TikTok -- <@1430893454732300349>,
     ["Goku_blackpao"] = true,   -- 116° Goku_blackpao -- permanente -- <@1424424263192150156>,
-    ["xaravitor12"] = true,   -- 117° xaravitor12 -- 01/11 -- <@1324819892377227399>
+    ["xaravitor12"] = true,   -- 117° xaravitor12 -- 01/11 -- <@1324819892377227399>,
+    ["Blushtracy42"] = true,   -- 118° Blushtracy42 -- 28/11 -- <@1421469436862271558>
 }
 
 return allowedUsers
