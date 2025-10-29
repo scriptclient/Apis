@@ -123,7 +123,8 @@ allowedUsers = {
     ["victor_gb609"] = true,   -- 122° victor_gb609 -- 01/11 -- <@1328130848276615190>,
     ["Victor_gb609"] = true,   -- 123° Victor_gb609 -- 2/11 -- <@1328130848276615190>,
     ["ttyyryjuh"] = true,   -- 124° ttyyryjuh -- 6/11 -- <@1212579970291998742>,
-    ["Hyaka_no"] = true,   -- 125° Hyaka_no -- 31/10 -- <@1371972291986198660>
+    ["Hyaka_no"] = true,   -- 125° Hyaka_no -- 31/10 -- <@1371972291986198660>,
+    ["xjFJiknrBHQ"] = true,   -- 126° xjFJiknrBHQ -- 02/10 -- <@1178155093988749403>
 }
 
 return allowedUsers
