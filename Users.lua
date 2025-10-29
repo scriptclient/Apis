@@ -125,7 +125,8 @@ allowedUsers = {
     ["ttyyryjuh"] = true,   -- 124° ttyyryjuh -- 6/11 -- <@1212579970291998742>,
     ["Hyaka_no"] = true,   -- 125° Hyaka_no -- 31/10 -- <@1371972291986198660>,
     ["xjFJiknrBHQ"] = true,   -- 126° xjFJiknrBHQ -- 02/10 -- <@1178155093988749403>,
-    ["stoleabrainhot986676"] = true,   -- 127° stoleabrainhot986676 -- permanente -- <@1161682733647544381>
+    ["stoleabrainhot986676"] = true,   -- 127° stoleabrainhot986676 -- permanente -- <@1161682733647544381>,
+    ["ropemgbz"] = true,   -- 128° ropemgbz -- 05/11 -- <@1326659034442633309>
 }
 
 return allowedUsers
