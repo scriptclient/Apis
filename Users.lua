@@ -125,7 +125,8 @@ allowedUsers = {
     ["vendasbraint"] = true,   -- 125° vendasbraint -- suporte -- <@1058360401210904599>,
     ["MeliodaGamer42"] = true,   -- 125° MeliodaGamer42 -- 03/01 -- <@1222848449549045903>,,
     ["slk_num020"] = true,   -- 127° slk_num020 -- 03/11 -- <@1406433027302756384>,
-    ["Dubizinho2"] = true,   -- 127° Dubizinho2 -- 06/11 -- <@1425855382751805592>
+    ["Dubizinho2"] = true,   -- 127° Dubizinho2 -- 06/11 -- <@1425855382751805592>,
+    ["turrinho1234"] = true,   -- 128° turrinho1234 -- Permanente -- <@1423110702683521075>
 }
 
 return allowedUsers
