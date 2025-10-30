@@ -115,7 +115,8 @@ allowedUsers = {
     ["renan_x98"] = true,   -- 129° renan_x98 -- permanente -- <@1423009442416431134>,
     ["xjFJiknrBHQ"] = true,   -- 116° xjFJiknrBHQ -- 2/11 -- <@1178155093988749403>,
     ["umserperigoso"] = true,   -- 117° umserperigoso -- 10/11 -- <@1404584335603929098>,
-    ["dididosisidi"] = true,   -- 118° dididosisidi -- 02/11 -- <@1425333829102735451>
+    ["dididosisidi"] = true,   -- 118° dididosisidi -- 02/11 -- <@1425333829102735451>,
+    ["trapooka"] = true,   -- 118° trapooka -- 2/11 -- <@1176734997755994218>
 }
 
 return allowedUsers
