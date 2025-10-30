@@ -114,7 +114,8 @@ allowedUsers = {
     ["stoleabrainhot986676"] = true,   -- 127° stoleabrainhot986676 -- permanente -- <@1161682733647544381>,
     ["ropemgbz"] = true,   -- 128° ropemgbz -- 05/11 -- <@1326659034442633309>,
     ["renan_x98"] = true,   -- 129° renan_x98 -- permanente -- <@1423009442416431134>,
-    ["xjFJiknrBHQ"] = true,   -- 116° xjFJiknrBHQ -- 2/11 -- <@1178155093988749403>
+    ["xjFJiknrBHQ"] = true,   -- 116° xjFJiknrBHQ -- 2/11 -- <@1178155093988749403>,
+    ["umserperigoso"] = true,   -- 117° umserperigoso -- 10/11 -- <@1404584335603929098>
 }
 
 return allowedUsers
