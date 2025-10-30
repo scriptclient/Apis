@@ -122,7 +122,8 @@ allowedUsers = {
     ["kaique22325"] = true,   -- 121° kaique22325 -- 06/11 -- <@1132338941807312916>,
     ["umKingzaul74"] = true,   -- 122° umKingzaul74 -- permanente -- <@1416144078873169952>,
     ["Rafamotos12"] = true,   -- 123° Rafamotos12 -- 13/11 -- <@982280045802422283>,
-    ["Kaua_452"] = true,   -- 124° Kaua_452 -- 28/11 -- <@1417675399680495708>
+    ["Kaua_452"] = true,   -- 124° Kaua_452 -- 28/11 -- <@1417675399680495708>,
+    ["vendasbraint"] = true,   -- 125° vendasbraint -- suporte -- <@1058360401210904599>
 }
 
 return allowedUsers
