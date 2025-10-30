@@ -127,7 +127,8 @@ allowedUsers = {
     ["Dubizinho2"] = true,   -- 127° Dubizinho2 -- 06/11 -- <@1425855382751805592>,
     ["turrinho1234"] = true,   -- 128° turrinho1234 -- Permanente -- <@1423110702683521075>,
     ["davi_toa12"] = true,   -- 129° davi_toa12 -- 3/11 -- <@1156392780734664775>,
-    ["gamekaua903"] = true,   -- 129° gamekaua903 -- 23/11 -- <@1414919524574036100>
+    ["gamekaua903"] = true,   -- 129° gamekaua903 -- 23/11 -- <@1414919524574036100>,
+    ["Alex1_5204"] = true,   -- 130° Alex1_5204 -- permanente -- <@1433587925697953863>
 }
 
 return allowedUsers
