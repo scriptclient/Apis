@@ -119,7 +119,8 @@ allowedUsers = {
     ["trapooka"] = true,   -- 118° trapooka -- 2/11 -- <@1176734997755994218>,
     ["mocoto15737"] = true,   -- 119° mocoto15737 -- modder -- <@1067950341162815488>,
     ["kleytonleo323"] = true,   -- 120° kleytonleo323 -- Modder -- <@1386181944349560904>,
-    ["kaique22325"] = true,   -- 121° kaique22325 -- 06/11 -- <@1132338941807312916>
+    ["kaique22325"] = true,   -- 121° kaique22325 -- 06/11 -- <@1132338941807312916>,
+    ["umKingzaul74"] = true,   -- 122° umKingzaul74 -- permanente -- <@1416144078873169952>
 }
 
 return allowedUsers
