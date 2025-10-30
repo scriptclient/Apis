@@ -12,6 +12,6 @@
   {
     "nome": "Brookhaven",
     "descricao": "Script Atualizado ✅️",
-    "codigo": "loadstring(game:HttpGet(('https://raw.githubusercontent.com/realgengar/night/refs/heads/main/florest.lua'),true))()"
+    "codigo": "loadstring(game:HttpGet(('https://raw.githubusercontent.com/realgengar/Brookhaven/refs/heads/main/Source.Lua'),true))()"
   }
 ]
