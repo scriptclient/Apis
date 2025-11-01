@@ -5,7 +5,6 @@ allowedUsers = {
     ["Yoan57500k"] = true,   -- 04° Yoan57500k -- permanente -- Sem,
     ["RonnieOsborne341"] = true,   -- 05° RonnieOsborne341 -- 9/11 -- Sem, 
     ["naosou_shscript"] = true,   -- 06° naosou_shscript -- 30/11 -- Sem,
-    ["serveston"] = true,   -- 07° serveston -- 30/10 -- Sem,
     ["Kiko_reizinho123"] = true,   -- 08° Kiko_reizinho123 -- 02/10 02/11 -- Sem, 
     ["miguelzada002"] = true,   -- 09° miguelzada002 -- até 01/11 -- Sem,
     ["SouNubDm5"] = true,   -- 10° SouNubDm5 -- 02/02 -- Sem,
