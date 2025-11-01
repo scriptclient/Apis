@@ -130,7 +130,8 @@ allowedUsers = {
     ["PhumiphatG"] = true,   -- 130° PhumiphatG -- Permanente -- <@1253308609736081431>,
     ["Pimt012311"] = true,   -- 131° Pimt012311 -- 01/01 -- <@1305201112072061009>,
     ["toto2345035"] = true,   -- 132° toto2345035 -- 16/11 -- <@1427777931903631436>,
-    ["joshua77570"] = true,   -- 133° joshua77570 -- 05/11 -- <@1319972003901341716>
+    ["joshua77570"] = true,   -- 133° joshua77570 -- 05/11 -- <@1319972003901341716>,
+    ["MIGUELWWW22"] = true,   -- 134° MIGUELWWW22 -- 01/12 -- <@1223775248026042408>
 }
 
 return allowedUsers
