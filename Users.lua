@@ -132,7 +132,8 @@ allowedUsers = {
     ["toto2345035"] = true,   -- 132° toto2345035 -- 16/11 -- <@1427777931903631436>,
     ["joshua77570"] = true,   -- 133° joshua77570 -- 05/11 -- <@1319972003901341716>,
     ["MIGUELWWW22"] = true,   -- 134° MIGUELWWW22 -- 01/12 -- <@1223775248026042408>,
-    ["TfzLWyzOHxV"] = true,   -- 135° TfzLWyzOHxV -- 01/12 -- <@1434213574196334662>
+    ["TfzLWyzOHxV"] = true,   -- 135° TfzLWyzOHxV -- 01/12 -- <@1434213574196334662>,
+    ["KcsLaQLbOwB"] = true,   -- 136° KcsLaQLbOwB -- tik tok -- <@1410756703049220147>
 }
 
 return allowedUsers
