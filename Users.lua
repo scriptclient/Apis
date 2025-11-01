@@ -126,7 +126,8 @@ allowedUsers = {
     ["vitinh04714"] = true,   -- 128° vitinh04714 -- 7/11 -- <@1429594340254285937>,
     ["sou_fofinho20"] = true,   -- 129° sou_fofinho20 -- 04/11 -- <@1378186589171220592>,
     ["luksccalu"] = true,   -- 129° luksccalu -- 07/11 -- <@1358839091264880818>,
-    ["jeff_yowa"] = true,   -- 130° jeff_yowa -- 07/11 -- <@1397262082767982633>
+    ["jeff_yowa"] = true,   -- 130° jeff_yowa -- 07/11 -- <@1397262082767982633>,
+    ["PhumiphatG"] = true,   -- 130° PhumiphatG -- Permanente -- <@1253308609736081431>
 }
 
 return allowedUsers
