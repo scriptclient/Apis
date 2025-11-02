@@ -51,6 +51,7 @@ local Musics = {
     { Name = "menina se prepara", Id = 104481380959 },
     { Name = "vou raspa seu bigodinho", Id = 112533523423 },
     { Name = "Empina na onda", Id = 104621031886653 },
+    { Name = "Montagem poder dessa grt", Id = 131847084942844 },
 }
 
 return Musics
