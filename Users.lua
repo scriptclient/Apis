@@ -11,8 +11,7 @@ allowedUsers = {
     ["wisuhwheueyehdydyd"] = true,   -- 11° wisuhwheueyehdydyd -- 02/03 -- Sem,
     ["alsjjsjanansnj"] = true,   -- 12° alsjjsjanansnj -- 03/11 -- Sem, 
     ["3mk_3mk04"] = true,   -- 13° 3mk_3mk04 -- 03/03 -- Sem,
-    ["meme7xati"] = true,   -- 14° meme7xati -- 03/01 -- Sem,
-    ["god_hack750"] = true,   -- 15° god_hack750 -- até 03/12 -- Sem,
+    ["meme7xati"] = true,   -- 14° meme7xati -- 03/01 -- Sem,    ["god_hack750"] = true,   -- 138° god_hack750 -- 09/11 -- <@1423104000596906136>
     ["ikfsjjssjjs"] = true,   -- 17° ikfsjjssjjs -- 03/05 -- Sem,
     ["le36463"] = true,   -- 18° le36463 -- 03/11 -- Sem,
     ["NikitaGavrileiko"] = true,   -- 22° NikitaGavrileiko -- 05/11 -- Sem,
