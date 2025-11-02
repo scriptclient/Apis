@@ -133,7 +133,8 @@ allowedUsers = {
     ["TfzLWyzOHxV"] = true,   -- 135° TfzLWyzOHxV -- 01/12 -- <@1434213574196334662>,
     ["KcsLaQLbOwB"] = true,   -- 136° KcsLaQLbOwB -- tik tok -- <@1410756703049220147>,
     ["yspurbyzoz"] = true,   -- 135° yspurbyzoz -- 01/02 -- <@1409013397839810760>,
-    ["dysdfss"] = true,   -- 136° dysdfss -- 08/11 -- <@1037122909853986917>
+    ["dysdfss"] = true,   -- 136° dysdfss -- 08/11 -- <@1037122909853986917>,
+    ["nescau_muitobom7"] = true,   -- 137° nescau_muitobom7 -- 06/11 -- <@1396707139677982732>
 }
 
 return allowedUsers
