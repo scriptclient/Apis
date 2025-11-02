@@ -56,6 +56,7 @@ local Musics = {
     { Name = "of the king", Id = 120324849313242 },
     { Name = "As novinha gama", Id = 85182585406642 },
     { Name = "mais nao para", Id = 81700399219236 },
+    { Name = "faz a rodinha", Id = 127013133418864 },
 }
 
 return Musics
