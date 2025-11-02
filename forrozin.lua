@@ -11,6 +11,7 @@ local Musics = {
         { Name = "eu já estava bem", Id = 93590122047380 },
         { Name = "Soldado", Id = 132311372545619 },
     { Name = "Quem e o louco", Id = 106958630419629 },
+    { Name = "Eu ja tava bem", Id = 93590122047380 },
 }
 
 return Musics
