@@ -59,6 +59,7 @@ local Musics = {
     { Name = "faz a rodinha", Id = 127013133418864 },
     { Name = "montagem passo bem solto", Id = 106185171358009 },
     { Name = "baile lotadão", Id = 132311372545619 },
+    { Name = "tu abre a tcheca", Id = 87022583947683 },
 }
 
 return Musics
