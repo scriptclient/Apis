@@ -58,6 +58,7 @@ local Musics = {
     { Name = "mais nao para", Id = 81700399219236 },
     { Name = "faz a rodinha", Id = 127013133418864 },
     { Name = "montagem passo bem solto", Id = 106185171358009 },
+    { Name = "baile lotadão", Id = 132311372545619 },
 }
 
 return Musics
