@@ -109,8 +109,7 @@ allowedUsers = {
     ["Kaua_452"] = true,   -- 124° Kaua_452 -- 28/11 -- <@1417675399680495708>,
     ["vendasbraint"] = true,   -- 125° vendasbraint -- suporte -- <@1058360401210904599>,
     ["MeliodaGamer42"] = true,   -- 125° MeliodaGamer42 -- 03/01 -- <@1222848449549045903>,,
-    ["slk_num020"] = true,   -- 127° slk_num020 -- 03/11 -- <@1406433027302756384>,
-    ["Dubizinho2"] = true,   -- 127° Dubizinho2 -- 06/11 -- <@1425855382751805592>,
+    ["slk_num020"] = true,   -- 127° slk_num020 -- 03/11 -- <@1406433027302756384>,    ["Dubizinho2"] = true,   -- 140° Dubizinho2 -- 10/11 -- <@1425855382751805592>
     ["turrinho1234"] = true,   -- 128° turrinho1234 -- Permanente -- <@1423110702683521075>,
     ["davi_toa12"] = true,   -- 129° davi_toa12 -- 3/11 -- <@1156392780734664775>,
     ["gamekaua903"] = true,   -- 129° gamekaua903 -- 23/11 -- <@1414919524574036100>,
