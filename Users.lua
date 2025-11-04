@@ -136,6 +136,7 @@ allowedUsers = {
     ["Lice882636"] = true,   -- 138° Lice882636 -- 17/11 -- <@1402672266441003118>,
     ["HTZINNRLK"] = true,   -- 139° HTZINNRLK -- 18/11 -- <@1064720962848833636>,
     ["loko11022"] = true,   -- 140° loko11022 -- 03/13 -- <@964326787901440010>,
+    ["itzpret4"] = true,   -- 141° itzpret4 -- 11/11 -- @strupeielas_61928
 }
 
 return allowedUsers
