@@ -138,7 +138,8 @@ allowedUsers = {
     ["loko11022"] = true,   -- 140° loko11022 -- 03/13 -- <@964326787901440010>,    ["itzpret4"] = true,   -- 145° itzpret4 -- 11/11 -- <@1391485303880941720>
     ["emma745419"] = true,   -- 142° emma745419 -- 07/11 -- <@760717484042092624>,
     ["ahmetiiiooo"] = true,   -- 143° ahmetiiiooo -- permanente -- <@1409265687326884011>,
-    ["DarkUgur5890o"] = true,   -- 144° DarkUgur5890o -- permanente -- <@1435257914309869699>
+    ["DarkUgur5890o"] = true,   -- 144° DarkUgur5890o -- permanente -- <@1435257914309869699>,
+    ["gabrielllllll183"] = true,   -- 145° gabrielllllll183 -- 08/11 -- <@1066200721235648602>
 }
 
 return allowedUsers
