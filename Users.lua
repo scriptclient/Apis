@@ -11,7 +11,8 @@ allowedUsers = {
     ["wisuhwheueyehdydyd"] = true,   -- 11° wisuhwheueyehdydyd -- 02/03 -- Sem,
     ["alsjjsjanansnj"] = true,   -- 12° alsjjsjanansnj -- 03/11 -- Sem, 
     ["3mk_3mk04"] = true,   -- 13° 3mk_3mk04 -- 03/03 -- Sem,
-    ["meme7xati"] = true,   -- 14° meme7xati -- 03/01 -- Sem,    ["god_hack750"] = true,   -- 138° god_hack750 -- 09/11 -- <@1423104000596906136>
+    ["meme7xati"] = true,   -- 14° meme7xati -- 03/01 -- Sem,    
+    ["god_hack750"] = true,   -- 138° god_hack750 -- 09/11 -- <@1423104000596906136>
     ["ikfsjjssjjs"] = true,   -- 17° ikfsjjssjjs -- 03/05 -- Sem,
     ["le36463"] = true,   -- 18° le36463 -- 03/11 -- Sem,
     ["NikitaGavrileiko"] = true,   -- 22° NikitaGavrileiko -- 05/11 -- Sem,
@@ -109,7 +110,8 @@ allowedUsers = {
     ["Kaua_452"] = true,   -- 124° Kaua_452 -- 28/11 -- <@1417675399680495708>,
     ["vendasbraint"] = true,   -- 125° vendasbraint -- suporte -- <@1058360401210904599>,
     ["MeliodaGamer42"] = true,   -- 125° MeliodaGamer42 -- 03/01 -- <@1222848449549045903>,,
-    ["slk_num020"] = true,   -- 127° slk_num020 -- 03/11 -- <@1406433027302756384>,    ["Dubizinho2"] = true,   -- 140° Dubizinho2 -- 10/11 -- <@1425855382751805592>
+    ["slk_num020"] = true,   -- 127° slk_num020 -- 03/11 -- <@1406433027302756384>,    
+    ["Dubizinho2"] = true,   -- 140° Dubizinho2 -- 10/11 -- <@1425855382751805592>
     ["turrinho1234"] = true,   -- 128° turrinho1234 -- Permanente -- <@1423110702683521075>,
     ["davi_toa12"] = true,   -- 129° davi_toa12 -- 3/11 -- <@1156392780734664775>,
     ["gamekaua903"] = true,   -- 129° gamekaua903 -- 23/11 -- <@1414919524574036100>,
@@ -135,7 +137,8 @@ allowedUsers = {
     ["nescau_muitobom7"] = true,   -- 137° nescau_muitobom7 -- 06/11 -- <@1396707139677982732>,
     ["Lice882636"] = true,   -- 138° Lice882636 -- 17/11 -- <@1402672266441003118>,
     ["HTZINNRLK"] = true,   -- 139° HTZINNRLK -- 18/11 -- <@1064720962848833636>,
-    ["loko11022"] = true,   -- 140° loko11022 -- 03/13 -- <@964326787901440010>,    ["itzpret4"] = true,   -- 145° itzpret4 -- 11/11 -- <@1391485303880941720>
+    ["loko11022"] = true,   -- 140° loko11022 -- 03/13 -- <@964326787901440010>,    
+    --["itzpret4"] = true,   -- 145° itzpret4 -- 11/11 -- <@1391485303880941720>
     ["emma745419"] = true,   -- 142° emma745419 -- 07/11 -- <@760717484042092624>,
     ["ahmetiiiooo"] = true,   -- 143° ahmetiiiooo -- permanente -- <@1409265687326884011>,
     ["DarkUgur5890o"] = true,   -- 144° DarkUgur5890o -- permanente -- <@1435257914309869699>,
