@@ -127,7 +127,8 @@ allowedUsers = {
     ["VitorX576"] = true,   -- 147° VitorX576 -- permanente -- <@1346919904149897381>,
     ["Hellointesljw"] = true,   -- 148° Hellointesljw -- 07/11 -- <@556616579526295579>,
     ["Itzpret4"] = true,   -- 149° Itzpret4 -- 11/11 -- <@1391485303880941720>,
-    ["ckexee"] = true,   -- 130° ckexee -- 05/01 -- <@1288222278550687755>
+    ["ckexee"] = true,   -- 130° ckexee -- 05/01 -- <@1288222278550687755>,
+    ["timbopa"] = true,   -- 131° timbopa -- Permanente -- <@853630015086002196>
 }
 
 return allowedUsers
