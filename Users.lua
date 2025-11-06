@@ -46,8 +46,7 @@ allowedUsers = {
     ["REI_GAMER41808"] = true,   -- 59° REI_GAMER41808 -- Permanente -- <@1407039550810882068>,
     ["garfishbjwc_88"] = true,   -- 63° garfishbjwc_88 -- Permanente -- <@1422236441030692996>,
     ["jj_alessio22"] = true,   -- 64° jj_alessio22 -- Permanente -- <@1399773697899761837>,
-    ["pozella999"] = true,   -- 65° pozella999 -- Permanente -- <@999729939798556792>,
-    ["Riggs_scott"] = true,   -- 67° Riggs_scott -- ADV -- <@1071977818453442621>,
+    ["pozella999"] = true,   -- 65° pozella999 -- Permanente -- <@999729939798556792>,    ["Riggs_scott"] = true,   -- 134° Riggs_scott -- modder -- <@1071977818453442621>
     ["Henriquea973"] = true,   -- 72° Henriquea973 -- 12/11 -- <@1285953278940807170>,
     ["RAFAELTX9"] = true,   -- 73° RAFAELTX9 -- 12/11 -- <@1313228292442034207>,
     ["FrestKw"] = true,   -- 76° FrestKw -- 12/11 -- <@1353495434135339139>,
