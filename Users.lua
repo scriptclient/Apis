@@ -129,7 +129,8 @@ allowedUsers = {
     ["ckexee"] = true,   -- 130° ckexee -- 05/01 -- <@1288222278550687755>,
     ["timbopa"] = true,   -- 131° timbopa -- Permanente -- <@853630015086002196>,
     ["9254j64"] = true,   -- 132° 9254j64 -- 10/11 -- <@1260288913684037757>,
-    ["GOOD12J8"] = true,   -- 133° GOOD12J8 -- 13/11 -- <@1423440389423104154>
+    ["GOOD12J8"] = true,   -- 133° GOOD12J8 -- 13/11 -- <@1423440389423104154>,
+    ["lazintao"] = true,   -- 134° lazintao -- divulgador -- <@1394156323230449735>
 }
 
 return allowedUsers
