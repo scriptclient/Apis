@@ -130,7 +130,8 @@ allowedUsers = {
     ["timbopa"] = true,   -- 131° timbopa -- Permanente -- <@853630015086002196>,
     ["9254j64"] = true,   -- 132° 9254j64 -- 10/11 -- <@1260288913684037757>,
     ["GOOD12J8"] = true,   -- 133° GOOD12J8 -- 13/11 -- <@1423440389423104154>,
-    ["lazintao"] = true,   -- 134° lazintao -- divulgador -- <@1394156323230449735>
+    ["lazintao"] = true,   -- 134° lazintao -- divulgador -- <@1394156323230449735>,
+    ["morreu498"] = true,   -- 135° morreu498 -- divulgador -- <@1407957059822944348>
 }
 
 return allowedUsers
