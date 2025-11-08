@@ -132,7 +132,8 @@ allowedUsers = {
     ["GOOD12J8"] = true,   -- 133° GOOD12J8 -- 13/11 -- <@1423440389423104154>,
     ["lazintao"] = true,   -- 134° lazintao -- divulgador -- <@1394156323230449735>,
     ["morreu498"] = true,   -- 135° morreu498 -- divulgador -- <@1407957059822944348>,
-    ["camilaslzm"] = true,   -- 136° camilaslzm -- 9/11 -- <@1381517623543595110>
+    ["camilaslzm"] = true,   -- 136° camilaslzm -- 9/11 -- <@1381517623543595110>,
+    ["SEMVERGOIN1"] = true,   -- 137° SEMVERGOIN1 -- 23/11 -- <@1405216667574730944>
 }
 
 return allowedUsers
