@@ -127,7 +127,8 @@ allowedUsers = {
     ["morreu498"] = true,   -- 135° morreu498 -- divulgador -- <@1407957059822944348>,
     ["camilaslzm"] = true,   -- 136° camilaslzm -- 9/11 -- <@1381517623543595110>,
     ["SEMVERGOIN1"] = true,   -- 137° SEMVERGOIN1 -- 23/11 -- <@1405216667574730944>,
-    ["manuellapegoraro"] = true,   -- 138° manuellapegoraro -- permanente -- <@1333639935240044618>
+    ["manuellapegoraro"] = true,   -- 138° manuellapegoraro -- permanente -- <@1333639935240044618>,
+    ["3el887"] = true,   -- 130° 3el887 -- 08/03/2026 -- <@1435425843387302090>
 }
 
 return allowedUsers
