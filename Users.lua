@@ -130,7 +130,8 @@ allowedUsers = {
     ["manuellapegoraro"] = true,   -- 138° manuellapegoraro -- permanente -- <@1333639935240044618>,
     ["3el887"] = true,   -- 130° 3el887 -- 08/03/2026 -- <@1435425843387302090>,
     ["haydenp1"] = true,   -- 131° haydenp1 -- 15/11/2025 -- <@1365874225021325352>,
-    ["contasecundariadokg0"] = true,   -- 132° contasecundariadokg0 -- 13/11 -- <@1436885860221190297>
+    ["contasecundariadokg0"] = true,   -- 132° contasecundariadokg0 -- 13/11 -- <@1436885860221190297>,
+    ["theus_zack"] = true,   -- 133° theus_zack -- 16/11 -- <@1426221701909184642>
 }
 
 return allowedUsers
