@@ -132,7 +132,8 @@ allowedUsers = {
     ["haydenp1"] = true,   -- 131° haydenp1 -- 15/11/2025 -- <@1365874225021325352>,
     ["contasecundariadokg0"] = true,   -- 132° contasecundariadokg0 -- 13/11 -- <@1436885860221190297>,
     ["theus_zack"] = true,   -- 133° theus_zack -- 16/11 -- <@1426221701909184642>,
-    ["Marcoszz50"] = true,   -- 134° Marcoszz50 -- 13/11 -- <@1407526488277913704>
+    ["Marcoszz50"] = true,   -- 134° Marcoszz50 -- 13/11 -- <@1407526488277913704>,
+    ["nicolas87migu8"] = true,   -- 135° nicolas87migu8 -- 13/11 -- <@1422050029740490877>
 }
 
 return allowedUsers
