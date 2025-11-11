@@ -128,7 +128,8 @@ allowedUsers = {
     ["Ryehd52835"] = true,   -- 127° Ryehd52835 -- permanente -- <@1436705944607260712>,
     ["henriqubrasil"] = true,   -- 128° henriqubrasil -- 16/11 -- <@1382862012228436209>,
     ["melsinha_1502"] = true,   -- 129° melsinha_1502 -- 27/11 -- <@1426275677174366229>,
-    ["im_sattz7"] = true,   -- 130° im_sattz7 -- 16/11 -- <@1369780252724690986>
+    ["im_sattz7"] = true,   -- 130° im_sattz7 -- 16/11 -- <@1369780252724690986>,
+    ["FACADApvp1"] = true,   -- 131° FACADApvp1 -- 11/01 -- <@525506302386896901>
 }
 
 return allowedUsers
