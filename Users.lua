@@ -125,7 +125,8 @@ allowedUsers = {
     ["marcoszz50"] = true,   -- 125° marcoszz50 -- 13/11 -- <@1407526488277913704>,
     ["pai89762"] = true,   -- 126° pai89762 -- 13/11 -- <@1409703898670694683>,
     ["Orrdaad"] = true,   -- 127° Orrdaad -- 11/12 -- <@1275565654434512950>,
-    ["Ryehd52835"] = true,   -- 127° Ryehd52835 -- permanente -- <@1436705944607260712>
+    ["Ryehd52835"] = true,   -- 127° Ryehd52835 -- permanente -- <@1436705944607260712>,
+    ["henriqubrasil"] = true,   -- 128° henriqubrasil -- 16/11 -- <@1382862012228436209>
 }
 
 return allowedUsers
