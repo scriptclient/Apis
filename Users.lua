@@ -87,7 +87,7 @@ allowedUsers = {
     ["Lice882636"] = true,   -- 138° Lice882636 -- 17/11 -- <@1402672266441003118>,
     ["HTZINNRLK"] = true,   -- 139° HTZINNRLK -- 18/11 -- <@1064720962848833636>,
     ["loko11022"] = true,   -- 140° loko11022 -- 03/13 -- <@964326787901440010>,    
-    --["itzpret4"] = true,   -- 145° itzpret4 -- 11/11 -- <@1391485303880941720>,
+    --,
     ["ahmetiiiooo"] = true,   -- 143° ahmetiiiooo -- permanente -- <@1409265687326884011>,
     ["DarkUgur5890o"] = true,   -- 144° DarkUgur5890o -- permanente -- <@1435257914309869699>,,,
     ["VitorX576"] = true,   -- 147° VitorX576 -- permanente -- <@1346919904149897381>,,,
