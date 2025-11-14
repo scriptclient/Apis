@@ -105,7 +105,8 @@ allowedUsers = {
     ["im_sattz7"] = true,   -- 130° im_sattz7 -- 16/11 -- <@1369780252724690986>,
     ["FACADApvp1"] = true,   -- 131° FACADApvp1 -- 11/01 -- <@525506302386896901>,
     ["SAAD1BOT"] = true,   -- 132° SAAD1BOT -- 15/11 -- <@1414769734544785508>,
-    ["nosoylaprimadeverel"] = true,   -- 133° nosoylaprimadeverel -- 15/11 -- <@1283259250692325408>
+    ["nosoylaprimadeverel"] = true,   -- 133° nosoylaprimadeverel -- 15/11 -- <@1283259250692325408>,
+    ["admin37387"] = true,   -- 107° admin37387 -- 20/11 -- <@1430838361282842726>
 }
 
 return allowedUsers
