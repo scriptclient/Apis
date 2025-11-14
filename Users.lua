@@ -106,7 +106,8 @@ allowedUsers = {
     ["SAAD1BOT"] = true,   -- 132° SAAD1BOT -- 15/11 -- <@1414769734544785508>,
     ["nosoylaprimadeverel"] = true,   -- 133° nosoylaprimadeverel -- 15/11 -- <@1283259250692325408>,
     ["admin37387"] = true,   -- 107° admin37387 -- 20/11 -- <@1430838361282842726>,
-    ["pedrobis774"] = true,   -- 108° pedrobis774 -- permanente -- <@1429594340254285937>
+    ["pedrobis774"] = true,   -- 108° pedrobis774 -- permanente -- <@1429594340254285937>,
+    ["Sae_itoshi109932"] = true,   -- 109° Sae_itoshi109932 -- permanente -- <@1308206207068147763>
 }
 
 return allowedUsers
