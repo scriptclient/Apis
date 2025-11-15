@@ -109,6 +109,7 @@ allowedUsers = {
     ["Sae_itoshi109932"] = true,   -- 109° Sae_itoshi109932 -- permanente -- <@1308206207068147763>,
     ["Rip_Samu2ss"] = true,   -- 110° Rip_Samu2ss -- Permanente -- <@1186461899144044544>,
     ["COMOVC_SUAMAE"] = true,   -- 111° COMOVC_SUAMAE -- 19/11 -- <@1414260263141642350>,
+    ["epilif2039"] = true,   -- 112° epilif2039 -- 18/11 -- <@1392459796975718411>
 }
 
 return allowedUsers
