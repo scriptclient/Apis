@@ -107,7 +107,8 @@ allowedUsers = {
     ["admin37387"] = true,   -- 107° admin37387 -- 20/11 -- <@1430838361282842726>,
     ["pedrobis774"] = true,   -- 108° pedrobis774 -- permanente -- <@1429594340254285937>,
     ["Sae_itoshi109932"] = true,   -- 109° Sae_itoshi109932 -- permanente -- <@1308206207068147763>,
-    ["Rip_Samu2ss"] = true,   -- 110° Rip_Samu2ss -- Permanente -- <@1186461899144044544>
+    ["Rip_Samu2ss"] = true,   -- 110° Rip_Samu2ss -- Permanente -- <@1186461899144044544>,
+    ["COMOVC_SUAMAE"] = true,   -- 111° COMOVC_SUAMAE -- 19/11 -- <@1414260263141642350>
 }
 
 return allowedUsers
