@@ -49,8 +49,7 @@ allowedUsers = {
     ["CUZCUZ12900"] = true,   -- 122° CUZCUZ12900 -- 01/01 -- <@1376637968768303104>,,
     ["flaviosurfizera1233"] = true,   -- 69° flaviosurfizera1233 -- 23/01 -- <@1417874428636692521>,
     ["MalkiewXH7722"] = true,   -- 70° MalkiewXH7722 -- 25/12 -- <@1424136578556498111>,,,,,,,,
-    ["AntiRP_80"] = true,   -- 78° AntiRP_80 -- permanente -- <@1408471058864013603>,
-    ["dripcliento"] = true,   -- 79° dripcliento -- TESTE -- <@1268023655548321865>,,,
+    ["AntiRP_80"] = true,   -- 78° AntiRP_80 -- permanente -- <@1408471058864013603>,    ["dripcliento"] = true,   -- 111° dripcliento -- Teste -- <@1268023655548321865>
     ["oToddyZx"] = true,   -- 82° oToddyZx -- permanente -- <@1316924832255840258>,,
     ["ninoezekielgael"] = true,   -- 84° ninoezekielgael -- permanente -- <@951742923702161458>,,,,,
     ["pietrotung123"] = true,   -- 88° pietrotung123 -- 26/12 -- <@1397302184974094467>,,
