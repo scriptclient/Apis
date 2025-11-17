@@ -111,7 +111,8 @@ allowedUsers = {
     ["COMOVC_SUAMAE"] = true,   -- 111° COMOVC_SUAMAE -- 19/11 -- <@1414260263141642350>,
     ["epilif2039"] = true,   -- 112° epilif2039 -- 18/11 -- <@1392459796975718411>,
     ["OgULRVEpHCU"] = true,   -- 113° OgULRVEpHCU -- 30/11 -- <@1431426069172453528>,
-    ["Rodrigo_calamelo"] = true,   -- 114° Rodrigo_calamelo -- 23/11 -- <@1224875910965231678>
+    ["Rodrigo_calamelo"] = true,   -- 114° Rodrigo_calamelo -- 23/11 -- <@1224875910965231678>,
+    ["Lucas00092cc"] = true,   -- 115° Lucas00092cc -- 17/12 -- <@1312857292730798083>
 }
 
 return allowedUsers
