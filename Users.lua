@@ -94,7 +94,8 @@ allowedUsers = {
     ["Rip_Samu2ss"] = true,   -- 110° Rip_Samu2ss -- Permanente -- <@1186461899144044544>,,,
     ["OgULRVEpHCU"] = true,   -- 113° OgULRVEpHCU -- 30/11 -- <@1431426069172453528>,
     ["Rodrigo_calamelo"] = true,   -- 114° Rodrigo_calamelo -- 23/11 -- <@1224875910965231678>,
-    ["Lucas00092cc"] = true,   -- 115° Lucas00092cc -- 17/12 -- <@1312857292730798083>
+    ["Lucas00092cc"] = true,   -- 115° Lucas00092cc -- 17/12 -- <@1312857292730798083>,
+    ["gvcltx756386"] = true,   -- 98° gvcltx756386 -- Modder -- <@1071176924094803989>
 }
 
 return allowedUsers
