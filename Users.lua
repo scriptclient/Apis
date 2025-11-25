@@ -96,7 +96,8 @@ allowedUsers = {
     ["Rodrigo_calamelo"] = true,   -- 114° Rodrigo_calamelo -- 23/11 -- <@1224875910965231678>,
     ["Lucas00092cc"] = true,   -- 115° Lucas00092cc -- 17/12 -- <@1312857292730798083>,
     ["gvcltx756386"] = true,   -- 98° gvcltx756386 -- Modder -- <@1071176924094803989>,
-    ["MATHEUSZINHODOGRAU27"] = true,   -- 99° MATHEUSZINHODOGRAU27 -- 22/12 -- <@877177138992803903>
+    ["MATHEUSZINHODOGRAU27"] = true,   -- 99° MATHEUSZINHODOGRAU27 -- 22/12 -- <@877177138992803903>,
+    ["meleka_user"] = true,   -- 100° meleka_user -- 25/12 -- <@1312917482582839388>
 }
 
 return allowedUsers
