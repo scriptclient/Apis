@@ -97,7 +97,8 @@ allowedUsers = {
     ["MATHEUSZINHODOGRAU27"] = true,   -- 99° MATHEUSZINHODOGRAU27 -- 22/12 -- <@877177138992803903>,
     ["meleka_user"] = true,   -- 100° meleka_user -- 25/12 -- <@1312917482582839388>,
     ["sombra_5734"] = true,   -- 101° sombra_5734 -- 01/12 -- <@1304864682711978076>,
-    ["heronppooy0"] = true,   -- 100° heronppooy0 -- 28/11 -- <@1436705944607260712>
+    ["heronppooy0"] = true,   -- 100° heronppooy0 -- 28/11 -- <@1436705944607260712>,
+    ["rip_Darkinho25"] = true,   -- 101° rip_Darkinho25 -- 06/12 -- <@1432874825919234182>
 }
 
 return allowedUsers
