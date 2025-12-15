@@ -101,7 +101,8 @@ allowedUsers = {
     ["rip_Darkinho25"] = true,   -- 101° rip_Darkinho25 -- 06/12 -- <@1432874825919234182>,
     ["Miguel_kekel8"] = true,   -- 102° Miguel_kekel8 -- 20/12 -- <@1387934502038409319>,
     ["Timmjhhy"] = true,   -- 103° Timmjhhy -- permanente -- <@1072254599278379088>,
-    ["Wiywuwgwuge"] = true,   -- 104° Wiywuwgwuge -- 18/12 -- <@1328721951497125972>
+    ["Wiywuwgwuge"] = true,   -- 104° Wiywuwgwuge -- 18/12 -- <@1328721951497125972>,
+    ["gsibdkgskgskgk"] = true,   -- 105° gsibdkgskgskgk -- 22/12 -- <@1161046424390209706>
 }
 
 return allowedUsers
