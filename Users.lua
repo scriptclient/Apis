@@ -104,7 +104,8 @@ allowedUsers = {
     ["Wiywuwgwuge"] = true,   -- 104° Wiywuwgwuge -- 18/12 -- <@1328721951497125972>,
     ["gsibdkgskgskgk"] = true,   -- 105° gsibdkgskgskgk -- 22/12 -- <@1161046424390209706>,
     ["matheuzinho_games2"] = true,   -- 106° matheuzinho_games2 -- 27/12 -- <@1259189325720064075>,
-    ["N4NDOS2"] = true,   -- 107° N4NDOS2 -- Perm -- <@1071176924094803989>
+    ["N4NDOS2"] = true,   -- 107° N4NDOS2 -- Perm -- <@1071176924094803989>,
+    ["magal12688"] = true,   -- 108° magal12688 -- 14/01 -- <@1431442263199973377>
 }
 
 return allowedUsers
